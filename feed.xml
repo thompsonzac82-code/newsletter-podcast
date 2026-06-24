@@ -3,31 +3,39 @@
   <channel>
     <title>My Daily Newsletter Digest</title>
     <link>https://thompsonzac82-code.github.io/newsletter-podcast/feed.xml</link>
-    <description>An automatically generated audio digest of my email newsletters.</description>
+    <description>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</description>
     <atom:link href="https://thompsonzac82-code.github.io/newsletter-podcast/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg</url>
+      <title>My Daily Newsletter Digest</title>
+      <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 19:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:10:51 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
+    <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:summary>An automatically generated audio digest of my email newsletters.</itunes:summary>
+    <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, June 24, 2026</title>
-      <description>Your newsletter digest for Wednesday, June 24, 2026.</description>
+      <description>Today's episode centers on AI entering the workplace, leading with Anthropic's Claude Tag, which embeds Claude into Slack as a delegatable "team member," and a Confidential Computing Summit push for data decentralization and agent security. It also covers how AI is reshaping hiring and the skills employers now want, Meta's cheaper $299 smart glasses, Stanford's new Proto framework for combining AI biology models, and a rapid-fire roundup including Nvidia's BioNeMo toolkit, new OCR and voice models, and government scrutiny of Meta's AI.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-24.mp3</guid>
       <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-24.mp3" length="5670476" type="audio/mpeg"/>
       <pubDate>Wed, 24 Jun 2026 19:48:07 +0000</pubDate>
       <itunes:duration>11:48</itunes:duration>
+      <itunes:summary>Today's episode centers on AI entering the workplace, leading with Anthropic's Claude Tag, which embeds Claude into Slack as a delegatable "team member," and a Confidential Computing Summit push for data decentralization and agent security. It also covers how AI is reshaping hiring and the skills employers now want, Meta's cheaper $299 smart glasses, Stanford's new Proto framework for combining AI biology models, and a rapid-fire roundup including Nvidia's BioNeMo toolkit, new OCR and voice models, and government scrutiny of Meta's AI.</itunes:summary>
     </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, June 22, 2026</title>
-      <description>Your newsletter digest for Monday, June 22, 2026.</description>
+      <description>This episode covers the escalating standoff between Anthropic and the U.S. government over export controls on its top models, including a "Free Fable" letter from security researchers and tensions at the G7 AI summit. It also tracks Google DeepMind's loss of star researchers Noam Shazeer and John Jumper, dueling studies on whether AI augments or eliminates jobs, Snap's new true-AR Specs, and Midjourney's surprise full-body medical scanner and spa plans. Other stories include SpaceX's sixty-billion-dollar acquisition of Cursor, enterprise "token panic" over AI costs, Databricks' open-systems strategy, agent governance, China's rising AI standing, and shifting public sentiment toward the technology.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-22.mp3</guid>
       <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-22.mp3" length="11141324" type="audio/mpeg"/>
       <pubDate>Mon, 22 Jun 2026 19:55:21 +0000</pubDate>
       <itunes:duration>23:12</itunes:duration>
+      <itunes:summary>This episode covers the escalating standoff between Anthropic and the U.S. government over export controls on its top models, including a "Free Fable" letter from security researchers and tensions at the G7 AI summit. It also tracks Google DeepMind's loss of star researchers Noam Shazeer and John Jumper, dueling studies on whether AI augments or eliminates jobs, Snap's new true-AR Specs, and Midjourney's surprise full-body medical scanner and spa plans. Other stories include SpaceX's sixty-billion-dollar acquisition of Cursor, enterprise "token panic" over AI costs, Databricks' open-systems strategy, agent governance, China's rising AI standing, and shifting public sentiment toward the technology.</itunes:summary>
     </item>
   </channel>
 </rss>
