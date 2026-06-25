@@ -14,5 +14,13 @@
     "pub_date": "2026-06-24T19:48:07.228868+00:00",
     "duration_seconds": 708,
     "size_bytes": 5670476
+  },
+  {
+    "filename": "2026-06-25.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, June 25, 2026",
+    "description": "OpenAI launches its first custom inference chip, Jalape\u00f1o, built with Broadcom, as the company pushes to own every layer of the AI stack. The episode also covers KPMG data on how workers are adopting AI agents, Figma's new \"team sport\" AI tools from its Config event, a $500 million nonprofit called Intercept aiming to end the common cold, and the latest developments in Anthropic's regulatory standoff with the government. Plus quick hits on AI talent moves, Google DeepMind's Gemini computer-use feature, a World Cup ticket-scouting tip, and a reader's Claude-built app for selective mutism.",
+    "pub_date": "2026-06-25T16:04:11.151248+00:00",
+    "duration_seconds": 713,
+    "size_bytes": 5707148
   }
 ]

@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 20:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:04:11 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, June 25, 2026</title>
+      <description>OpenAI launches its first custom inference chip, Jalapeño, built with Broadcom, as the company pushes to own every layer of the AI stack. The episode also covers KPMG data on how workers are adopting AI agents, Figma's new "team sport" AI tools from its Config event, a $500 million nonprofit called Intercept aiming to end the common cold, and the latest developments in Anthropic's regulatory standoff with the government. Plus quick hits on AI talent moves, Google DeepMind's Gemini computer-use feature, a World Cup ticket-scouting tip, and a reader's Claude-built app for selective mutism.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-25.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-25.mp3" length="5707148" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jun 2026 16:04:11 +0000</pubDate>
+      <itunes:duration>11:53</itunes:duration>
+      <itunes:summary>OpenAI launches its first custom inference chip, Jalapeño, built with Broadcom, as the company pushes to own every layer of the AI stack. The episode also covers KPMG data on how workers are adopting AI agents, Figma's new "team sport" AI tools from its Config event, a $500 million nonprofit called Intercept aiming to end the common cold, and the latest developments in Anthropic's regulatory standoff with the government. Plus quick hits on AI talent moves, Google DeepMind's Gemini computer-use feature, a World Cup ticket-scouting tip, and a reader's Claude-built app for selective mutism.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, June 24, 2026</title>
       <description>Today's episode centers on AI entering the workplace, leading with Anthropic's Claude Tag, which embeds Claude into Slack as a delegatable "team member," and a Confidential Computing Summit push for data decentralization and agent security. It also covers how AI is reshaping hiring and the skills employers now want, Meta's cheaper $299 smart glasses, Stanford's new Proto framework for combining AI biology models, and a rapid-fire roundup including Nvidia's BioNeMo toolkit, new OCR and voice models, and government scrutiny of Meta's AI.</description>
