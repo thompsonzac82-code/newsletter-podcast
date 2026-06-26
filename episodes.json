@@ -22,5 +22,13 @@
     "pub_date": "2026-06-25T16:04:11.151248+00:00",
     "duration_seconds": 713,
     "size_bytes": 5707148
+  },
+  {
+    "filename": "2026-06-26.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, June 26, 2026",
+    "description": "This episode digs into the rise of AI agents and the guardrails forming around them, starting with OpenAI's new research showing agents like Codex overtaking chatbots in the workplace, followed by the $500 million bipartisan Raise Us initiative aimed at heading off AI-driven job disruption. It also covers a push to secure agents at the chip level from the Confidential Computing Summit, the Trump administration limiting the release of OpenAI's GPT-5.6, and Anthropic accusing Alibaba of a massive Claude data-harvesting attack. Quicker hits include Meta's Virtue AI hires, Apple price increases, new Excel Copilot tools, and a media founder's reflections on AI avatars and authenticity.",
+    "pub_date": "2026-06-26T16:04:04.836478+00:00",
+    "duration_seconds": 677,
+    "size_bytes": 5423948
   }
 ]
