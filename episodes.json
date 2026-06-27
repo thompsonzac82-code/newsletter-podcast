@@ -30,5 +30,13 @@
     "pub_date": "2026-06-26T16:04:04.836478+00:00",
     "duration_seconds": 677,
     "size_bytes": 5423948
+  },
+  {
+    "filename": "2026-06-27.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, June 27, 2026",
+    "description": "This episode focuses on the security risks of autonomous AI coding agents like Claude Code, explaining the \"lethal trifecta\" of internet access, broad permissions, and sensitive code that makes running them on personal laptops dangerous. Drawing on a special edition of The Deep View in partnership with Coder, it covers why IT teams block these tools, the irony that those who'd benefit most can't get access, and a proposed fix: moving agents to pre-hardened, centrally governed remote cloud environments. It closes with the bigger picture of running fleets of audited agents in parallel as a standard way of working.",
+    "pub_date": "2026-06-27T16:23:51.689979+00:00",
+    "duration_seconds": 247,
+    "size_bytes": 1977164
   }
 ]

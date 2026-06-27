@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 16:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 16:23:51 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, June 27, 2026</title>
+      <description>This episode focuses on the security risks of autonomous AI coding agents like Claude Code, explaining the "lethal trifecta" of internet access, broad permissions, and sensitive code that makes running them on personal laptops dangerous. Drawing on a special edition of The Deep View in partnership with Coder, it covers why IT teams block these tools, the irony that those who'd benefit most can't get access, and a proposed fix: moving agents to pre-hardened, centrally governed remote cloud environments. It closes with the bigger picture of running fleets of audited agents in parallel as a standard way of working.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-27.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-27.mp3" length="1977164" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jun 2026 16:23:51 +0000</pubDate>
+      <itunes:duration>4:07</itunes:duration>
+      <itunes:summary>This episode focuses on the security risks of autonomous AI coding agents like Claude Code, explaining the "lethal trifecta" of internet access, broad permissions, and sensitive code that makes running them on personal laptops dangerous. Drawing on a special edition of The Deep View in partnership with Coder, it covers why IT teams block these tools, the irony that those who'd benefit most can't get access, and a proposed fix: moving agents to pre-hardened, centrally governed remote cloud environments. It closes with the bigger picture of running fleets of audited agents in parallel as a standard way of working.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, June 26, 2026</title>
       <description>This episode digs into the rise of AI agents and the guardrails forming around them, starting with OpenAI's new research showing agents like Codex overtaking chatbots in the workplace, followed by the $500 million bipartisan Raise Us initiative aimed at heading off AI-driven job disruption. It also covers a push to secure agents at the chip level from the Confidential Computing Summit, the Trump administration limiting the release of OpenAI's GPT-5.6, and Anthropic accusing Alibaba of a massive Claude data-harvesting attack. Quicker hits include Meta's Virtue AI hires, Apple price increases, new Excel Copilot tools, and a media founder's reflections on AI avatars and authenticity.</description>
