@@ -62,5 +62,13 @@
     "pub_date": "2026-07-01T12:00:00+00:00",
     "duration_seconds": 595,
     "size_bytes": 4761356
+  },
+  {
+    "filename": "2026-07-02.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, July 2, 2026",
+    "description": "The lead story covers the US Commerce Department lifting export controls on Anthropic's frontier models Mythos and Fable five after a three-week standoff, plus OpenAI's parallel restriction on GPT five point six, and what these government-brokered safety terms mean as a possible new precedent for frontier AI launches. The episode also explores the booming rise of forward deployed engineers and AWS's billion-dollar bet on them, Apple's long-game silicon strategy for on-device AI, Meta's plan to rent out spare data center capacity, and a new Remote Labor Index benchmark showing AI's growing ability to handle real freelance work. Rounding it out are quick headlines on major AI fundraises, new research benchmarks and tools, and a spotlight on a solo founder running nine ventures with a two-Claude workflow.",
+    "pub_date": "2026-07-02T16:04:10.575767+00:00",
+    "duration_seconds": 745,
+    "size_bytes": 5962316
   }
 ]
