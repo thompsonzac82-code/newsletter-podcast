@@ -38,5 +38,29 @@
     "pub_date": "2026-06-27T16:23:51.689979+00:00",
     "duration_seconds": 247,
     "size_bytes": 1977164
+  },
+  {
+    "filename": "2026-06-29.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, June 29, 2026",
+    "description": "Today's episode centers on OpenAI's release of GPT-5.6, a three-tier model family (Sol, Terra, and Luna) that tops key benchmarks but remains restricted to a handful of government-vetted partners, alongside shifting frontier competition from Anthropic, Grok, and Chinese labs. It also covers Google Research's push to use AI for scientific discovery, a study showing most workplaces lack AI guidance and training, and new figures on the staggering economics of the generative AI industry, including revenue growth, token usage, and surging electricity demand. Rounding it out are practical AI use cases, compute capacity squeezes, and quick hits on Codex, OpenAI hires, and new funding.",
+    "pub_date": "2026-06-29T12:00:00+00:00",
+    "duration_seconds": 665,
+    "size_bytes": 5325068
+  },
+  {
+    "filename": "2026-06-30.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, June 30, 2026",
+    "description": "Today's episode explores the practical realities of deploying AI, starting with Ford rehiring 350 veteran engineers after over-relying on automation, and the broader case for augmentation over replacement. It also covers Qualcomm's push into AI data centers with its Dragonfly brand and Modular acquisition that could challenge Nvidia's CUDA dominance, Anthropic's discounted Claude deal with the state of California, and Meta's non-invasive Brain2Qwerty system that decodes typed sentences from brain scans. Rounding it out are quick hits on Cursor's new mobile app, Anthropic's Economic Index, an Apple exec's move to OpenAI, South Korea's chip investment plan, and more.",
+    "pub_date": "2026-06-30T12:00:00+00:00",
+    "duration_seconds": 680,
+    "size_bytes": 5446220
+  },
+  {
+    "filename": "2026-07-01.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, July 1, 2026",
+    "description": "Today's episode covers Anthropic's new efficiency-focused Sonnet five model and the return of its export-blocked Fable five and Mythos five models, plus Google's two new creative AI tools, Nano Banana two Lite and Gemini Omni Flash, amid backlash over its A24 film partnership. It also digs into the industry-wide push into scientific research, led by Anthropic's new Claude Science workbench, and closes with quick hits on OpenAI's compute breakthrough, chipmaker Etched's funding, AWS's engineering investment, and a listener's marathon-training success using ChatGPT.",
+    "pub_date": "2026-07-01T12:00:00+00:00",
+    "duration_seconds": 595,
+    "size_bytes": 4761356
   }
 ]

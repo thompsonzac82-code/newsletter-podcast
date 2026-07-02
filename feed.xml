@@ -13,12 +13,39 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 16:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 06:32:09 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, July 1, 2026</title>
+      <description>Today's episode covers Anthropic's new efficiency-focused Sonnet five model and the return of its export-blocked Fable five and Mythos five models, plus Google's two new creative AI tools, Nano Banana two Lite and Gemini Omni Flash, amid backlash over its A24 film partnership. It also digs into the industry-wide push into scientific research, led by Anthropic's new Claude Science workbench, and closes with quick hits on OpenAI's compute breakthrough, chipmaker Etched's funding, AWS's engineering investment, and a listener's marathon-training success using ChatGPT.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-01.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-01.mp3" length="4761356" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>9:55</itunes:duration>
+      <itunes:summary>Today's episode covers Anthropic's new efficiency-focused Sonnet five model and the return of its export-blocked Fable five and Mythos five models, plus Google's two new creative AI tools, Nano Banana two Lite and Gemini Omni Flash, amid backlash over its A24 film partnership. It also digs into the industry-wide push into scientific research, led by Anthropic's new Claude Science workbench, and closes with quick hits on OpenAI's compute breakthrough, chipmaker Etched's funding, AWS's engineering investment, and a listener's marathon-training success using ChatGPT.</itunes:summary>
+    </item>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, June 30, 2026</title>
+      <description>Today's episode explores the practical realities of deploying AI, starting with Ford rehiring 350 veteran engineers after over-relying on automation, and the broader case for augmentation over replacement. It also covers Qualcomm's push into AI data centers with its Dragonfly brand and Modular acquisition that could challenge Nvidia's CUDA dominance, Anthropic's discounted Claude deal with the state of California, and Meta's non-invasive Brain2Qwerty system that decodes typed sentences from brain scans. Rounding it out are quick hits on Cursor's new mobile app, Anthropic's Economic Index, an Apple exec's move to OpenAI, South Korea's chip investment plan, and more.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-30.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-30.mp3" length="5446220" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>11:20</itunes:duration>
+      <itunes:summary>Today's episode explores the practical realities of deploying AI, starting with Ford rehiring 350 veteran engineers after over-relying on automation, and the broader case for augmentation over replacement. It also covers Qualcomm's push into AI data centers with its Dragonfly brand and Modular acquisition that could challenge Nvidia's CUDA dominance, Anthropic's discounted Claude deal with the state of California, and Meta's non-invasive Brain2Qwerty system that decodes typed sentences from brain scans. Rounding it out are quick hits on Cursor's new mobile app, Anthropic's Economic Index, an Apple exec's move to OpenAI, South Korea's chip investment plan, and more.</itunes:summary>
+    </item>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, June 29, 2026</title>
+      <description>Today's episode centers on OpenAI's release of GPT-5.6, a three-tier model family (Sol, Terra, and Luna) that tops key benchmarks but remains restricted to a handful of government-vetted partners, alongside shifting frontier competition from Anthropic, Grok, and Chinese labs. It also covers Google Research's push to use AI for scientific discovery, a study showing most workplaces lack AI guidance and training, and new figures on the staggering economics of the generative AI industry, including revenue growth, token usage, and surging electricity demand. Rounding it out are practical AI use cases, compute capacity squeezes, and quick hits on Codex, OpenAI hires, and new funding.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-29.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-06-29.mp3" length="5325068" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>11:05</itunes:duration>
+      <itunes:summary>Today's episode centers on OpenAI's release of GPT-5.6, a three-tier model family (Sol, Terra, and Luna) that tops key benchmarks but remains restricted to a handful of government-vetted partners, alongside shifting frontier competition from Anthropic, Grok, and Chinese labs. It also covers Google Research's push to use AI for scientific discovery, a study showing most workplaces lack AI guidance and training, and new figures on the staggering economics of the generative AI industry, including revenue growth, token usage, and surging electricity demand. Rounding it out are practical AI use cases, compute capacity squeezes, and quick hits on Codex, OpenAI hires, and new funding.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, June 27, 2026</title>
       <description>This episode focuses on the security risks of autonomous AI coding agents like Claude Code, explaining the "lethal trifecta" of internet access, broad permissions, and sensitive code that makes running them on personal laptops dangerous. Drawing on a special edition of The Deep View in partnership with Coder, it covers why IT teams block these tools, the irony that those who'd benefit most can't get access, and a proposed fix: moving agents to pre-hardened, centrally governed remote cloud environments. It closes with the bigger picture of running fleets of audited agents in parallel as a standard way of working.</description>
