@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 16:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 16:04:26 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, July 3, 2026</title>
+      <description>This episode explores the rise of "world models" in AI—systems that learn physics and spatial reasoning rather than just language—covering the massive early-stage funding flowing to labs like Fei-Fei Li's World Labs and Yann LeCun's AMI Labs, along with the compute and data challenges they face. It also covers Sam Altman's call for U.S.-led AI regulation and his floated idea of giving the government a stake in OpenAI, plus a Thinking Machines/Bridgewater study showing small specialized models can beat frontier models at niche tasks. Rounding it out are a review of Meta's smart glasses and quick headlines on Palantir, Microsoft, Kling AI, SpaceX, and Anthropic's chip ambitions.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-03.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-03.mp3" length="6485516" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jul 2026 16:04:26 +0000</pubDate>
+      <itunes:duration>13:30</itunes:duration>
+      <itunes:summary>This episode explores the rise of "world models" in AI—systems that learn physics and spatial reasoning rather than just language—covering the massive early-stage funding flowing to labs like Fei-Fei Li's World Labs and Yann LeCun's AMI Labs, along with the compute and data challenges they face. It also covers Sam Altman's call for U.S.-led AI regulation and his floated idea of giving the government a stake in OpenAI, plus a Thinking Machines/Bridgewater study showing small specialized models can beat frontier models at niche tasks. Rounding it out are a review of Meta's smart glasses and quick headlines on Palantir, Microsoft, Kling AI, SpaceX, and Anthropic's chip ambitions.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, July 2, 2026</title>
       <description>The lead story covers the US Commerce Department lifting export controls on Anthropic's frontier models Mythos and Fable five after a three-week standoff, plus OpenAI's parallel restriction on GPT five point six, and what these government-brokered safety terms mean as a possible new precedent for frontier AI launches. The episode also explores the booming rise of forward deployed engineers and AWS's billion-dollar bet on them, Apple's long-game silicon strategy for on-device AI, Meta's plan to rent out spare data center capacity, and a new Remote Labor Index benchmark showing AI's growing ability to handle real freelance work. Rounding it out are quick headlines on major AI fundraises, new research benchmarks and tools, and a spotlight on a solo founder running nine ventures with a two-Claude workflow.</description>

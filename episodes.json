@@ -70,5 +70,13 @@
     "pub_date": "2026-07-02T16:04:10.575767+00:00",
     "duration_seconds": 745,
     "size_bytes": 5962316
+  },
+  {
+    "filename": "2026-07-03.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, July 3, 2026",
+    "description": "This episode explores the rise of \"world models\" in AI\u2014systems that learn physics and spatial reasoning rather than just language\u2014covering the massive early-stage funding flowing to labs like Fei-Fei Li's World Labs and Yann LeCun's AMI Labs, along with the compute and data challenges they face. It also covers Sam Altman's call for U.S.-led AI regulation and his floated idea of giving the government a stake in OpenAI, plus a Thinking Machines/Bridgewater study showing small specialized models can beat frontier models at niche tasks. Rounding it out are a review of Meta's smart glasses and quick headlines on Palantir, Microsoft, Kling AI, SpaceX, and Anthropic's chip ambitions.",
+    "pub_date": "2026-07-03T16:04:26.060704+00:00",
+    "duration_seconds": 810,
+    "size_bytes": 6485516
   }
 ]
