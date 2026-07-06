@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 16:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 16:04:55 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, July 6, 2026</title>
+      <description>This episode leads with a Ramp/Revelio Labs study showing heavy AI-adopting companies actually grew headcount and entry-level hiring, then examines Luma's case that world models rather than LLMs will deliver physical intelligence, and how Google Research uses AI agents to accelerate scientific discovery. It also covers the frontier lab race, including Meta's "Watermelon" model, Anthropic's Claude Fable and Alibaba's Claude ban, plus policy moves like OpenAI's proposed government stake. Rounding it out are new gadgets (a home robot, a stripped-down AI kids' phone, a smart ring, a Teddy Roosevelt AI avatar), the Midjourney-versus-studios copyright fight, and real-world reader examples of using AI as a travel guide and personal dashboard.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-06.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-06.mp3" length="6158540" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jul 2026 16:04:55 +0000</pubDate>
+      <itunes:duration>12:49</itunes:duration>
+      <itunes:summary>This episode leads with a Ramp/Revelio Labs study showing heavy AI-adopting companies actually grew headcount and entry-level hiring, then examines Luma's case that world models rather than LLMs will deliver physical intelligence, and how Google Research uses AI agents to accelerate scientific discovery. It also covers the frontier lab race, including Meta's "Watermelon" model, Anthropic's Claude Fable and Alibaba's Claude ban, plus policy moves like OpenAI's proposed government stake. Rounding it out are new gadgets (a home robot, a stripped-down AI kids' phone, a smart ring, a Teddy Roosevelt AI avatar), the Midjourney-versus-studios copyright fight, and real-world reader examples of using AI as a travel guide and personal dashboard.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, July 3, 2026</title>
       <description>This episode explores the rise of "world models" in AI—systems that learn physics and spatial reasoning rather than just language—covering the massive early-stage funding flowing to labs like Fei-Fei Li's World Labs and Yann LeCun's AMI Labs, along with the compute and data challenges they face. It also covers Sam Altman's call for U.S.-led AI regulation and his floated idea of giving the government a stake in OpenAI, plus a Thinking Machines/Bridgewater study showing small specialized models can beat frontier models at niche tasks. Rounding it out are a review of Meta's smart glasses and quick headlines on Palantir, Microsoft, Kling AI, SpaceX, and Anthropic's chip ambitions.</description>

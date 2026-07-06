@@ -78,5 +78,13 @@
     "pub_date": "2026-07-03T16:04:26.060704+00:00",
     "duration_seconds": 810,
     "size_bytes": 6485516
+  },
+  {
+    "filename": "2026-07-06.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, July 6, 2026",
+    "description": "This episode leads with a Ramp/Revelio Labs study showing heavy AI-adopting companies actually grew headcount and entry-level hiring, then examines Luma's case that world models rather than LLMs will deliver physical intelligence, and how Google Research uses AI agents to accelerate scientific discovery. It also covers the frontier lab race, including Meta's \"Watermelon\" model, Anthropic's Claude Fable and Alibaba's Claude ban, plus policy moves like OpenAI's proposed government stake. Rounding it out are new gadgets (a home robot, a stripped-down AI kids' phone, a smart ring, a Teddy Roosevelt AI avatar), the Midjourney-versus-studios copyright fight, and real-world reader examples of using AI as a travel guide and personal dashboard.",
+    "pub_date": "2026-07-06T16:04:55.101243+00:00",
+    "duration_seconds": 769,
+    "size_bytes": 6158540
   }
 ]
