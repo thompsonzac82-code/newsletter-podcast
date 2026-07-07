@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 16:04:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:04:27 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, July 7, 2026</title>
+      <description>Today's digest centers on Anthropic, covering new Claude cost-control tools for enterprises amid soaring AI spending, plus research revealing an emergent brain-like internal workspace called J-space inside the model. It also breaks down Illinois's landmark AI safety audit law, Reddit's use of AI to fight AI slop and the bias risks that entails, and a round of industry moves including xAI's rebrand to SpaceXAI, Tencent's open-source Hunyuan Hy3, an engine-free Rocket League world model, and various new AI tools.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-07.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-07.mp3" length="5714060" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Jul 2026 16:04:27 +0000</pubDate>
+      <itunes:duration>11:54</itunes:duration>
+      <itunes:summary>Today's digest centers on Anthropic, covering new Claude cost-control tools for enterprises amid soaring AI spending, plus research revealing an emergent brain-like internal workspace called J-space inside the model. It also breaks down Illinois's landmark AI safety audit law, Reddit's use of AI to fight AI slop and the bias risks that entails, and a round of industry moves including xAI's rebrand to SpaceXAI, Tencent's open-source Hunyuan Hy3, an engine-free Rocket League world model, and various new AI tools.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, July 6, 2026</title>
       <description>This episode leads with a Ramp/Revelio Labs study showing heavy AI-adopting companies actually grew headcount and entry-level hiring, then examines Luma's case that world models rather than LLMs will deliver physical intelligence, and how Google Research uses AI agents to accelerate scientific discovery. It also covers the frontier lab race, including Meta's "Watermelon" model, Anthropic's Claude Fable and Alibaba's Claude ban, plus policy moves like OpenAI's proposed government stake. Rounding it out are new gadgets (a home robot, a stripped-down AI kids' phone, a smart ring, a Teddy Roosevelt AI avatar), the Midjourney-versus-studios copyright fight, and real-world reader examples of using AI as a travel guide and personal dashboard.</description>

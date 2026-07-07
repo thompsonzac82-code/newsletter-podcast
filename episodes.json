@@ -86,5 +86,13 @@
     "pub_date": "2026-07-06T16:04:55.101243+00:00",
     "duration_seconds": 769,
     "size_bytes": 6158540
+  },
+  {
+    "filename": "2026-07-07.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, July 7, 2026",
+    "description": "Today's digest centers on Anthropic, covering new Claude cost-control tools for enterprises amid soaring AI spending, plus research revealing an emergent brain-like internal workspace called J-space inside the model. It also breaks down Illinois's landmark AI safety audit law, Reddit's use of AI to fight AI slop and the bias risks that entails, and a round of industry moves including xAI's rebrand to SpaceXAI, Tencent's open-source Hunyuan Hy3, an engine-free Rocket League world model, and various new AI tools.",
+    "pub_date": "2026-07-07T16:04:27.271074+00:00",
+    "duration_seconds": 714,
+    "size_bytes": 5714060
   }
 ]
