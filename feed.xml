@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 16:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:04:39 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, July 8, 2026</title>
+      <description>Today's episode covers Microsoft swapping OpenAI and Anthropic models for its cheaper in-house MAI systems inside Office apps, a DigiCert report warning that AI adoption is outpacing security, and former Tesla scientist Remi Cadène's European robotics startup UMA. Also featured: Meta's new Muse Image and Video models, China weighing restrictions on foreign use of its top AI models, DoorDash's DashBench for evaluating AI code reviewers, and a lightning round of funding, tool launches, and industry news.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-08.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-08.mp3" length="6011660" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jul 2026 16:04:39 +0000</pubDate>
+      <itunes:duration>12:31</itunes:duration>
+      <itunes:summary>Today's episode covers Microsoft swapping OpenAI and Anthropic models for its cheaper in-house MAI systems inside Office apps, a DigiCert report warning that AI adoption is outpacing security, and former Tesla scientist Remi Cadène's European robotics startup UMA. Also featured: Meta's new Muse Image and Video models, China weighing restrictions on foreign use of its top AI models, DoorDash's DashBench for evaluating AI code reviewers, and a lightning round of funding, tool launches, and industry news.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, July 7, 2026</title>
       <description>Today's digest centers on Anthropic, covering new Claude cost-control tools for enterprises amid soaring AI spending, plus research revealing an emergent brain-like internal workspace called J-space inside the model. It also breaks down Illinois's landmark AI safety audit law, Reddit's use of AI to fight AI slop and the bias risks that entails, and a round of industry moves including xAI's rebrand to SpaceXAI, Tencent's open-source Hunyuan Hy3, an engine-free Rocket League world model, and various new AI tools.</description>

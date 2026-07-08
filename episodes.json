@@ -94,5 +94,13 @@
     "pub_date": "2026-07-07T16:04:27.271074+00:00",
     "duration_seconds": 714,
     "size_bytes": 5714060
+  },
+  {
+    "filename": "2026-07-08.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, July 8, 2026",
+    "description": "Today's episode covers Microsoft swapping OpenAI and Anthropic models for its cheaper in-house MAI systems inside Office apps, a DigiCert report warning that AI adoption is outpacing security, and former Tesla scientist Remi Cad\u00e8ne's European robotics startup UMA. Also featured: Meta's new Muse Image and Video models, China weighing restrictions on foreign use of its top AI models, DoorDash's DashBench for evaluating AI code reviewers, and a lightning round of funding, tool launches, and industry news.",
+    "pub_date": "2026-07-08T16:04:39.712122+00:00",
+    "duration_seconds": 751,
+    "size_bytes": 6011660
   }
 ]
