@@ -102,5 +102,13 @@
     "pub_date": "2026-07-08T16:04:39.712122+00:00",
     "duration_seconds": 751,
     "size_bytes": 6011660
+  },
+  {
+    "filename": "2026-07-09.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, July 9, 2026",
+    "description": "This episode covers OpenAI's new full-duplex GPT-Live voice technology and what it means for trust and accuracy, plus the surprise release of a fast, cheap Grok 4.5 from the combined SpaceXAI and Cursor. It also digs into the escalating US-China standoff over restricting access to frontier and open-weight AI models, and new Oxford research showing how many people now rely on chatbots for emotional support and health advice. Rounding it out are quick hits on ByteDance's Seedream 5.0 image model, a Higgsfield CGI guide, and news from Cognition, MiniMax, Prime Intellect, and Apple's Broadcom chip deal.",
+    "pub_date": "2026-07-09T16:04:14.396361+00:00",
+    "duration_seconds": 675,
+    "size_bytes": 5403020
   }
 ]

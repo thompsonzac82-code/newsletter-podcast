@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 16:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:04:14 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, July 9, 2026</title>
+      <description>This episode covers OpenAI's new full-duplex GPT-Live voice technology and what it means for trust and accuracy, plus the surprise release of a fast, cheap Grok 4.5 from the combined SpaceXAI and Cursor. It also digs into the escalating US-China standoff over restricting access to frontier and open-weight AI models, and new Oxford research showing how many people now rely on chatbots for emotional support and health advice. Rounding it out are quick hits on ByteDance's Seedream 5.0 image model, a Higgsfield CGI guide, and news from Cognition, MiniMax, Prime Intellect, and Apple's Broadcom chip deal.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-09.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-09.mp3" length="5403020" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jul 2026 16:04:14 +0000</pubDate>
+      <itunes:duration>11:15</itunes:duration>
+      <itunes:summary>This episode covers OpenAI's new full-duplex GPT-Live voice technology and what it means for trust and accuracy, plus the surprise release of a fast, cheap Grok 4.5 from the combined SpaceXAI and Cursor. It also digs into the escalating US-China standoff over restricting access to frontier and open-weight AI models, and new Oxford research showing how many people now rely on chatbots for emotional support and health advice. Rounding it out are quick hits on ByteDance's Seedream 5.0 image model, a Higgsfield CGI guide, and news from Cognition, MiniMax, Prime Intellect, and Apple's Broadcom chip deal.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, July 8, 2026</title>
       <description>Today's episode covers Microsoft swapping OpenAI and Anthropic models for its cheaper in-house MAI systems inside Office apps, a DigiCert report warning that AI adoption is outpacing security, and former Tesla scientist Remi Cadène's European robotics startup UMA. Also featured: Meta's new Muse Image and Video models, China weighing restrictions on foreign use of its top AI models, DoorDash's DashBench for evaluating AI code reviewers, and a lightning round of funding, tool launches, and industry news.</description>
