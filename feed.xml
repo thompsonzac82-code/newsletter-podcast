@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 16:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:06:06 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, July 10, 2026</title>
+      <description>Today's episode leads with OpenAI's GPT 5.6 launch, covering its new Sol, Terra, and Luna model tiers along with major superapp moves like Codex integration, ChatGPT Work, and ChatGPT Sites, plus fast, cheap competition from Meta's Muse Spark 1.1 and xAI's Grok 4.5. It also digs into Anthropic's new usage-reflection dashboard, a gap between executive and manager AI adoption, and Rowan's "top one percent economy" theory. The deep dive examines a New York Times investigation into misinformation in Google's AI Overviews, why hallucinations are inherent to language models, and why users tend to trust confident answers, closing with quick hits on Reve, SWE-Bench Pro, RobbyAnt, Meta's Iris chip, and Ollama's funding.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-10.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-10.mp3" length="8143628" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jul 2026 16:06:06 +0000</pubDate>
+      <itunes:duration>16:57</itunes:duration>
+      <itunes:summary>Today's episode leads with OpenAI's GPT 5.6 launch, covering its new Sol, Terra, and Luna model tiers along with major superapp moves like Codex integration, ChatGPT Work, and ChatGPT Sites, plus fast, cheap competition from Meta's Muse Spark 1.1 and xAI's Grok 4.5. It also digs into Anthropic's new usage-reflection dashboard, a gap between executive and manager AI adoption, and Rowan's "top one percent economy" theory. The deep dive examines a New York Times investigation into misinformation in Google's AI Overviews, why hallucinations are inherent to language models, and why users tend to trust confident answers, closing with quick hits on Reve, SWE-Bench Pro, RobbyAnt, Meta's Iris chip, and Ollama's funding.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, July 9, 2026</title>
       <description>This episode covers OpenAI's new full-duplex GPT-Live voice technology and what it means for trust and accuracy, plus the surprise release of a fast, cheap Grok 4.5 from the combined SpaceXAI and Cursor. It also digs into the escalating US-China standoff over restricting access to frontier and open-weight AI models, and new Oxford research showing how many people now rely on chatbots for emotional support and health advice. Rounding it out are quick hits on ByteDance's Seedream 5.0 image model, a Higgsfield CGI guide, and news from Cognition, MiniMax, Prime Intellect, and Apple's Broadcom chip deal.</description>
