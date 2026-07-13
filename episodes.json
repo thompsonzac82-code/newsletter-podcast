@@ -118,5 +118,13 @@
     "pub_date": "2026-07-10T16:06:06.698701+00:00",
     "duration_seconds": 1017,
     "size_bytes": 8143628
+  },
+  {
+    "filename": "2026-07-13.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, July 13, 2026",
+    "description": "Apple's new lawsuit against OpenAI leads today's episode, alleging that former Apple employees smuggled trade secrets to jumpstart OpenAI's Jony Ive-led hardware devices. Also covered: Meta pulling its Muse Image feature after a privacy backlash, IBM's push for sovereign AI, the AI Futures Project's new \"AI 2040\" scenario research, and a roundup of fresh model releases and staff departures at OpenAI, plus updates from Runway, Anthropic, and Google.",
+    "pub_date": "2026-07-13T16:04:47.244980+00:00",
+    "duration_seconds": 715,
+    "size_bytes": 5725196
   }
 ]

@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 16:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 16:04:47 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, July 13, 2026</title>
+      <description>Apple's new lawsuit against OpenAI leads today's episode, alleging that former Apple employees smuggled trade secrets to jumpstart OpenAI's Jony Ive-led hardware devices. Also covered: Meta pulling its Muse Image feature after a privacy backlash, IBM's push for sovereign AI, the AI Futures Project's new "AI 2040" scenario research, and a roundup of fresh model releases and staff departures at OpenAI, plus updates from Runway, Anthropic, and Google.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-13.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-13.mp3" length="5725196" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jul 2026 16:04:47 +0000</pubDate>
+      <itunes:duration>11:55</itunes:duration>
+      <itunes:summary>Apple's new lawsuit against OpenAI leads today's episode, alleging that former Apple employees smuggled trade secrets to jumpstart OpenAI's Jony Ive-led hardware devices. Also covered: Meta pulling its Muse Image feature after a privacy backlash, IBM's push for sovereign AI, the AI Futures Project's new "AI 2040" scenario research, and a roundup of fresh model releases and staff departures at OpenAI, plus updates from Runway, Anthropic, and Google.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, July 10, 2026</title>
       <description>Today's episode leads with OpenAI's GPT 5.6 launch, covering its new Sol, Terra, and Luna model tiers along with major superapp moves like Codex integration, ChatGPT Work, and ChatGPT Sites, plus fast, cheap competition from Meta's Muse Spark 1.1 and xAI's Grok 4.5. It also digs into Anthropic's new usage-reflection dashboard, a gap between executive and manager AI adoption, and Rowan's "top one percent economy" theory. The deep dive examines a New York Times investigation into misinformation in Google's AI Overviews, why hallucinations are inherent to language models, and why users tend to trust confident answers, closing with quick hits on Reve, SWE-Bench Pro, RobbyAnt, Meta's Iris chip, and Ollama's funding.</description>
