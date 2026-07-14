@@ -126,5 +126,13 @@
     "pub_date": "2026-07-13T16:04:47.244980+00:00",
     "duration_seconds": 715,
     "size_bytes": 5725196
+  },
+  {
+    "filename": "2026-07-14.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, July 14, 2026",
+    "description": "A petition signed by nearly 200 economists and Nobel laureates warns policymakers to prepare now for AI's economic disruption and potential job displacement, though experts remain divided on the impact. The episode also covers the summer price war between OpenAI and Anthropic over their newest models, a hands-on review of Apple's revamped Siri in the new public betas, the renewed Musk-Altman feud, and Anthropic research revealing distinct personalities in Claude models that shift by language. Plus a lightning round of industry news from Microsoft, Meta, and new AI tools.",
+    "pub_date": "2026-07-14T16:04:31.086944+00:00",
+    "duration_seconds": 706,
+    "size_bytes": 5654540
   }
 ]
