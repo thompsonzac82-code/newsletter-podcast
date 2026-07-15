@@ -134,5 +134,13 @@
     "pub_date": "2026-07-14T16:04:31.086944+00:00",
     "duration_seconds": 706,
     "size_bytes": 5654540
+  },
+  {
+    "filename": "2026-07-15.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, July 15, 2026",
+    "description": "Demis Hassabis unveils a concrete blueprint for an independent, FINRA-style body to govern and test frontier AI models, alongside Anthropic research showing how Claude's expressed values shift across models and languages. The episode also covers a new voice-AI benchmark from Hume, a Bloomberg report on OpenAI and Jony Ive's screen-free smart speaker (and Apple's lawsuit), and New York freezing large data center permits. Rounding out are quick hits on Claude for Teachers, funding for Chai Discovery, new model releases, and a listener's Gemini-built project dashboard.",
+    "pub_date": "2026-07-15T16:05:39.339659+00:00",
+    "duration_seconds": 870,
+    "size_bytes": 6963980
   }
 ]
