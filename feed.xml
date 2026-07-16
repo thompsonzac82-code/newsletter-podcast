@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 16:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 16:05:22 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, July 16, 2026</title>
+      <description>OpenAI's push into consumer hardware anchors today's episode, covering reports of a screen-free ChatGPT smart speaker, the newly shipped Codex Micro coding keypad, and the Apple trade-secrets lawsuit that could reshape both. We also cover new AI regulation, including China's ban on romantic chatbots for minors and New York's first-in-the-nation moratorium on hyperscale data centers, plus model launches like Mira Murati's open-weights Inkling and research on self-improving AI. Rounding it out are legal and industry headlines involving Meta layoffs, a Suno source-code leak, and a lightning round of new tools and funding.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-16.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-16.mp3" length="6652364" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 16:05:22 +0000</pubDate>
+      <itunes:duration>13:51</itunes:duration>
+      <itunes:summary>OpenAI's push into consumer hardware anchors today's episode, covering reports of a screen-free ChatGPT smart speaker, the newly shipped Codex Micro coding keypad, and the Apple trade-secrets lawsuit that could reshape both. We also cover new AI regulation, including China's ban on romantic chatbots for minors and New York's first-in-the-nation moratorium on hyperscale data centers, plus model launches like Mira Murati's open-weights Inkling and research on self-improving AI. Rounding it out are legal and industry headlines involving Meta layoffs, a Suno source-code leak, and a lightning round of new tools and funding.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, July 15, 2026</title>
       <description>Demis Hassabis unveils a concrete blueprint for an independent, FINRA-style body to govern and test frontier AI models, alongside Anthropic research showing how Claude's expressed values shift across models and languages. The episode also covers a new voice-AI benchmark from Hume, a Bloomberg report on OpenAI and Jony Ive's screen-free smart speaker (and Apple's lawsuit), and New York freezing large data center permits. Rounding out are quick hits on Claude for Teachers, funding for Chai Discovery, new model releases, and a listener's Gemini-built project dashboard.</description>

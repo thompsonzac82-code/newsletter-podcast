@@ -142,5 +142,13 @@
     "pub_date": "2026-07-15T16:05:39.339659+00:00",
     "duration_seconds": 870,
     "size_bytes": 6963980
+  },
+  {
+    "filename": "2026-07-16.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, July 16, 2026",
+    "description": "OpenAI's push into consumer hardware anchors today's episode, covering reports of a screen-free ChatGPT smart speaker, the newly shipped Codex Micro coding keypad, and the Apple trade-secrets lawsuit that could reshape both. We also cover new AI regulation, including China's ban on romantic chatbots for minors and New York's first-in-the-nation moratorium on hyperscale data centers, plus model launches like Mira Murati's open-weights Inkling and research on self-improving AI. Rounding it out are legal and industry headlines involving Meta layoffs, a Suno source-code leak, and a lightning round of new tools and funding.",
+    "pub_date": "2026-07-16T16:05:22.948614+00:00",
+    "duration_seconds": 831,
+    "size_bytes": 6652364
   }
 ]
