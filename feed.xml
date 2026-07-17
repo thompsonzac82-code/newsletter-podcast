@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 16:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:04:32 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, July 17, 2026</title>
+      <description>The EU has ordered Google to open Android to rival AI assistants and share search data under the Digital Markets Act, while Google reportedly stumbles with more delays to Gemini 3.5 Pro amid talent losses and internal clashes. The episode also covers a wave of open-weight models, including Mira Murati's Inkling from Thinking Labs and Moonshot AI's Kimi K3, being hailed as a possible "DeepSeek moment," plus 1Password's new Claude integration for giving AI agents secure credential access. It closes with thoughts on "AI intuition" as a key skill and a rapid roundup covering Gemini Notebook, Apple Intelligence in China, Roblox, DoorDash, and more.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-17.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-17.mp3" length="5748428" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 16:04:32 +0000</pubDate>
+      <itunes:duration>11:58</itunes:duration>
+      <itunes:summary>The EU has ordered Google to open Android to rival AI assistants and share search data under the Digital Markets Act, while Google reportedly stumbles with more delays to Gemini 3.5 Pro amid talent losses and internal clashes. The episode also covers a wave of open-weight models, including Mira Murati's Inkling from Thinking Labs and Moonshot AI's Kimi K3, being hailed as a possible "DeepSeek moment," plus 1Password's new Claude integration for giving AI agents secure credential access. It closes with thoughts on "AI intuition" as a key skill and a rapid roundup covering Gemini Notebook, Apple Intelligence in China, Roblox, DoorDash, and more.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, July 16, 2026</title>
       <description>OpenAI's push into consumer hardware anchors today's episode, covering reports of a screen-free ChatGPT smart speaker, the newly shipped Codex Micro coding keypad, and the Apple trade-secrets lawsuit that could reshape both. We also cover new AI regulation, including China's ban on romantic chatbots for minors and New York's first-in-the-nation moratorium on hyperscale data centers, plus model launches like Mira Murati's open-weights Inkling and research on self-improving AI. Rounding it out are legal and industry headlines involving Meta layoffs, a Suno source-code leak, and a lightning round of new tools and funding.</description>

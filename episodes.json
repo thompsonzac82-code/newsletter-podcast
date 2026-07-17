@@ -150,5 +150,13 @@
     "pub_date": "2026-07-16T16:05:22.948614+00:00",
     "duration_seconds": 831,
     "size_bytes": 6652364
+  },
+  {
+    "filename": "2026-07-17.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, July 17, 2026",
+    "description": "The EU has ordered Google to open Android to rival AI assistants and share search data under the Digital Markets Act, while Google reportedly stumbles with more delays to Gemini 3.5 Pro amid talent losses and internal clashes. The episode also covers a wave of open-weight models, including Mira Murati's Inkling from Thinking Labs and Moonshot AI's Kimi K3, being hailed as a possible \"DeepSeek moment,\" plus 1Password's new Claude integration for giving AI agents secure credential access. It closes with thoughts on \"AI intuition\" as a key skill and a rapid roundup covering Gemini Notebook, Apple Intelligence in China, Roblox, DoorDash, and more.",
+    "pub_date": "2026-07-17T16:04:32.848461+00:00",
+    "duration_seconds": 718,
+    "size_bytes": 5748428
   }
 ]
