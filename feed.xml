@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 16:04:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 16:01:58 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, July 18, 2026</title>
+      <description>This weekend edition explores how AI is reshaping corporate risk management, drawing on a piece from The Deep View and OneTrust that argues risk should be treated as an enabler of transformation rather than a barrier. It covers the pressures facing chief information security officers, OneTrust's five-stage risk maturity curve and interactive self-assessment, and the growing gap between companies that understand their AI exposure and those stuck in review queues.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-18.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-18.mp3" length="1857548" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jul 2026 16:01:58 +0000</pubDate>
+      <itunes:duration>3:52</itunes:duration>
+      <itunes:summary>This weekend edition explores how AI is reshaping corporate risk management, drawing on a piece from The Deep View and OneTrust that argues risk should be treated as an enabler of transformation rather than a barrier. It covers the pressures facing chief information security officers, OneTrust's five-stage risk maturity curve and interactive self-assessment, and the growing gap between companies that understand their AI exposure and those stuck in review queues.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, July 17, 2026</title>
       <description>The EU has ordered Google to open Android to rival AI assistants and share search data under the Digital Markets Act, while Google reportedly stumbles with more delays to Gemini 3.5 Pro amid talent losses and internal clashes. The episode also covers a wave of open-weight models, including Mira Murati's Inkling from Thinking Labs and Moonshot AI's Kimi K3, being hailed as a possible "DeepSeek moment," plus 1Password's new Claude integration for giving AI agents secure credential access. It closes with thoughts on "AI intuition" as a key skill and a rapid roundup covering Gemini Notebook, Apple Intelligence in China, Roblox, DoorDash, and more.</description>

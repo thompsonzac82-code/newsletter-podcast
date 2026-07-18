@@ -158,5 +158,13 @@
     "pub_date": "2026-07-17T16:04:32.848461+00:00",
     "duration_seconds": 718,
     "size_bytes": 5748428
+  },
+  {
+    "filename": "2026-07-18.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, July 18, 2026",
+    "description": "This weekend edition explores how AI is reshaping corporate risk management, drawing on a piece from The Deep View and OneTrust that argues risk should be treated as an enabler of transformation rather than a barrier. It covers the pressures facing chief information security officers, OneTrust's five-stage risk maturity curve and interactive self-assessment, and the growing gap between companies that understand their AI exposure and those stuck in review queues.",
+    "pub_date": "2026-07-18T16:01:58.399658+00:00",
+    "duration_seconds": 232,
+    "size_bytes": 1857548
   }
 ]
