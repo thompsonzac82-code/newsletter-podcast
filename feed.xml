@@ -13,7 +13,7 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:04:34 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
@@ -21,12 +21,12 @@
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
     <item>
       <title>My Daily Newsletter Digest — Sunday, July 19, 2026</title>
-      <description>This episode features a Deep View interview with Databricks chief AI scientist Jonathan Frankle from the Data and AI Summit, covering how his research team operates as the company's "risk budget" and whether AI has finally delivered on plain-language data analytics through Databricks' Genie products. Frankle also explains why Databricks deliberately rejects vendor lock-in in favor of open formats and interoperable tools like Unity Catalog. The conversation closes on two forward-looking priorities: custom models and what he calls one of the defining challenges of our time, governing AI agents that can act at scale in ways no human would.</description>
+      <description>This episode features an in-depth conversation with Jonathan Frankle, chief AI scientist at Databricks, on how his research team operates and where the company is placing its bets. Topics include whether AI can finally deliver plain-language data analytics through Databricks' Genie products, why the company deliberately rejects AI lock-in in favor of open, interoperable tools, its push toward custom models, and Frankle's argument that governing AI agents is one of the defining problems of our time.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-19.mp3</guid>
-      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-19.mp3" length="3344396" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jul 2026 16:04:21 +0000</pubDate>
-      <itunes:duration>6:57</itunes:duration>
-      <itunes:summary>This episode features a Deep View interview with Databricks chief AI scientist Jonathan Frankle from the Data and AI Summit, covering how his research team operates as the company's "risk budget" and whether AI has finally delivered on plain-language data analytics through Databricks' Genie products. Frankle also explains why Databricks deliberately rejects vendor lock-in in favor of open formats and interoperable tools like Unity Catalog. The conversation closes on two forward-looking priorities: custom models and what he calls one of the defining challenges of our time, governing AI agents that can act at scale in ways no human would.</itunes:summary>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-19.mp3" length="3619724" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 16:04:34 +0000</pubDate>
+      <itunes:duration>7:32</itunes:duration>
+      <itunes:summary>This episode features an in-depth conversation with Jonathan Frankle, chief AI scientist at Databricks, on how his research team operates and where the company is placing its bets. Topics include whether AI can finally deliver plain-language data analytics through Databricks' Genie products, why the company deliberately rejects AI lock-in in favor of open, interoperable tools, its push toward custom models, and Frankle's argument that governing AI agents is one of the defining problems of our time.</itunes:summary>
     </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, July 18, 2026</title>
