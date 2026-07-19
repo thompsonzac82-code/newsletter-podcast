@@ -166,5 +166,13 @@
     "pub_date": "2026-07-18T16:01:58.399658+00:00",
     "duration_seconds": 232,
     "size_bytes": 1857548
+  },
+  {
+    "filename": "2026-07-19.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Sunday, July 19, 2026",
+    "description": "This episode features a Deep View interview with Databricks chief AI scientist Jonathan Frankle from the Data and AI Summit, covering how his research team operates as the company's \"risk budget\" and whether AI has finally delivered on plain-language data analytics through Databricks' Genie products. Frankle also explains why Databricks deliberately rejects vendor lock-in in favor of open formats and interoperable tools like Unity Catalog. The conversation closes on two forward-looking priorities: custom models and what he calls one of the defining challenges of our time, governing AI agents that can act at scale in ways no human would.",
+    "pub_date": "2026-07-19T16:04:21.925303+00:00",
+    "duration_seconds": 417,
+    "size_bytes": 3344396
   }
 ]
