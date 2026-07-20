@@ -174,5 +174,13 @@
     "pub_date": "2026-07-19T16:04:34.804346+00:00",
     "duration_seconds": 452,
     "size_bytes": 3619724
+  },
+  {
+    "filename": "2026-07-20.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, July 20, 2026",
+    "description": "This episode covers the launch of Moonshot AI's Kimi K3, which claims to top rival frontier models even as distillation questions and compute limits temper the hype, plus Anthropic's resolution of its Claude Fable 5 access saga and OpenAI's new \"useful intelligence per dollar\" framework. It also examines creative professionals warming to AI, citing George Lucas and an Adobe survey, and a Forrester report warning that most nations risk becoming dependent on the US-China AI duopoly. A closing roundup touches on Alibaba's Qwen, a SpaceX defense compute deal, MLB banning dugout AI, and new tools like Canva Code and GPT-Live.",
+    "pub_date": "2026-07-20T16:06:11.913846+00:00",
+    "duration_seconds": 663,
+    "size_bytes": 5305292
   }
 ]

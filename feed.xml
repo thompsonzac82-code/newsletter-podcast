@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:06:11 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, July 20, 2026</title>
+      <description>This episode covers the launch of Moonshot AI's Kimi K3, which claims to top rival frontier models even as distillation questions and compute limits temper the hype, plus Anthropic's resolution of its Claude Fable 5 access saga and OpenAI's new "useful intelligence per dollar" framework. It also examines creative professionals warming to AI, citing George Lucas and an Adobe survey, and a Forrester report warning that most nations risk becoming dependent on the US-China AI duopoly. A closing roundup touches on Alibaba's Qwen, a SpaceX defense compute deal, MLB banning dugout AI, and new tools like Canva Code and GPT-Live.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-20.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-20.mp3" length="5305292" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 16:06:11 +0000</pubDate>
+      <itunes:duration>11:03</itunes:duration>
+      <itunes:summary>This episode covers the launch of Moonshot AI's Kimi K3, which claims to top rival frontier models even as distillation questions and compute limits temper the hype, plus Anthropic's resolution of its Claude Fable 5 access saga and OpenAI's new "useful intelligence per dollar" framework. It also examines creative professionals warming to AI, citing George Lucas and an Adobe survey, and a Forrester report warning that most nations risk becoming dependent on the US-China AI duopoly. A closing roundup touches on Alibaba's Qwen, a SpaceX defense compute deal, MLB banning dugout AI, and new tools like Canva Code and GPT-Live.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Sunday, July 19, 2026</title>
       <description>This episode features an in-depth conversation with Jonathan Frankle, chief AI scientist at Databricks, on how his research team operates and where the company is placing its bets. Topics include whether AI can finally deliver plain-language data analytics through Databricks' Genie products, why the company deliberately rejects AI lock-in in favor of open, interoperable tools, its push toward custom models, and Frankle's argument that governing AI agents is one of the defining problems of our time.</description>
