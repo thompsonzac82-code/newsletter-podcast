@@ -13,7 +13,7 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:06:25 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
@@ -21,12 +21,12 @@
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
     <item>
       <title>My Daily Newsletter Digest — Monday, July 20, 2026</title>
-      <description>This episode covers the launch of Moonshot AI's Kimi K3, which claims to top rival frontier models even as distillation questions and compute limits temper the hype, plus Anthropic's resolution of its Claude Fable 5 access saga and OpenAI's new "useful intelligence per dollar" framework. It also examines creative professionals warming to AI, citing George Lucas and an Adobe survey, and a Forrester report warning that most nations risk becoming dependent on the US-China AI duopoly. A closing roundup touches on Alibaba's Qwen, a SpaceX defense compute deal, MLB banning dugout AI, and new tools like Canva Code and GPT-Live.</description>
+      <description>Today's digest leads with Moonshot AI's new Kimi K3 model, its bold benchmark claims, and the lingering questions about whether Chinese labs are distilling Western models. It also covers a Forrester report warning that most countries risk AI dependence on the US and China, Anthropic's messy resolution of access to its Fable Five model, OpenAI CFO Sarah Friar's proposed "intelligence per dollar" spending scorecard, and how creative professionals from George Lucas to Netflix are increasingly embracing AI. A lightning round rounds things out with news on SpaceX's defense compute talks, MLB's dugout AI crackdown, and new tools from Thinking Machines, Canva, and OpenAI.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-20.mp3</guid>
-      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-20.mp3" length="5305292" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 16:06:11 +0000</pubDate>
-      <itunes:duration>11:03</itunes:duration>
-      <itunes:summary>This episode covers the launch of Moonshot AI's Kimi K3, which claims to top rival frontier models even as distillation questions and compute limits temper the hype, plus Anthropic's resolution of its Claude Fable 5 access saga and OpenAI's new "useful intelligence per dollar" framework. It also examines creative professionals warming to AI, citing George Lucas and an Adobe survey, and a Forrester report warning that most nations risk becoming dependent on the US-China AI duopoly. A closing roundup touches on Alibaba's Qwen, a SpaceX defense compute deal, MLB banning dugout AI, and new tools like Canva Code and GPT-Live.</itunes:summary>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-20.mp3" length="5793548" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 16:06:25 +0000</pubDate>
+      <itunes:duration>12:04</itunes:duration>
+      <itunes:summary>Today's digest leads with Moonshot AI's new Kimi K3 model, its bold benchmark claims, and the lingering questions about whether Chinese labs are distilling Western models. It also covers a Forrester report warning that most countries risk AI dependence on the US and China, Anthropic's messy resolution of access to its Fable Five model, OpenAI CFO Sarah Friar's proposed "intelligence per dollar" spending scorecard, and how creative professionals from George Lucas to Netflix are increasingly embracing AI. A lightning round rounds things out with news on SpaceX's defense compute talks, MLB's dugout AI crackdown, and new tools from Thinking Machines, Canva, and OpenAI.</itunes:summary>
     </item>
     <item>
       <title>My Daily Newsletter Digest — Sunday, July 19, 2026</title>
