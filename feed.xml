@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:04:57 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, July 22, 2026</title>
+      <description>This episode centers on the AI industry's shift toward smaller, cheaper models, starting with Google's launch of three efficiency-focused Gemini releases amid the conspicuous delay of its flagship 3.5 Pro, and Cisco's new Antares small models built for cybersecurity vulnerability triage. It also covers Anthropic's court-approved $1.5 billion copyright settlement with book authors, Halliday's camera-free G2 smart glasses aimed at professionals, and Poolside's Laguna open-weights coding model signaling momentum for American open-source AI. Quick hits include Mozilla's open-source AI report, Jack Dorsey's Buzz workspace, Substack's AI writing detector, and Anthropic's new Record a skill feature.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-22.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-22.mp3" length="4607180" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2026 16:04:57 +0000</pubDate>
+      <itunes:duration>9:35</itunes:duration>
+      <itunes:summary>This episode centers on the AI industry's shift toward smaller, cheaper models, starting with Google's launch of three efficiency-focused Gemini releases amid the conspicuous delay of its flagship 3.5 Pro, and Cisco's new Antares small models built for cybersecurity vulnerability triage. It also covers Anthropic's court-approved $1.5 billion copyright settlement with book authors, Halliday's camera-free G2 smart glasses aimed at professionals, and Poolside's Laguna open-weights coding model signaling momentum for American open-source AI. Quick hits include Mozilla's open-source AI report, Jack Dorsey's Buzz workspace, Substack's AI writing detector, and Anthropic's new Record a skill feature.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, July 20, 2026</title>
       <description>Today's digest leads with Moonshot AI's new Kimi K3 model, its bold benchmark claims, and the lingering questions about whether Chinese labs are distilling Western models. It also covers a Forrester report warning that most countries risk AI dependence on the US and China, Anthropic's messy resolution of access to its Fable Five model, OpenAI CFO Sarah Friar's proposed "intelligence per dollar" spending scorecard, and how creative professionals from George Lucas to Netflix are increasingly embracing AI. A lightning round rounds things out with news on SpaceX's defense compute talks, MLB's dugout AI crackdown, and new tools from Thinking Machines, Canva, and OpenAI.</description>
