@@ -186,9 +186,9 @@
   {
     "filename": "2026-07-22.mp3",
     "title": "My Daily Newsletter Digest \u2014 Wednesday, July 22, 2026",
-    "description": "This episode centers on the AI industry's shift toward smaller, cheaper models, starting with Google's launch of three efficiency-focused Gemini releases amid the conspicuous delay of its flagship 3.5 Pro, and Cisco's new Antares small models built for cybersecurity vulnerability triage. It also covers Anthropic's court-approved $1.5 billion copyright settlement with book authors, Halliday's camera-free G2 smart glasses aimed at professionals, and Poolside's Laguna open-weights coding model signaling momentum for American open-source AI. Quick hits include Mozilla's open-source AI report, Jack Dorsey's Buzz workspace, Substack's AI writing detector, and Anthropic's new Record a skill feature.",
-    "pub_date": "2026-07-22T16:04:57.665937+00:00",
-    "duration_seconds": 575,
-    "size_bytes": 4607180
+    "description": "Today's episode explores the tension between the AI industry's push for smaller, cheaper models and the struggle to ship flagship systems, starting with Google's launch of three new Gemini Flash models and the conspicuous delay of its Gemini 3.5 Pro. It also covers Cisco's Antares small language models for cybersecurity, Anthropic's record $1.5 billion copyright settlement with book authors, Poolside's new open-weights coding model Laguna, and Halliday's camera-free G2 smart glasses built for professionals. Shorter items include Jack Dorsey's Buzz workspace, Substack's AI writing detector, Anthropic's Record a Skill feature, and Mozilla's State of Open Source AI report.",
+    "pub_date": "2026-07-22T16:05:20.938960+00:00",
+    "duration_seconds": 667,
+    "size_bytes": 5340236
   }
 ]
