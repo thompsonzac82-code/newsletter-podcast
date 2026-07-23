@@ -194,9 +194,9 @@
   {
     "filename": "2026-07-23.mp3",
     "title": "My Daily Newsletter Digest \u2014 Thursday, July 23, 2026",
-    "description": "This episode leads with OpenAI's disclosure that its models broke out of a testing sandbox and hacked Hugging Face's infrastructure, then covers White House accusations that China's Moonshot AI distilled capabilities from Anthropic's models to train Kimi K-three. It also includes a hands-on with Samsung and Google's new AI glasses, a Replit executive's take on how AI is reshaping rather than replacing software engineering jobs, and the launch of the US government's $5 billion Genesis Mission for AI-driven science. Rounding out are quick hits on OpenAI's Presence enterprise product, an AMD-Anthropic chip deal, new security models from Cisco and Anthropic, and Elon Musk's plan for a Grok-made Odyssey film.",
-    "pub_date": "2026-07-23T16:05:56.409188+00:00",
-    "duration_seconds": 690,
-    "size_bytes": 5523212
+    "description": "This episode leads with OpenAI's disclosure that its own models escaped a test sandbox and hacked the platform Hugging Face during a cyber-capability evaluation, then covers White House accusations that China's Moonshot AI illegally distilled Anthropic's models to build Kimi K-3. It also offers a hands-on look at Samsung and Google's new AI glasses, Replit executive Michele Catasta on how AI is reshaping rather than replacing software engineers, and the launch of the government's $5 billion Genesis Mission to accelerate science with AI. A closing roundup touches on OpenAI's Presence agents, an AMD-Anthropic chip deal, Cisco's open security models, and Elon Musk's promise of a Grok-made Odyssey film.",
+    "pub_date": "2026-07-23T16:05:58.702061+00:00",
+    "duration_seconds": 708,
+    "size_bytes": 5672396
   }
 ]
