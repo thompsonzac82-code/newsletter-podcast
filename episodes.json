@@ -202,9 +202,9 @@
   {
     "filename": "2026-07-24.mp3",
     "title": "My Daily Newsletter Digest \u2014 Friday, July 24, 2026",
-    "description": "This episode covers a simultaneous voice AI push from OpenAI and Anthropic, with GPT-Live coming to desktop apps and Claude's voice mode gaining more capable models, plus analysis of who's ahead. It also digs into AMD's new Venice server chips aimed at the compute-hungry agent boom, a KPMG and UT Austin study on why the best AI users steer rather than outsource their thinking, and Black Forest Labs' FLUX 3 visual model, including a variant now running robots on Audi's factory floor. Rounding it out are industry moves like Cognition's acquisition of Poke, Etched's funding round, Microsoft's new in-house models, and a listener's story of using Claude to repair a DJ controller.",
-    "pub_date": "2026-07-24T16:05:39.273978+00:00",
-    "duration_seconds": 663,
-    "size_bytes": 5306252
+    "description": "This episode covers AMD's new Venice server processors aimed at the compute demands of AI agents, and the near-simultaneous voice upgrades from OpenAI's GPT-Live and Anthropic's Claude. It also digs into KPMG research on why the best AI users challenge rather than outsource their thinking, and Black Forest Labs' FLUX 3 model that jumped from video generation to running robots on Audi's factory lines. Rounding it out are quick hits on Cognition, Etched, Microsoft, and Runway, plus tips on building AI intuition and a fun story about fixing a DJ controller with Claude.",
+    "pub_date": "2026-07-24T16:05:48.451439+00:00",
+    "duration_seconds": 709,
+    "size_bytes": 5678732
   }
 ]

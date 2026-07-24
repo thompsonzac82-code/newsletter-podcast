@@ -13,7 +13,7 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 16:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:05:48 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
@@ -21,12 +21,12 @@
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
     <item>
       <title>My Daily Newsletter Digest — Friday, July 24, 2026</title>
-      <description>This episode covers a simultaneous voice AI push from OpenAI and Anthropic, with GPT-Live coming to desktop apps and Claude's voice mode gaining more capable models, plus analysis of who's ahead. It also digs into AMD's new Venice server chips aimed at the compute-hungry agent boom, a KPMG and UT Austin study on why the best AI users steer rather than outsource their thinking, and Black Forest Labs' FLUX 3 visual model, including a variant now running robots on Audi's factory floor. Rounding it out are industry moves like Cognition's acquisition of Poke, Etched's funding round, Microsoft's new in-house models, and a listener's story of using Claude to repair a DJ controller.</description>
+      <description>This episode covers AMD's new Venice server processors aimed at the compute demands of AI agents, and the near-simultaneous voice upgrades from OpenAI's GPT-Live and Anthropic's Claude. It also digs into KPMG research on why the best AI users challenge rather than outsource their thinking, and Black Forest Labs' FLUX 3 model that jumped from video generation to running robots on Audi's factory lines. Rounding it out are quick hits on Cognition, Etched, Microsoft, and Runway, plus tips on building AI intuition and a fun story about fixing a DJ controller with Claude.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-24.mp3</guid>
-      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-24.mp3" length="5306252" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Jul 2026 16:05:39 +0000</pubDate>
-      <itunes:duration>11:03</itunes:duration>
-      <itunes:summary>This episode covers a simultaneous voice AI push from OpenAI and Anthropic, with GPT-Live coming to desktop apps and Claude's voice mode gaining more capable models, plus analysis of who's ahead. It also digs into AMD's new Venice server chips aimed at the compute-hungry agent boom, a KPMG and UT Austin study on why the best AI users steer rather than outsource their thinking, and Black Forest Labs' FLUX 3 visual model, including a variant now running robots on Audi's factory floor. Rounding it out are industry moves like Cognition's acquisition of Poke, Etched's funding round, Microsoft's new in-house models, and a listener's story of using Claude to repair a DJ controller.</itunes:summary>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-24.mp3" length="5678732" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Jul 2026 16:05:48 +0000</pubDate>
+      <itunes:duration>11:49</itunes:duration>
+      <itunes:summary>This episode covers AMD's new Venice server processors aimed at the compute demands of AI agents, and the near-simultaneous voice upgrades from OpenAI's GPT-Live and Anthropic's Claude. It also digs into KPMG research on why the best AI users challenge rather than outsource their thinking, and Black Forest Labs' FLUX 3 model that jumped from video generation to running robots on Audi's factory lines. Rounding it out are quick hits on Cognition, Etched, Microsoft, and Runway, plus tips on building AI intuition and a fun story about fixing a DJ controller with Claude.</itunes:summary>
     </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, July 23, 2026</title>
