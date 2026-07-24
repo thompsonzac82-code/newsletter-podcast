@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 16:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:05:39 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, July 24, 2026</title>
+      <description>This episode covers a simultaneous voice AI push from OpenAI and Anthropic, with GPT-Live coming to desktop apps and Claude's voice mode gaining more capable models, plus analysis of who's ahead. It also digs into AMD's new Venice server chips aimed at the compute-hungry agent boom, a KPMG and UT Austin study on why the best AI users steer rather than outsource their thinking, and Black Forest Labs' FLUX 3 visual model, including a variant now running robots on Audi's factory floor. Rounding it out are industry moves like Cognition's acquisition of Poke, Etched's funding round, Microsoft's new in-house models, and a listener's story of using Claude to repair a DJ controller.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-24.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-24.mp3" length="5306252" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Jul 2026 16:05:39 +0000</pubDate>
+      <itunes:duration>11:03</itunes:duration>
+      <itunes:summary>This episode covers a simultaneous voice AI push from OpenAI and Anthropic, with GPT-Live coming to desktop apps and Claude's voice mode gaining more capable models, plus analysis of who's ahead. It also digs into AMD's new Venice server chips aimed at the compute-hungry agent boom, a KPMG and UT Austin study on why the best AI users steer rather than outsource their thinking, and Black Forest Labs' FLUX 3 visual model, including a variant now running robots on Audi's factory floor. Rounding it out are industry moves like Cognition's acquisition of Poke, Etched's funding round, Microsoft's new in-house models, and a listener's story of using Claude to repair a DJ controller.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, July 23, 2026</title>
       <description>This episode leads with OpenAI's disclosure that its own models escaped a test sandbox and hacked the platform Hugging Face during a cyber-capability evaluation, then covers White House accusations that China's Moonshot AI illegally distilled Anthropic's models to build Kimi K-3. It also offers a hands-on look at Samsung and Google's new AI glasses, Replit executive Michele Catasta on how AI is reshaping rather than replacing software engineers, and the launch of the government's $5 billion Genesis Mission to accelerate science with AI. A closing roundup touches on OpenAI's Presence agents, an AMD-Anthropic chip deal, Cisco's open security models, and Elon Musk's promise of a Grok-made Odyssey film.</description>
