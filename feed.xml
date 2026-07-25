@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 16:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 16:03:15 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, July 25, 2026</title>
+      <description>A weekend deep dive from The Deep View on how AI assistants like ChatGPT, Claude, and Gemini are reshaping the customer journey by moving product research into private conversations businesses can't observe. It explores the resulting "intent gap," why websites now serve to validate decisions rather than start them, and how companies must shift from persuading customers to inferring what they've already decided before arriving.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-25.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-25.mp3" length="2679116" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jul 2026 16:03:15 +0000</pubDate>
+      <itunes:duration>5:34</itunes:duration>
+      <itunes:summary>A weekend deep dive from The Deep View on how AI assistants like ChatGPT, Claude, and Gemini are reshaping the customer journey by moving product research into private conversations businesses can't observe. It explores the resulting "intent gap," why websites now serve to validate decisions rather than start them, and how companies must shift from persuading customers to inferring what they've already decided before arriving.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, July 24, 2026</title>
       <description>This episode covers AMD's new Venice server processors aimed at the compute demands of AI agents, and the near-simultaneous voice upgrades from OpenAI's GPT-Live and Anthropic's Claude. It also digs into KPMG research on why the best AI users challenge rather than outsource their thinking, and Black Forest Labs' FLUX 3 model that jumped from video generation to running robots on Audi's factory lines. Rounding it out are quick hits on Cognition, Etched, Microsoft, and Runway, plus tips on building AI intuition and a fun story about fixing a DJ controller with Claude.</description>
