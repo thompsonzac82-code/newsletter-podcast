@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 16:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:05:47 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, July 27, 2026</title>
+      <description>Today's digest leads with Anthropic's surprise release of Claude Opus 5, its performance benchmarks and how it fits into the company's increasingly tangled model lineup, then examines OpenAI's massive $750 billion infrastructure spending and how the compute crunch is reshaping the AI arms race. It also covers a coalition of tech giants urging Washington not to restrict open-weight models (and Anthropic's notable absence), IBM researcher Ruchir Puri's argument for teaching AI to admit uncertainty, and a roundup of use cases and news including Apple's planned AI glasses, a security incident involving an OpenAI agent, and a lawsuit over ChatGPT's medical advice.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-27.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-27.mp3" length="5564492" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:05:47 +0000</pubDate>
+      <itunes:duration>11:35</itunes:duration>
+      <itunes:summary>Today's digest leads with Anthropic's surprise release of Claude Opus 5, its performance benchmarks and how it fits into the company's increasingly tangled model lineup, then examines OpenAI's massive $750 billion infrastructure spending and how the compute crunch is reshaping the AI arms race. It also covers a coalition of tech giants urging Washington not to restrict open-weight models (and Anthropic's notable absence), IBM researcher Ruchir Puri's argument for teaching AI to admit uncertainty, and a roundup of use cases and news including Apple's planned AI glasses, a security incident involving an OpenAI agent, and a lawsuit over ChatGPT's medical advice.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, July 25, 2026</title>
       <description>Today's digest is a single deep dive from The Deep View, produced with Rokt, on how AI assistants like ChatGPT, Claude, and Gemini are reshaping the customer journey by moving product research into private conversations businesses can't see. It explores the resulting "intent gap"—the mismatch between what customers already know when they arrive and the experience they encounter—and argues that context and interpreting pre-made decisions now matter more than acquisition and persuasion across retail, software, finance, and travel.</description>

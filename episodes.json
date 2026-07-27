@@ -214,5 +214,13 @@
     "pub_date": "2026-07-25T16:03:20.397502+00:00",
     "duration_seconds": 351,
     "size_bytes": 2815436
+  },
+  {
+    "filename": "2026-07-27.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, July 27, 2026",
+    "description": "Today's digest leads with Anthropic's surprise release of Claude Opus 5, its performance benchmarks and how it fits into the company's increasingly tangled model lineup, then examines OpenAI's massive $750 billion infrastructure spending and how the compute crunch is reshaping the AI arms race. It also covers a coalition of tech giants urging Washington not to restrict open-weight models (and Anthropic's notable absence), IBM researcher Ruchir Puri's argument for teaching AI to admit uncertainty, and a roundup of use cases and news including Apple's planned AI glasses, a security incident involving an OpenAI agent, and a lawsuit over ChatGPT's medical advice.",
+    "pub_date": "2026-07-27T16:05:47.943016+00:00",
+    "duration_seconds": 695,
+    "size_bytes": 5564492
   }
 ]
