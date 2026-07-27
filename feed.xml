@@ -13,7 +13,7 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 16:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:05:54 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
@@ -21,12 +21,12 @@
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
     <item>
       <title>My Daily Newsletter Digest — Monday, July 27, 2026</title>
-      <description>Today's digest leads with Anthropic's surprise release of Claude Opus 5, its performance benchmarks and how it fits into the company's increasingly tangled model lineup, then examines OpenAI's massive $750 billion infrastructure spending and how the compute crunch is reshaping the AI arms race. It also covers a coalition of tech giants urging Washington not to restrict open-weight models (and Anthropic's notable absence), IBM researcher Ruchir Puri's argument for teaching AI to admit uncertainty, and a roundup of use cases and news including Apple's planned AI glasses, a security incident involving an OpenAI agent, and a lawsuit over ChatGPT's medical advice.</description>
+      <description>Anthropic's new Claude Opus 5 leads today's episode, with benchmark wins, aggressive pricing, and the confusing state of Anthropic's model lineup, alongside the intensifying compute race between OpenAI's massive infrastructure spending and Anthropic's leasing strategy. Also covered: an industry open letter from Nvidia, Microsoft, Meta and others urging Washington not to restrict open-weight models (and Anthropic's notable absence), an IBM researcher's case for uncertainty modeling and "artificial useful intelligence," plus quick hits on Apple's planned AI glasses, Google's Gemma downloads, new Claude features, and a lawsuit over ChatGPT medical advice.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-27.mp3</guid>
-      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-27.mp3" length="5564492" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Jul 2026 16:05:47 +0000</pubDate>
-      <itunes:duration>11:35</itunes:duration>
-      <itunes:summary>Today's digest leads with Anthropic's surprise release of Claude Opus 5, its performance benchmarks and how it fits into the company's increasingly tangled model lineup, then examines OpenAI's massive $750 billion infrastructure spending and how the compute crunch is reshaping the AI arms race. It also covers a coalition of tech giants urging Washington not to restrict open-weight models (and Anthropic's notable absence), IBM researcher Ruchir Puri's argument for teaching AI to admit uncertainty, and a roundup of use cases and news including Apple's planned AI glasses, a security incident involving an OpenAI agent, and a lawsuit over ChatGPT's medical advice.</itunes:summary>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-27.mp3" length="5771660" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:05:54 +0000</pubDate>
+      <itunes:duration>12:01</itunes:duration>
+      <itunes:summary>Anthropic's new Claude Opus 5 leads today's episode, with benchmark wins, aggressive pricing, and the confusing state of Anthropic's model lineup, alongside the intensifying compute race between OpenAI's massive infrastructure spending and Anthropic's leasing strategy. Also covered: an industry open letter from Nvidia, Microsoft, Meta and others urging Washington not to restrict open-weight models (and Anthropic's notable absence), an IBM researcher's case for uncertainty modeling and "artificial useful intelligence," plus quick hits on Apple's planned AI glasses, Google's Gemma downloads, new Claude features, and a lawsuit over ChatGPT medical advice.</itunes:summary>
     </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, July 25, 2026</title>
