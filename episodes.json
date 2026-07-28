@@ -222,5 +222,13 @@
     "pub_date": "2026-07-27T16:05:54.901094+00:00",
     "duration_seconds": 721,
     "size_bytes": 5771660
+  },
+  {
+    "filename": "2026-07-28.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, July 28, 2026",
+    "description": "This episode centers on the open-weight AI model debate, covering an open letter from 133 tech companies led by Microsoft and Nvidia, Anthropic CEO Dario Amodei's dissenting position, and the landmark release of China's massive Kimi K3 open model amid distillation accusations. It also digs into new AI cybersecurity tools like Microsoft's MAI-Cyber-one-Flash and the rising wave of AI smart glasses from Samsung, Google, XREAL, and Snap. A closing lightning round touches on Nvidia's investments in Safe Superintelligence and OpenAI, exposed Claude conversations, Sam Altman's \"singularity\" comments, and Cursor's new India plan.",
+    "pub_date": "2026-07-28T16:05:50.678775+00:00",
+    "duration_seconds": 673,
+    "size_bytes": 5384780
   }
 ]

@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 16:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:05:50 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, July 28, 2026</title>
+      <description>This episode centers on the open-weight AI model debate, covering an open letter from 133 tech companies led by Microsoft and Nvidia, Anthropic CEO Dario Amodei's dissenting position, and the landmark release of China's massive Kimi K3 open model amid distillation accusations. It also digs into new AI cybersecurity tools like Microsoft's MAI-Cyber-one-Flash and the rising wave of AI smart glasses from Samsung, Google, XREAL, and Snap. A closing lightning round touches on Nvidia's investments in Safe Superintelligence and OpenAI, exposed Claude conversations, Sam Altman's "singularity" comments, and Cursor's new India plan.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-28.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-28.mp3" length="5384780" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jul 2026 16:05:50 +0000</pubDate>
+      <itunes:duration>11:13</itunes:duration>
+      <itunes:summary>This episode centers on the open-weight AI model debate, covering an open letter from 133 tech companies led by Microsoft and Nvidia, Anthropic CEO Dario Amodei's dissenting position, and the landmark release of China's massive Kimi K3 open model amid distillation accusations. It also digs into new AI cybersecurity tools like Microsoft's MAI-Cyber-one-Flash and the rising wave of AI smart glasses from Samsung, Google, XREAL, and Snap. A closing lightning round touches on Nvidia's investments in Safe Superintelligence and OpenAI, exposed Claude conversations, Sam Altman's "singularity" comments, and Cursor's new India plan.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, July 27, 2026</title>
       <description>Anthropic's new Claude Opus 5 leads today's episode, with benchmark wins, aggressive pricing, and the confusing state of Anthropic's model lineup, alongside the intensifying compute race between OpenAI's massive infrastructure spending and Anthropic's leasing strategy. Also covered: an industry open letter from Nvidia, Microsoft, Meta and others urging Washington not to restrict open-weight models (and Anthropic's notable absence), an IBM researcher's case for uncertainty modeling and "artificial useful intelligence," plus quick hits on Apple's planned AI glasses, Google's Gemma downloads, new Claude features, and a lawsuit over ChatGPT medical advice.</description>
