@@ -230,5 +230,13 @@
     "pub_date": "2026-07-28T16:05:58.875855+00:00",
     "duration_seconds": 716,
     "size_bytes": 5734412
+  },
+  {
+    "filename": "2026-07-29.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, July 29, 2026",
+    "description": "A cross-lab coalition of over 1,100 AI employees launches a \"Pacing the Frontier\" campaign urging the government to build tools for deliberately slowing AI development, contrasted with Mark Zuckerberg's Wall Street Journal argument that spreading superintelligence widely is the safer path. The episode also covers an exclusive on the \"harness\" technology powering OpenAI's agents and falling token costs, the UAE integrating AI across its court system, and new research on why teenagers increasingly turn to chatbots for emotional support, plus a lightning round on Grok updates and new models from Ant Group and Poolside.",
+    "pub_date": "2026-07-29T16:05:31.129015+00:00",
+    "duration_seconds": 610,
+    "size_bytes": 4884812
   }
 ]

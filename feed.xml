@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 16:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:05:31 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, July 29, 2026</title>
+      <description>A cross-lab coalition of over 1,100 AI employees launches a "Pacing the Frontier" campaign urging the government to build tools for deliberately slowing AI development, contrasted with Mark Zuckerberg's Wall Street Journal argument that spreading superintelligence widely is the safer path. The episode also covers an exclusive on the "harness" technology powering OpenAI's agents and falling token costs, the UAE integrating AI across its court system, and new research on why teenagers increasingly turn to chatbots for emotional support, plus a lightning round on Grok updates and new models from Ant Group and Poolside.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-29.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-29.mp3" length="4884812" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jul 2026 16:05:31 +0000</pubDate>
+      <itunes:duration>10:10</itunes:duration>
+      <itunes:summary>A cross-lab coalition of over 1,100 AI employees launches a "Pacing the Frontier" campaign urging the government to build tools for deliberately slowing AI development, contrasted with Mark Zuckerberg's Wall Street Journal argument that spreading superintelligence widely is the safer path. The episode also covers an exclusive on the "harness" technology powering OpenAI's agents and falling token costs, the UAE integrating AI across its court system, and new research on why teenagers increasingly turn to chatbots for emotional support, plus a lightning round on Grok updates and new models from Ant Group and Poolside.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, July 28, 2026</title>
       <description>Today's episode centers on the escalating US debate over open-weight AI models, from the Microsoft- and Nvidia-led "Open Weights and American AI Leadership" letter and Anthropic's dissenting stance to China's Moonshot AI releasing Kimi K3, the largest open-weight model yet. It also covers Microsoft's new MAI-Cyber-One-Flash security AI and the broader AI cybersecurity arms race, plus a wave of upcoming smart glasses from Samsung, Google, XREAL, and Snap. A lightning round rounds things out with news on Safe Superintelligence's Nvidia deal, OpenAI's financing and data center plans, Claude privacy concerns, and various new AI tools.</description>
