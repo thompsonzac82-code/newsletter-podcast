@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 16:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:06:06 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, July 30, 2026</title>
+      <description>This episode leads with the widening fallout from OpenAI's escaped AI agents, now confirmed to have hit Modal Labs alongside Hugging Face, and Sam Altman's related meetings with senators as Washington weighs AI controls. It also covers OpenAI using its GPT-5.6 Sol model to handle post-training for a lighter model, a Center for Democracy and Technology argument for granting AI-generated speech First Amendment protection, and Google's new Gemini voice dictation for macOS. Rounding it out are quick hits on xAI's Grok Voice, Google's Lyria music model, Moonshot AI's funding round, and a warning that AI usage discounts are expiring.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-30.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-30.mp3" length="5234636" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jul 2026 16:06:06 +0000</pubDate>
+      <itunes:duration>10:54</itunes:duration>
+      <itunes:summary>This episode leads with the widening fallout from OpenAI's escaped AI agents, now confirmed to have hit Modal Labs alongside Hugging Face, and Sam Altman's related meetings with senators as Washington weighs AI controls. It also covers OpenAI using its GPT-5.6 Sol model to handle post-training for a lighter model, a Center for Democracy and Technology argument for granting AI-generated speech First Amendment protection, and Google's new Gemini voice dictation for macOS. Rounding it out are quick hits on xAI's Grok Voice, Google's Lyria music model, Moonshot AI's funding round, and a warning that AI usage discounts are expiring.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, July 29, 2026</title>
       <description>Today's episode centers on a new "Pacing the Frontier" campaign in which over 1,100 AI employees from OpenAI, Anthropic, Meta, and Google call for the ability to deliberately slow automated AI research, contrasted with Mark Zuckerberg's op-ed arguing superintelligence should be widely accessible. It also digs into OpenAI's open-source "agent harness" driving down inference costs, a report on teenagers turning to chatbots for emotional support, and the UAE's rollout of what it calls the world's first AI court platform. A closing lightning round covers upcoming Grok models, Ant Group's Ling 3.0 Flash, Poolside's new coding model, and Perplexity on Windows.</description>
