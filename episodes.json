@@ -246,5 +246,13 @@
     "pub_date": "2026-07-30T16:06:13.740887+00:00",
     "duration_seconds": 687,
     "size_bytes": 5501900
+  },
+  {
+    "filename": "2026-07-31.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, July 31, 2026",
+    "description": "Today's episode traces one theme across the AI industry: the shift from raw power toward efficiency and cost. It covers Microsoft's record-breaking earnings and enterprise strategy versus Meta's cash-flow slump, OpenAI's steep price cuts and the rise of cheaper open-weight models, Google's Gemini Robotics 2 launch alongside a new FCC ban on foreign robots, and an IBM report on the growing cost of AI-enabled cyberattacks. It closes with lighter items including Friend's talking AI pendant, funding for Simile, Martha Stewart's home-management app, and a voice-to-text productivity tip.",
+    "pub_date": "2026-07-31T16:06:00.210609+00:00",
+    "duration_seconds": 658,
+    "size_bytes": 5267084
   }
 ]

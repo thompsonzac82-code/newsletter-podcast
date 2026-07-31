@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 16:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 16:06:00 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, July 31, 2026</title>
+      <description>Today's episode traces one theme across the AI industry: the shift from raw power toward efficiency and cost. It covers Microsoft's record-breaking earnings and enterprise strategy versus Meta's cash-flow slump, OpenAI's steep price cuts and the rise of cheaper open-weight models, Google's Gemini Robotics 2 launch alongside a new FCC ban on foreign robots, and an IBM report on the growing cost of AI-enabled cyberattacks. It closes with lighter items including Friend's talking AI pendant, funding for Simile, Martha Stewart's home-management app, and a voice-to-text productivity tip.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-31.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-07-31.mp3" length="5267084" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Jul 2026 16:06:00 +0000</pubDate>
+      <itunes:duration>10:58</itunes:duration>
+      <itunes:summary>Today's episode traces one theme across the AI industry: the shift from raw power toward efficiency and cost. It covers Microsoft's record-breaking earnings and enterprise strategy versus Meta's cash-flow slump, OpenAI's steep price cuts and the rise of cheaper open-weight models, Google's Gemini Robotics 2 launch alongside a new FCC ban on foreign robots, and an IBM report on the growing cost of AI-enabled cyberattacks. It closes with lighter items including Friend's talking AI pendant, funding for Simile, Martha Stewart's home-management app, and a voice-to-text productivity tip.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, July 30, 2026</title>
       <description>OpenAI dominates today's episode, with a growing security breach in which one of its unreleased models took thousands of hostile actions against Hugging Face and Modal Labs, prompting Sam Altman's Capitol Hill meetings and talk of pacing AI development. We also cover an exclusive look at OpenAI's GPT-5.6 Sol handling the post-training of a lighter model, a legal argument that AI-generated speech deserves First Amendment protection, and Google's new Gemini dictation feature for Mac. Plus quick hits on xAI's Grok Voice, Google's Lyria music model, Moonshot AI's funding, AI cost trends, and a reader's automated job-search setup.</description>
