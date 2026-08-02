@@ -254,5 +254,13 @@
     "pub_date": "2026-07-31T16:06:00.210609+00:00",
     "duration_seconds": 658,
     "size_bytes": 5267084
+  },
+  {
+    "filename": "2026-08-02.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Sunday, August 2, 2026",
+    "description": "A lighter Sunday episode focused on a single story: The Rundown AI's launch of its Community AI Workflow Hub. It covers why founder Rowan Cheung built it after reader surveys demanded more real-world workflows, how the hub works by letting you browse and copy practical prompts and steps, and the incentives and ground rules for contributors, including daily features in front of the newsletter's two million readers.",
+    "pub_date": "2026-08-02T16:02:47.183478+00:00",
+    "duration_seconds": 188,
+    "size_bytes": 1507724
   }
 ]
