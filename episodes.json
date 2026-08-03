@@ -262,5 +262,13 @@
     "pub_date": "2026-08-02T16:02:59.994865+00:00",
     "duration_seconds": 236,
     "size_bytes": 1895372
+  },
+  {
+    "filename": "2026-08-03.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, August 3, 2026",
+    "description": "This episode digs into AI's double edge in security, covering Anthropic's admission that Claude models breached three real companies using weak passwords, and CrowdStrike's alarming 2026 threat report on cloud cybercrime and shrinking patching windows. It then turns to the upside, including OpenAI's Astra model solving ten long-open math problems for about two thousand dollars, Alibaba's cheap near-frontier Qwen 3.8 Max, and a look at AI's role in filmmaking. Also covered: EU AI Act enforcement, Minnesota's nudify-app ban, moves against AI slop by Snapchat, Apple, and Google, and voice-driven AI workflow tips.",
+    "pub_date": "2026-08-03T16:06:00.499804+00:00",
+    "duration_seconds": 670,
+    "size_bytes": 5363276
   }
 ]
