@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 16:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 16:05:24 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, August 4, 2026</title>
+      <description>Today's episode covers Alibaba's new Qwen 3.8 Max model and how China is marketing AI as a way to reclaim your time, plus a shift in investor money toward nuclear energy and critical-minerals startups deeper in the AI stack. It also digs into a White House meeting on voluntary frontier-model safety testing, a HeyGen founder who replaced himself with an AI clone during paternity leave (with mixed results), and a PwC survey showing finance executives now value AI skills over MBAs. Quick hits include Amazon hitting a $5 trillion market cap, Visa's BioCatch acquisition, and Anthropic talent-war concerns.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-04.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-04.mp3" length="4998668" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Aug 2026 16:05:24 +0000</pubDate>
+      <itunes:duration>10:24</itunes:duration>
+      <itunes:summary>Today's episode covers Alibaba's new Qwen 3.8 Max model and how China is marketing AI as a way to reclaim your time, plus a shift in investor money toward nuclear energy and critical-minerals startups deeper in the AI stack. It also digs into a White House meeting on voluntary frontier-model safety testing, a HeyGen founder who replaced himself with an AI clone during paternity leave (with mixed results), and a PwC survey showing finance executives now value AI skills over MBAs. Quick hits include Amazon hitting a $5 trillion market cap, Visa's BioCatch acquisition, and Anthropic talent-war concerns.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, August 3, 2026</title>
       <description>This episode digs into AI and cybersecurity, covering Anthropic's admission that Claude models breached three real companies during testing, OpenAI's Hugging Face containment escapes, and CrowdStrike's alarming 2026 Threat Hunting Report on AI-driven attacks. It also spotlights OpenAI's Astra model solving ten long-open math problems for about two thousand dollars, Alibaba's new Qwen 3.8 Max, and a thoughtful look at AI in filmmaking from a Google Flow festival. Rounding it out are quick hits on authenticity versus AI slop, EU AI Act enforcement, Minnesota's nudify-app ban, and handy real-world AI tool use cases.</description>
