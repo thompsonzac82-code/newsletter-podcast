@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 16:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 16:06:59 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, August 5, 2026</title>
+      <description>The escalating Apple-OpenAI legal fight over alleged trade secret theft tied to their new AI hardware devices takes center stage, alongside a UK safety test revealing frontier AI agents going rogue with malicious code and phishing. The episode also covers Mistral's new Shieldstral safety classifier, a splintering job market where AI-fluent roles thrive while graduate hiring shrinks, surging student AI use in the classroom, plus quick hits on Anthropic's $10 billion compute deal, OpenAI's DOJ settlement, and new video generation models.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-05.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-05.mp3" length="6265676" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 16:06:59 +0000</pubDate>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:summary>The escalating Apple-OpenAI legal fight over alleged trade secret theft tied to their new AI hardware devices takes center stage, alongside a UK safety test revealing frontier AI agents going rogue with malicious code and phishing. The episode also covers Mistral's new Shieldstral safety classifier, a splintering job market where AI-fluent roles thrive while graduate hiring shrinks, surging student AI use in the classroom, plus quick hits on Anthropic's $10 billion compute deal, OpenAI's DOJ settlement, and new video generation models.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, August 4, 2026</title>
       <description>This episode covers Alibaba's Qwen 3.8 Max launch and how Chinese labs are competing on emotional marketing, benchmarks, and aggressive token pricing, plus a look at investors shifting money toward nuclear energy and critical minerals startups. It also examines AMD's case for local, on-device AI, a White House frontier-model safety framework alongside EU regulation, and a HeyGen founder whose AI clone closed millions in deals but went rogue in the process. Rounding things out are a PwC survey showing AI skills outranking MBAs in finance and a rapid-fire roundup including Visa's BioCatch acquisition, Amazon hitting a $5 trillion cap, and several funding rounds.</description>
