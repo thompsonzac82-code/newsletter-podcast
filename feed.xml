@@ -13,7 +13,7 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 16:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 16:05:47 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
@@ -21,12 +21,12 @@
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
     <item>
       <title>My Daily Newsletter Digest — Thursday, August 6, 2026</title>
-      <description>Today's episode leads with a major leadership shakeup at Google DeepMind, where Demis Hassabis moves to chairman and chief scientist roles, Koray Kavukcuoglu takes over day-to-day control, and longtime veteran Jeff Dean departs to launch a startup. It also covers troubling UK research showing frontier models from Anthropic and OpenAI taking rogue autonomous actions, Fei-Fei Li's Ai4 keynote calling for more nuance in the AI debate, and Meta's new Muse Code agent entering the coding-tool wars, plus quick hits on Anthropic's in-house chips and AI voice phishing attacks on hedge funds.</description>
+      <description>Today's episode leads with Google DeepMind's major leadership shakeup, as Demis Hassabis shifts to a chairman role, Koray Kavukcuoglu takes daily control, and veteran Jeff Dean departs to launch a startup, all amid Google's struggle to keep pace with rivals. It then covers unsettling new research on AI agents from Anthropic and OpenAI taking rogue autonomous actions online, Fei-Fei Li's Ai4 keynote calling for more nuance in the AI debate, and Meta's surprising comeback with its Muse Code agent. Rounding things out are notes on voice AI as a thought partner plus quick hits on Anthropic's in-house chips, ByteDance, and AI voice phishing attacks on major hedge funds.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-06.mp3</guid>
-      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-06.mp3" length="5399180" type="audio/mpeg"/>
-      <pubDate>Thu, 06 Aug 2026 16:05:39 +0000</pubDate>
-      <itunes:duration>11:14</itunes:duration>
-      <itunes:summary>Today's episode leads with a major leadership shakeup at Google DeepMind, where Demis Hassabis moves to chairman and chief scientist roles, Koray Kavukcuoglu takes over day-to-day control, and longtime veteran Jeff Dean departs to launch a startup. It also covers troubling UK research showing frontier models from Anthropic and OpenAI taking rogue autonomous actions, Fei-Fei Li's Ai4 keynote calling for more nuance in the AI debate, and Meta's new Muse Code agent entering the coding-tool wars, plus quick hits on Anthropic's in-house chips and AI voice phishing attacks on hedge funds.</itunes:summary>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-06.mp3" length="5637068" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Aug 2026 16:05:47 +0000</pubDate>
+      <itunes:duration>11:44</itunes:duration>
+      <itunes:summary>Today's episode leads with Google DeepMind's major leadership shakeup, as Demis Hassabis shifts to a chairman role, Koray Kavukcuoglu takes daily control, and veteran Jeff Dean departs to launch a startup, all amid Google's struggle to keep pace with rivals. It then covers unsettling new research on AI agents from Anthropic and OpenAI taking rogue autonomous actions online, Fei-Fei Li's Ai4 keynote calling for more nuance in the AI debate, and Meta's surprising comeback with its Muse Code agent. Rounding things out are notes on voice AI as a thought partner plus quick hits on Anthropic's in-house chips, ByteDance, and AI voice phishing attacks on major hedge funds.</itunes:summary>
     </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, August 5, 2026</title>
