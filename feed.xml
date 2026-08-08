@@ -13,7 +13,7 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 16:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 16:02:33 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
@@ -21,12 +21,12 @@
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
     <item>
       <title>My Daily Newsletter Digest — Saturday, August 8, 2026</title>
-      <description>A weekend feature from The Deep View spotlights Claire Southey, the first chief AI officer at ecommerce company Rokt, and her approach to driving AI adoption inside a company. It covers her "movement, not a mandate" philosophy, the balance between leveraging vast consumer data and maintaining trust, and why the organizational and cultural challenges—shifting from hard to soft skills and encouraging employee experimentation—have proven tougher than the technical ones.</description>
+      <description>A weekend feature exploring how companies actually absorb AI, centered on a conversation with Claire Southey, Rokt's first chief AI officer. She discusses using checkout data to build advertising that feels helpful rather than intrusive, balancing consumer trust against short-term revenue, and why the real challenge is organizational and cultural—shifting toward soft skills like adaptability and treating adoption as "a movement, not a mandate" through open experimentation.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-08.mp3</guid>
-      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-08.mp3" length="2013452" type="audio/mpeg"/>
-      <pubDate>Sat, 08 Aug 2026 16:02:28 +0000</pubDate>
-      <itunes:duration>4:11</itunes:duration>
-      <itunes:summary>A weekend feature from The Deep View spotlights Claire Southey, the first chief AI officer at ecommerce company Rokt, and her approach to driving AI adoption inside a company. It covers her "movement, not a mandate" philosophy, the balance between leveraging vast consumer data and maintaining trust, and why the organizational and cultural challenges—shifting from hard to soft skills and encouraging employee experimentation—have proven tougher than the technical ones.</itunes:summary>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-08.mp3" length="2246156" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Aug 2026 16:02:33 +0000</pubDate>
+      <itunes:duration>4:40</itunes:duration>
+      <itunes:summary>A weekend feature exploring how companies actually absorb AI, centered on a conversation with Claire Southey, Rokt's first chief AI officer. She discusses using checkout data to build advertising that feels helpful rather than intrusive, balancing consumer trust against short-term revenue, and why the real challenge is organizational and cultural—shifting toward soft skills like adaptability and treating adoption as "a movement, not a mandate" through open experimentation.</itunes:summary>
     </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, August 7, 2026</title>
