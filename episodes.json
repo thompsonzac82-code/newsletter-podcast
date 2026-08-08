@@ -302,5 +302,13 @@
     "pub_date": "2026-08-07T16:05:59.567248+00:00",
     "duration_seconds": 717,
     "size_bytes": 5741516
+  },
+  {
+    "filename": "2026-08-08.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, August 8, 2026",
+    "description": "A weekend feature from The Deep View spotlights Claire Southey, the first chief AI officer at ecommerce company Rokt, and her approach to driving AI adoption inside a company. It covers her \"movement, not a mandate\" philosophy, the balance between leveraging vast consumer data and maintaining trust, and why the organizational and cultural challenges\u2014shifting from hard to soft skills and encouraging employee experimentation\u2014have proven tougher than the technical ones.",
+    "pub_date": "2026-08-08T16:02:28.756278+00:00",
+    "duration_seconds": 251,
+    "size_bytes": 2013452
   }
 ]

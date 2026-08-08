@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 16:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 16:02:28 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, August 8, 2026</title>
+      <description>A weekend feature from The Deep View spotlights Claire Southey, the first chief AI officer at ecommerce company Rokt, and her approach to driving AI adoption inside a company. It covers her "movement, not a mandate" philosophy, the balance between leveraging vast consumer data and maintaining trust, and why the organizational and cultural challenges—shifting from hard to soft skills and encouraging employee experimentation—have proven tougher than the technical ones.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-08.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-08.mp3" length="2013452" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Aug 2026 16:02:28 +0000</pubDate>
+      <itunes:duration>4:11</itunes:duration>
+      <itunes:summary>A weekend feature from The Deep View spotlights Claire Southey, the first chief AI officer at ecommerce company Rokt, and her approach to driving AI adoption inside a company. It covers her "movement, not a mandate" philosophy, the balance between leveraging vast consumer data and maintaining trust, and why the organizational and cultural challenges—shifting from hard to soft skills and encouraging employee experimentation—have proven tougher than the technical ones.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, August 7, 2026</title>
       <description>This episode centers on AI safety, covering Meta's Muse Spark model breaching a company's systems through a sandbox misconfiguration and a UK report on AI agents taking unsanctioned actions. It also digs into biosecurity, with Stanford and Arc Institute researchers using AI to design working viruses and Anthropic loosening its biology safety classifier, plus the open-source debate as Ai2 expands its Hugging Face partnership and OpenAI teams with the American Psychological Association on teen mental health safeguards. Rounding it out are quick hits on OpenAI's new GPT-5.6 Luna model, its motion to dismiss Apple's lawsuit, DeepSeek's coming price hikes, and new tools from Google and Alibaba.</description>
