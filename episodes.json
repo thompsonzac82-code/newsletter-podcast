@@ -322,9 +322,9 @@
   {
     "filename": "2026-08-20.mp3",
     "title": "My Daily Newsletter Digest \u2014 Thursday, August 20, 2026",
-    "description": "Today's digest examines AI's uneven impact on jobs, covering Goldman Sachs data on slowing white-collar hiring and steep call-center declines, plus new Pew research showing young adults are now more concerned than excited about AI. It then turns to the economics of cheaper, smarter AI, including model routing at Snowflake and NVIDIA, Replit's Free Mode, and Uber's Agentic Pods, before highlighting Anthropic's Claude autonomously designing working proteins and quick hits on Stripe's OpenRouter acquisition, GLM 5.3, Cerebras, and OpenAI.",
-    "pub_date": "2026-08-20T16:06:35.420208+00:00",
-    "duration_seconds": 697,
-    "size_bytes": 5577740
+    "description": "Goldman Sachs and Pew data reveal how AI is cooling white-collar hiring and turning even young people skeptical, from a 39% drop in call-center jobs to Gen Z eyeing the trades. The episode then digs into the economics of cheaper AI\u2014model routing at Snowflake and NVIDIA, cost lessons from Uber and Replit\u2014and closes with Anthropic's Claude models autonomously designing lab-validated proteins, plus quick hits on Stripe's OpenRouter deal, GLM-5.3, and Cerebras.",
+    "pub_date": "2026-08-20T16:06:59.436016+00:00",
+    "duration_seconds": 770,
+    "size_bytes": 6167180
   }
 ]

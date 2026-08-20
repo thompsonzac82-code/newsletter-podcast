@@ -13,7 +13,7 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:06:59 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
@@ -21,12 +21,12 @@
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
     <item>
       <title>My Daily Newsletter Digest — Thursday, August 20, 2026</title>
-      <description>Today's digest examines AI's uneven impact on jobs, covering Goldman Sachs data on slowing white-collar hiring and steep call-center declines, plus new Pew research showing young adults are now more concerned than excited about AI. It then turns to the economics of cheaper, smarter AI, including model routing at Snowflake and NVIDIA, Replit's Free Mode, and Uber's Agentic Pods, before highlighting Anthropic's Claude autonomously designing working proteins and quick hits on Stripe's OpenRouter acquisition, GLM 5.3, Cerebras, and OpenAI.</description>
+      <description>Goldman Sachs and Pew data reveal how AI is cooling white-collar hiring and turning even young people skeptical, from a 39% drop in call-center jobs to Gen Z eyeing the trades. The episode then digs into the economics of cheaper AI—model routing at Snowflake and NVIDIA, cost lessons from Uber and Replit—and closes with Anthropic's Claude models autonomously designing lab-validated proteins, plus quick hits on Stripe's OpenRouter deal, GLM-5.3, and Cerebras.</description>
       <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-20.mp3</guid>
-      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-20.mp3" length="5577740" type="audio/mpeg"/>
-      <pubDate>Thu, 20 Aug 2026 16:06:35 +0000</pubDate>
-      <itunes:duration>11:37</itunes:duration>
-      <itunes:summary>Today's digest examines AI's uneven impact on jobs, covering Goldman Sachs data on slowing white-collar hiring and steep call-center declines, plus new Pew research showing young adults are now more concerned than excited about AI. It then turns to the economics of cheaper, smarter AI, including model routing at Snowflake and NVIDIA, Replit's Free Mode, and Uber's Agentic Pods, before highlighting Anthropic's Claude autonomously designing working proteins and quick hits on Stripe's OpenRouter acquisition, GLM 5.3, Cerebras, and OpenAI.</itunes:summary>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-20.mp3" length="6167180" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Aug 2026 16:06:59 +0000</pubDate>
+      <itunes:duration>12:50</itunes:duration>
+      <itunes:summary>Goldman Sachs and Pew data reveal how AI is cooling white-collar hiring and turning even young people skeptical, from a 39% drop in call-center jobs to Gen Z eyeing the trades. The episode then digs into the economics of cheaper AI—model routing at Snowflake and NVIDIA, cost lessons from Uber and Replit—and closes with Anthropic's Claude models autonomously designing lab-validated proteins, plus quick hits on Stripe's OpenRouter deal, GLM-5.3, and Cerebras.</itunes:summary>
     </item>
     <item>
       <title>My Daily Newsletter Digest — Catch-up: 6 July to 19 August 2026</title>
