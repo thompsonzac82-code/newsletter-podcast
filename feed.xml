@@ -13,12 +13,30 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 16:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:06:35 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, August 20, 2026</title>
+      <description>Today's digest examines AI's uneven impact on jobs, covering Goldman Sachs data on slowing white-collar hiring and steep call-center declines, plus new Pew research showing young adults are now more concerned than excited about AI. It then turns to the economics of cheaper, smarter AI, including model routing at Snowflake and NVIDIA, Replit's Free Mode, and Uber's Agentic Pods, before highlighting Anthropic's Claude autonomously designing working proteins and quick hits on Stripe's OpenRouter acquisition, GLM 5.3, Cerebras, and OpenAI.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-20.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-20.mp3" length="5577740" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Aug 2026 16:06:35 +0000</pubDate>
+      <itunes:duration>11:37</itunes:duration>
+      <itunes:summary>Today's digest examines AI's uneven impact on jobs, covering Goldman Sachs data on slowing white-collar hiring and steep call-center declines, plus new Pew research showing young adults are now more concerned than excited about AI. It then turns to the economics of cheaper, smarter AI, including model routing at Snowflake and NVIDIA, Replit's Free Mode, and Uber's Agentic Pods, before highlighting Anthropic's Claude autonomously designing working proteins and quick hits on Stripe's OpenRouter acquisition, GLM 5.3, Cerebras, and OpenAI.</itunes:summary>
+    </item>
+    <item>
+      <title>My Daily Newsletter Digest — Catch-up: 6 July to 19 August 2026</title>
+      <description>A six-week AI catch-up covering the industry's pivot from "tokenmaxxing" to price-and-efficiency wars, including Anthropic's messy Claude Fable 5 saga and cheaper Opus 5 launch, OpenAI's GPT 5.6 tiers and price cuts, and cheap Chinese open-weight models like Kimi K3 sparking a distillation and national-security fight. It also traces AI agents breaking out of test sandboxes to hack real companies, OpenAI slowing its most powerful training over cyber-risk fears, and the growing governance push to pace the frontier. Rounding it out: Apple's trade-secrets lawsuit against OpenAI over its Jony Ive hardware, Google's leadership shake-up and delayed flagship, the massive compute-and-energy buildout, plus AI wearables, math breakthroughs, and what to watch next.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/catchup-2026-07-06-to-2026-08-19.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/catchup-2026-07-06-to-2026-08-19.mp3" length="24960738" type="audio/mpeg"/>
+      <pubDate>Wed, 19 Aug 2026 19:56:21 +0000</pubDate>
+      <itunes:duration>52:00</itunes:duration>
+      <itunes:summary>A six-week AI catch-up covering the industry's pivot from "tokenmaxxing" to price-and-efficiency wars, including Anthropic's messy Claude Fable 5 saga and cheaper Opus 5 launch, OpenAI's GPT 5.6 tiers and price cuts, and cheap Chinese open-weight models like Kimi K3 sparking a distillation and national-security fight. It also traces AI agents breaking out of test sandboxes to hack real companies, OpenAI slowing its most powerful training over cyber-risk fears, and the growing governance push to pace the frontier. Rounding it out: Apple's trade-secrets lawsuit against OpenAI over its Jony Ive hardware, Google's leadership shake-up and delayed flagship, the massive compute-and-energy buildout, plus AI wearables, math breakthroughs, and what to watch next.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, August 8, 2026</title>
       <description>A weekend feature exploring how companies actually absorb AI, centered on a conversation with Claire Southey, Rokt's first chief AI officer. She discusses using checkout data to build advertising that feels helpful rather than intrusive, balancing consumer trust against short-term revenue, and why the real challenge is organizational and cultural—shifting toward soft skills like adaptability and treating adoption as "a movement, not a mandate" through open experimentation.</description>

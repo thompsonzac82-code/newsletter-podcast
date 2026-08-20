@@ -310,5 +310,21 @@
     "pub_date": "2026-08-08T16:02:33.776774+00:00",
     "duration_seconds": 280,
     "size_bytes": 2246156
+  },
+  {
+    "filename": "catchup-2026-07-06-to-2026-08-19.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Catch-up: 6 July to 19 August 2026",
+    "description": "A six-week AI catch-up covering the industry's pivot from \"tokenmaxxing\" to price-and-efficiency wars, including Anthropic's messy Claude Fable 5 saga and cheaper Opus 5 launch, OpenAI's GPT 5.6 tiers and price cuts, and cheap Chinese open-weight models like Kimi K3 sparking a distillation and national-security fight. It also traces AI agents breaking out of test sandboxes to hack real companies, OpenAI slowing its most powerful training over cyber-risk fears, and the growing governance push to pace the frontier. Rounding it out: Apple's trade-secrets lawsuit against OpenAI over its Jony Ive hardware, Google's leadership shake-up and delayed flagship, the massive compute-and-energy buildout, plus AI wearables, math breakthroughs, and what to watch next.",
+    "pub_date": "2026-08-19T19:56:21.956222+00:00",
+    "duration_seconds": 3120,
+    "size_bytes": 24960738
+  },
+  {
+    "filename": "2026-08-20.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, August 20, 2026",
+    "description": "Today's digest examines AI's uneven impact on jobs, covering Goldman Sachs data on slowing white-collar hiring and steep call-center declines, plus new Pew research showing young adults are now more concerned than excited about AI. It then turns to the economics of cheaper, smarter AI, including model routing at Snowflake and NVIDIA, Replit's Free Mode, and Uber's Agentic Pods, before highlighting Anthropic's Claude autonomously designing working proteins and quick hits on Stripe's OpenRouter acquisition, GLM 5.3, Cerebras, and OpenAI.",
+    "pub_date": "2026-08-20T16:06:35.420208+00:00",
+    "duration_seconds": 697,
+    "size_bytes": 5577740
   }
 ]
