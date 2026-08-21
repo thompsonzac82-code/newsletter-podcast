@@ -326,5 +326,13 @@
     "pub_date": "2026-08-20T16:06:59.436016+00:00",
     "duration_seconds": 770,
     "size_bytes": 6167180
+  },
+  {
+    "filename": "2026-08-21.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, August 21, 2026",
+    "description": "OpenAI launches a ChatGPT plugin for Apple Messages just ahead of Apple's September Siri revamp, and Google's Pixel 11 Pro Fold makes its case as the top phone for AI builders. Also: Slack Code turns software development into a team sport, an AI platform uncovers new breast-cancer patterns in tumor cells, and a reflective look at what AI means for human creativity\u2014plus quick hits on Adobe Firefly audio, AI music labeling, and Asana's Codex cost savings.",
+    "pub_date": "2026-08-21T16:07:30.878692+00:00",
+    "duration_seconds": 804,
+    "size_bytes": 6435020
   }
 ]
