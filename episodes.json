@@ -338,9 +338,9 @@
   {
     "filename": "2026-08-22.mp3",
     "title": "My Daily Newsletter Digest \u2014 Saturday, August 22, 2026",
-    "description": "Today's lighter edition digs into a single story from The Deep View: the soaring cost of AI inference, with Gartner projecting a fivefold increase by 2028 as agent-style workflows drive up token usage. It profiles Crusoe's vertically integrated pitch\u2014owning everything from energy to cloud software\u2014alongside its MemoryAlloy speed claims, Managed Intelligence and Intelligence Foundry offerings, and the broader shift toward companies wanting a partner to handle AI's operational burden.",
-    "pub_date": "2026-08-22T16:03:17.981506+00:00",
-    "duration_seconds": 271,
-    "size_bytes": 2169164
+    "description": "A deep dive into the hidden economics of running AI in production, focusing on the rising cost of inference as companies deploy AI agents that repeatedly call models and burn through tokens\u2014with Gartner projecting a fivefold cost increase by 2028. Using a sponsored feature on infrastructure company Crusoe, it explores vertical integration as a cost-cutting strategy, covering their MemoryAlloy performance tech, Managed Intelligence deployment options, and open-source contributions. The through-line: AI is maturing from what models can do to what they cost to run every day.",
+    "pub_date": "2026-08-22T16:03:40.558231+00:00",
+    "duration_seconds": 337,
+    "size_bytes": 2701196
   }
 ]
