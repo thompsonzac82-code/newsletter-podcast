@@ -334,5 +334,13 @@
     "pub_date": "2026-08-21T16:07:43.998051+00:00",
     "duration_seconds": 863,
     "size_bytes": 6912332
+  },
+  {
+    "filename": "2026-08-22.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, August 22, 2026",
+    "description": "Today's lighter edition digs into a single story from The Deep View: the soaring cost of AI inference, with Gartner projecting a fivefold increase by 2028 as agent-style workflows drive up token usage. It profiles Crusoe's vertically integrated pitch\u2014owning everything from energy to cloud software\u2014alongside its MemoryAlloy speed claims, Managed Intelligence and Intelligence Foundry offerings, and the broader shift toward companies wanting a partner to handle AI's operational burden.",
+    "pub_date": "2026-08-22T16:03:17.981506+00:00",
+    "duration_seconds": 271,
+    "size_bytes": 2169164
   }
 ]

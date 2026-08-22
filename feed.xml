@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:03:17 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, August 22, 2026</title>
+      <description>Today's lighter edition digs into a single story from The Deep View: the soaring cost of AI inference, with Gartner projecting a fivefold increase by 2028 as agent-style workflows drive up token usage. It profiles Crusoe's vertically integrated pitch—owning everything from energy to cloud software—alongside its MemoryAlloy speed claims, Managed Intelligence and Intelligence Foundry offerings, and the broader shift toward companies wanting a partner to handle AI's operational burden.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-22.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-22.mp3" length="2169164" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Aug 2026 16:03:17 +0000</pubDate>
+      <itunes:duration>4:31</itunes:duration>
+      <itunes:summary>Today's lighter edition digs into a single story from The Deep View: the soaring cost of AI inference, with Gartner projecting a fivefold increase by 2028 as agent-style workflows drive up token usage. It profiles Crusoe's vertically integrated pitch—owning everything from energy to cloud software—alongside its MemoryAlloy speed claims, Managed Intelligence and Intelligence Foundry offerings, and the broader shift toward companies wanting a partner to handle AI's operational burden.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, August 21, 2026</title>
       <description>OpenAI's new ChatGPT plugin for Apple Messages arrives just weeks before Apple's big Siri overhaul, and we dig into who holds the advantage, alongside Slack Code's push to make coding a live team sport and why the AI industry is pivoting hard toward efficiency. We also cover Google's Pixel 11 Pro Fold as a builder's dream phone, an AI breakthrough in reading breast cancer cells, and Adobe Firefly's new audio tools. Plus a heartfelt story of a caregiving app built with AI, and a reflective essay on keeping the human in creativity.</description>
