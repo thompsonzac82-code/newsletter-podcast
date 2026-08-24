@@ -342,5 +342,13 @@
     "pub_date": "2026-08-22T16:03:40.558231+00:00",
     "duration_seconds": 337,
     "size_bytes": 2701196
+  },
+  {
+    "filename": "2026-08-24.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, August 24, 2026",
+    "description": "A stealth coding model called Ox Alpha appeared anonymously on OpenRouter and has developers racing to identify its likely Chinese origin, while new research shows a small, specialized model beating frontier systems from OpenAI, Google, and Anthropic at prospect-scoring for a fraction of the cost. The episode also covers AI-powered foldable phones from Google and Samsung, industry money moves including Anthropic's rumored two-trillion-dollar IPO and Hugging Face's potential sale, and Lady Gaga-backed startup Outer Bio using living human skin and AI to accelerate skincare discovery.",
+    "pub_date": "2026-08-24T16:06:03.855550+00:00",
+    "duration_seconds": 554,
+    "size_bytes": 4433996
   }
 ]

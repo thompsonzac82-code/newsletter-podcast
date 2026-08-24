@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:06:03 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, August 24, 2026</title>
+      <description>A stealth coding model called Ox Alpha appeared anonymously on OpenRouter and has developers racing to identify its likely Chinese origin, while new research shows a small, specialized model beating frontier systems from OpenAI, Google, and Anthropic at prospect-scoring for a fraction of the cost. The episode also covers AI-powered foldable phones from Google and Samsung, industry money moves including Anthropic's rumored two-trillion-dollar IPO and Hugging Face's potential sale, and Lady Gaga-backed startup Outer Bio using living human skin and AI to accelerate skincare discovery.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-24.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-24.mp3" length="4433996" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 16:06:03 +0000</pubDate>
+      <itunes:duration>9:14</itunes:duration>
+      <itunes:summary>A stealth coding model called Ox Alpha appeared anonymously on OpenRouter and has developers racing to identify its likely Chinese origin, while new research shows a small, specialized model beating frontier systems from OpenAI, Google, and Anthropic at prospect-scoring for a fraction of the cost. The episode also covers AI-powered foldable phones from Google and Samsung, industry money moves including Anthropic's rumored two-trillion-dollar IPO and Hugging Face's potential sale, and Lady Gaga-backed startup Outer Bio using living human skin and AI to accelerate skincare discovery.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, August 22, 2026</title>
       <description>A deep dive into the hidden economics of running AI in production, focusing on the rising cost of inference as companies deploy AI agents that repeatedly call models and burn through tokens—with Gartner projecting a fivefold cost increase by 2028. Using a sponsored feature on infrastructure company Crusoe, it explores vertical integration as a cost-cutting strategy, covering their MemoryAlloy performance tech, Managed Intelligence deployment options, and open-source contributions. The through-line: AI is maturing from what models can do to what they cost to run every day.</description>
