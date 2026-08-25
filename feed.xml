@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:04:34 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, August 25, 2026</title>
+      <description>Today's episode centers on the economics of AI, from OpenAI slashing prices on its top GPT-5.6 Sol model to Thomson Reuters building its own proprietary model for a fraction of frontier-lab costs. It also covers which US cities are most exposed to AI-driven workplace change, the audacious SpaceX-Nvidia plan to put data centers in orbit, and a report on how cheap models like DeepSeek are supercharging state-backed hackers. Quick hits round out the news, including Perplexity's funding talks, a Porsche-TCS deal, and one reader's use of AI to solve a family mystery.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-25.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-25.mp3" length="5682956" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Aug 2026 16:04:34 +0000</pubDate>
+      <itunes:duration>11:50</itunes:duration>
+      <itunes:summary>Today's episode centers on the economics of AI, from OpenAI slashing prices on its top GPT-5.6 Sol model to Thomson Reuters building its own proprietary model for a fraction of frontier-lab costs. It also covers which US cities are most exposed to AI-driven workplace change, the audacious SpaceX-Nvidia plan to put data centers in orbit, and a report on how cheap models like DeepSeek are supercharging state-backed hackers. Quick hits round out the news, including Perplexity's funding talks, a Porsche-TCS deal, and one reader's use of AI to solve a family mystery.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, August 24, 2026</title>
       <description>A stealth coding model called Ox Alpha appeared anonymously on OpenRouter and has developers racing to identify its likely Chinese origin, while new research shows a small, specialized model beating frontier systems from OpenAI, Google, and Anthropic at prospect-scoring for a fraction of the cost. The episode also covers AI-powered foldable phones from Google and Samsung, industry money moves including Anthropic's rumored two-trillion-dollar IPO and Hugging Face's potential sale, and Lady Gaga-backed startup Outer Bio using living human skin and AI to accelerate skincare discovery.</description>

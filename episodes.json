@@ -350,5 +350,13 @@
     "pub_date": "2026-08-24T16:06:03.855550+00:00",
     "duration_seconds": 554,
     "size_bytes": 4433996
+  },
+  {
+    "filename": "2026-08-25.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, August 25, 2026",
+    "description": "Today's episode centers on the economics of AI, from OpenAI slashing prices on its top GPT-5.6 Sol model to Thomson Reuters building its own proprietary model for a fraction of frontier-lab costs. It also covers which US cities are most exposed to AI-driven workplace change, the audacious SpaceX-Nvidia plan to put data centers in orbit, and a report on how cheap models like DeepSeek are supercharging state-backed hackers. Quick hits round out the news, including Perplexity's funding talks, a Porsche-TCS deal, and one reader's use of AI to solve a family mystery.",
+    "pub_date": "2026-08-25T16:04:34.543843+00:00",
+    "duration_seconds": 710,
+    "size_bytes": 5682956
   }
 ]
