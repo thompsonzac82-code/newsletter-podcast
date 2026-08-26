@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:03:52 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, August 26, 2026</title>
+      <description>This episode covers the industry push toward local AI hardware: OpenAI's first in-house inference chip Jalapeño and its benchmark results against Nvidia, Apple's new AI-focused M6 Mac mini and M5 Ultra Mac Studio, and Perplexity's Nvidia-powered Portable Computer for running agents on your own desktop. It also spotlights Accelerated Understanding, a startup building physics-based AI instead of language models, plus quick hits on Anthropic's shared Claude memory and IPO plans, Google Cloud's industry-tuned Gemini, and a retiree who built a church-management app using AI.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-26.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-26.mp3" length="4702988" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Aug 2026 16:03:52 +0000</pubDate>
+      <itunes:duration>9:47</itunes:duration>
+      <itunes:summary>This episode covers the industry push toward local AI hardware: OpenAI's first in-house inference chip Jalapeño and its benchmark results against Nvidia, Apple's new AI-focused M6 Mac mini and M5 Ultra Mac Studio, and Perplexity's Nvidia-powered Portable Computer for running agents on your own desktop. It also spotlights Accelerated Understanding, a startup building physics-based AI instead of language models, plus quick hits on Anthropic's shared Claude memory and IPO plans, Google Cloud's industry-tuned Gemini, and a retiree who built a church-management app using AI.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, August 25, 2026</title>
       <description>Today's episode centers on the economics of AI, from OpenAI slashing prices on its top GPT-5.6 Sol model to Thomson Reuters building its own proprietary model for a fraction of frontier-lab costs. It also covers which US cities are most exposed to AI-driven workplace change, the audacious SpaceX-Nvidia plan to put data centers in orbit, and a report on how cheap models like DeepSeek are supercharging state-backed hackers. Quick hits round out the news, including Perplexity's funding talks, a Porsche-TCS deal, and one reader's use of AI to solve a family mystery.</description>

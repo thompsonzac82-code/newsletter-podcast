@@ -358,5 +358,13 @@
     "pub_date": "2026-08-25T16:04:34.543843+00:00",
     "duration_seconds": 710,
     "size_bytes": 5682956
+  },
+  {
+    "filename": "2026-08-26.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, August 26, 2026",
+    "description": "This episode covers the industry push toward local AI hardware: OpenAI's first in-house inference chip Jalape\u00f1o and its benchmark results against Nvidia, Apple's new AI-focused M6 Mac mini and M5 Ultra Mac Studio, and Perplexity's Nvidia-powered Portable Computer for running agents on your own desktop. It also spotlights Accelerated Understanding, a startup building physics-based AI instead of language models, plus quick hits on Anthropic's shared Claude memory and IPO plans, Google Cloud's industry-tuned Gemini, and a retiree who built a church-management app using AI.",
+    "pub_date": "2026-08-26T16:03:52.258396+00:00",
+    "duration_seconds": 587,
+    "size_bytes": 4702988
   }
 ]
