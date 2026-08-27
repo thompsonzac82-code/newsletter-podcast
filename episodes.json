@@ -366,5 +366,13 @@
     "pub_date": "2026-08-26T16:03:52.258396+00:00",
     "duration_seconds": 587,
     "size_bytes": 4702988
+  },
+  {
+    "filename": "2026-08-27.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, August 27, 2026",
+    "description": "Today's digest unpacks the reveal of China's viral mystery model Ox Alpha as Z.ai's GLM 5.3 Flash, which matches frontier performance at a tenth of the cost while running entirely on Chinese-made chips. Also covered: the new Salesforce-Anthropic \"Claudeforce\" partnership embedding Claude across Salesforce and Slack, Google opening its Rambler-powered Gemini 3.5 Transcribe model to developers, and OpenAI's bold AGI predictions from Sam Altman alongside a July security breach and safety slowdown. Plus quick hits on Bill Gates warning of no AI transition plan, ChatGPT Work website sign-ins, and practical AI advice for small business owners.",
+    "pub_date": "2026-08-27T16:04:04.203435+00:00",
+    "duration_seconds": 635,
+    "size_bytes": 5086604
   }
 ]

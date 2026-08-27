@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:04:04 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, August 27, 2026</title>
+      <description>Today's digest unpacks the reveal of China's viral mystery model Ox Alpha as Z.ai's GLM 5.3 Flash, which matches frontier performance at a tenth of the cost while running entirely on Chinese-made chips. Also covered: the new Salesforce-Anthropic "Claudeforce" partnership embedding Claude across Salesforce and Slack, Google opening its Rambler-powered Gemini 3.5 Transcribe model to developers, and OpenAI's bold AGI predictions from Sam Altman alongside a July security breach and safety slowdown. Plus quick hits on Bill Gates warning of no AI transition plan, ChatGPT Work website sign-ins, and practical AI advice for small business owners.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-27.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-27.mp3" length="5086604" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Aug 2026 16:04:04 +0000</pubDate>
+      <itunes:duration>10:35</itunes:duration>
+      <itunes:summary>Today's digest unpacks the reveal of China's viral mystery model Ox Alpha as Z.ai's GLM 5.3 Flash, which matches frontier performance at a tenth of the cost while running entirely on Chinese-made chips. Also covered: the new Salesforce-Anthropic "Claudeforce" partnership embedding Claude across Salesforce and Slack, Google opening its Rambler-powered Gemini 3.5 Transcribe model to developers, and OpenAI's bold AGI predictions from Sam Altman alongside a July security breach and safety slowdown. Plus quick hits on Bill Gates warning of no AI transition plan, ChatGPT Work website sign-ins, and practical AI advice for small business owners.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, August 26, 2026</title>
       <description>This episode covers the industry push toward local AI hardware: OpenAI's first in-house inference chip Jalapeño and its benchmark results against Nvidia, Apple's new AI-focused M6 Mac mini and M5 Ultra Mac Studio, and Perplexity's Nvidia-powered Portable Computer for running agents on your own desktop. It also spotlights Accelerated Understanding, a startup building physics-based AI instead of language models, plus quick hits on Anthropic's shared Claude memory and IPO plans, Google Cloud's industry-tuned Gemini, and a retiree who built a church-management app using AI.</description>
