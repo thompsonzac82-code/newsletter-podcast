@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 16:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:03:59 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, August 28, 2026</title>
+      <description>Nvidia's reported $12.9 billion acquisition of Hugging Face leads the day, alongside a rare open letter from 100-plus companies including OpenAI, Anthropic, and Google warning that AI-enabled cyberattacks are outpacing defenses. The episode also covers Anthropic's new Model Hardware Standard for connecting AI agents to lab and factory machines, the first brain surgery performed with a live AI assistant in the UK, and the rise of voice-driven AI workflows. Rounding it out are quick hits on Google's Gemini updates, Meta's reported $10 billion Anthropic spend, and practical tips for using Claude and Gemini in everyday tasks.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-28.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-28.mp3" length="4838348" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Aug 2026 16:03:59 +0000</pubDate>
+      <itunes:duration>10:04</itunes:duration>
+      <itunes:summary>Nvidia's reported $12.9 billion acquisition of Hugging Face leads the day, alongside a rare open letter from 100-plus companies including OpenAI, Anthropic, and Google warning that AI-enabled cyberattacks are outpacing defenses. The episode also covers Anthropic's new Model Hardware Standard for connecting AI agents to lab and factory machines, the first brain surgery performed with a live AI assistant in the UK, and the rise of voice-driven AI workflows. Rounding it out are quick hits on Google's Gemini updates, Meta's reported $10 billion Anthropic spend, and practical tips for using Claude and Gemini in everyday tasks.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, August 27, 2026</title>
       <description>Today's digest unpacks the reveal of China's viral mystery model Ox Alpha as Z.ai's GLM 5.3 Flash, which matches frontier performance at a tenth of the cost while running entirely on Chinese-made chips. Also covered: the new Salesforce-Anthropic "Claudeforce" partnership embedding Claude across Salesforce and Slack, Google opening its Rambler-powered Gemini 3.5 Transcribe model to developers, and OpenAI's bold AGI predictions from Sam Altman alongside a July security breach and safety slowdown. Plus quick hits on Bill Gates warning of no AI transition plan, ChatGPT Work website sign-ins, and practical AI advice for small business owners.</description>

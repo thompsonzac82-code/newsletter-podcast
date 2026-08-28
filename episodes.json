@@ -374,5 +374,13 @@
     "pub_date": "2026-08-27T16:04:04.203435+00:00",
     "duration_seconds": 635,
     "size_bytes": 5086604
+  },
+  {
+    "filename": "2026-08-28.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, August 28, 2026",
+    "description": "Nvidia's reported $12.9 billion acquisition of Hugging Face leads the day, alongside a rare open letter from 100-plus companies including OpenAI, Anthropic, and Google warning that AI-enabled cyberattacks are outpacing defenses. The episode also covers Anthropic's new Model Hardware Standard for connecting AI agents to lab and factory machines, the first brain surgery performed with a live AI assistant in the UK, and the rise of voice-driven AI workflows. Rounding it out are quick hits on Google's Gemini updates, Meta's reported $10 billion Anthropic spend, and practical tips for using Claude and Gemini in everyday tasks.",
+    "pub_date": "2026-08-28T16:03:59.385499+00:00",
+    "duration_seconds": 604,
+    "size_bytes": 4838348
   }
 ]
