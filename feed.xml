@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:04:02 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Sunday, August 30, 2026</title>
+      <description>Today's episode explores AI's industry-wide pivot from raw power to efficiency and specialization. Cohere launches Parse, a cheap document-reading model undercutting frontier rivals; Replit and Snowflake roll out intelligent model routing that cuts costs while matching quality; and Agility Robotics' CTO makes the case for putting humanoid robots on the factory floor before the home. A tight look at why "the right tool for the job" is beating "bigger is better" across both software and hardware.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-30.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-30.mp3" length="4225100" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Aug 2026 16:04:02 +0000</pubDate>
+      <itunes:duration>8:48</itunes:duration>
+      <itunes:summary>Today's episode explores AI's industry-wide pivot from raw power to efficiency and specialization. Cohere launches Parse, a cheap document-reading model undercutting frontier rivals; Replit and Snowflake roll out intelligent model routing that cuts costs while matching quality; and Agility Robotics' CTO makes the case for putting humanoid robots on the factory floor before the home. A tight look at why "the right tool for the job" is beating "bigger is better" across both software and hardware.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, August 28, 2026</title>
       <description>Nvidia's reported $12.9 billion acquisition of Hugging Face leads the day, alongside a rare open letter from 100-plus companies including OpenAI, Anthropic, and Google warning that AI-enabled cyberattacks are outpacing defenses. The episode also covers Anthropic's new Model Hardware Standard for connecting AI agents to lab and factory machines, the first brain surgery performed with a live AI assistant in the UK, and the rise of voice-driven AI workflows. Rounding it out are quick hits on Google's Gemini updates, Meta's reported $10 billion Anthropic spend, and practical tips for using Claude and Gemini in everyday tasks.</description>
