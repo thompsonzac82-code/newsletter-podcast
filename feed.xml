@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 16:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:04:49 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, August 31, 2026</title>
+      <description>Today's digest examines the growing bipartisan backlash against AI data centers, from statewide moratoriums in New York and Texas to the Trump administration's move to curb public input, plus AMD's open-ecosystem challenge to Nvidia. It also covers OpenAI pulling its models from Musk-owned Cursor amid the Altman-Musk feud, a federal judge ruling the Pentagon illegally blacklisted Anthropic, and Google adding ebooks to Gemini Notebook. Rounding it out: new model releases from Tencent and Z AI, record music-industry lawsuits against Anthropic, and practical AI build tips from the community.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-31.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-08-31.mp3" length="5774348" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Aug 2026 16:04:49 +0000</pubDate>
+      <itunes:duration>12:01</itunes:duration>
+      <itunes:summary>Today's digest examines the growing bipartisan backlash against AI data centers, from statewide moratoriums in New York and Texas to the Trump administration's move to curb public input, plus AMD's open-ecosystem challenge to Nvidia. It also covers OpenAI pulling its models from Musk-owned Cursor amid the Altman-Musk feud, a federal judge ruling the Pentagon illegally blacklisted Anthropic, and Google adding ebooks to Gemini Notebook. Rounding it out: new model releases from Tencent and Z AI, record music-industry lawsuits against Anthropic, and practical AI build tips from the community.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Sunday, August 30, 2026</title>
       <description>Today's episode explores AI's industry-wide pivot from raw power to efficiency and specialization. Cohere launches Parse, a cheap document-reading model undercutting frontier rivals; Replit and Snowflake roll out intelligent model routing that cuts costs while matching quality; and Agility Robotics' CTO makes the case for putting humanoid robots on the factory floor before the home. A tight look at why "the right tool for the job" is beating "bigger is better" across both software and hardware.</description>

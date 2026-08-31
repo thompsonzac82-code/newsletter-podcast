@@ -390,5 +390,13 @@
     "pub_date": "2026-08-30T16:04:02.130329+00:00",
     "duration_seconds": 528,
     "size_bytes": 4225100
+  },
+  {
+    "filename": "2026-08-31.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, August 31, 2026",
+    "description": "Today's digest examines the growing bipartisan backlash against AI data centers, from statewide moratoriums in New York and Texas to the Trump administration's move to curb public input, plus AMD's open-ecosystem challenge to Nvidia. It also covers OpenAI pulling its models from Musk-owned Cursor amid the Altman-Musk feud, a federal judge ruling the Pentagon illegally blacklisted Anthropic, and Google adding ebooks to Gemini Notebook. Rounding it out: new model releases from Tencent and Z AI, record music-industry lawsuits against Anthropic, and practical AI build tips from the community.",
+    "pub_date": "2026-08-31T16:04:49.244222+00:00",
+    "duration_seconds": 721,
+    "size_bytes": 5774348
   }
 ]
