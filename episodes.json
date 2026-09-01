@@ -398,5 +398,13 @@
     "pub_date": "2026-08-31T16:04:49.244222+00:00",
     "duration_seconds": 721,
     "size_bytes": 5774348
+  },
+  {
+    "filename": "2026-09-01.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, September 1, 2026",
+    "description": "Cloudflare's new Adaptive Intelligence tool fights AI-powered hackers by flipping the economics of attacks, while startup PSI emerges from stealth to apply AI-native physics to everything from data centers to a privately funded interstellar probe to Alpha Centauri. Also: an Imperial College London model that reads a routine ECG in under two seconds to catch missed heart disease, Runway's Solaris preview of an internet rendered entirely as real-time video, and Anthropic research showing Claude agents outperforming human experts at AI safety work. Plus quick hits on AI gadgets, Grok for the Pentagon, ChatGPT's ad business and EU scrutiny, and a warning from the Bank of England.",
+    "pub_date": "2026-09-01T16:04:31.913014+00:00",
+    "duration_seconds": 714,
+    "size_bytes": 5719052
   }
 ]
