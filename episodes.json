@@ -406,5 +406,13 @@
     "pub_date": "2026-09-01T16:04:31.913014+00:00",
     "duration_seconds": 714,
     "size_bytes": 5719052
+  },
+  {
+    "filename": "2026-09-02.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, September 2, 2026",
+    "description": "Anthropic launches Claude Fable 5.1, a new top-benchmark model built to slash agentic AI costs, as the price war with OpenAI's imminent Astra release heats up. The episode also digs into the scramble to rein in rogue AI agents\u2014CrowdStrike's new Falcon Guardian platform and Perplexity's privacy-focused Hybrid Compute\u2014plus Bernie Sanders' call for a global AI pause and Apple's trade-secrets lawsuit against OpenAI. Rounding it out: a guide to picking a DIY AI device and quick hits on Meta, World Labs, Google, and Dyson.",
+    "pub_date": "2026-09-02T16:05:08.168950+00:00",
+    "duration_seconds": 804,
+    "size_bytes": 6434060
   }
 ]

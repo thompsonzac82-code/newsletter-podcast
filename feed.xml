@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:04:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:05:08 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, September 2, 2026</title>
+      <description>Anthropic launches Claude Fable 5.1, a new top-benchmark model built to slash agentic AI costs, as the price war with OpenAI's imminent Astra release heats up. The episode also digs into the scramble to rein in rogue AI agents—CrowdStrike's new Falcon Guardian platform and Perplexity's privacy-focused Hybrid Compute—plus Bernie Sanders' call for a global AI pause and Apple's trade-secrets lawsuit against OpenAI. Rounding it out: a guide to picking a DIY AI device and quick hits on Meta, World Labs, Google, and Dyson.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-02.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-02.mp3" length="6434060" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Sep 2026 16:05:08 +0000</pubDate>
+      <itunes:duration>13:24</itunes:duration>
+      <itunes:summary>Anthropic launches Claude Fable 5.1, a new top-benchmark model built to slash agentic AI costs, as the price war with OpenAI's imminent Astra release heats up. The episode also digs into the scramble to rein in rogue AI agents—CrowdStrike's new Falcon Guardian platform and Perplexity's privacy-focused Hybrid Compute—plus Bernie Sanders' call for a global AI pause and Apple's trade-secrets lawsuit against OpenAI. Rounding it out: a guide to picking a DIY AI device and quick hits on Meta, World Labs, Google, and Dyson.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, September 1, 2026</title>
       <description>Cloudflare's new Adaptive Intelligence tool fights AI-powered hackers by flipping the economics of attacks, while startup PSI emerges from stealth to apply AI-native physics to everything from data centers to a privately funded interstellar probe to Alpha Centauri. Also: an Imperial College London model that reads a routine ECG in under two seconds to catch missed heart disease, Runway's Solaris preview of an internet rendered entirely as real-time video, and Anthropic research showing Claude agents outperforming human experts at AI safety work. Plus quick hits on AI gadgets, Grok for the Pentagon, ChatGPT's ad business and EU scrutiny, and a warning from the Bank of England.</description>
