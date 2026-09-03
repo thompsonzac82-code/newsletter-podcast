@@ -414,5 +414,13 @@
     "pub_date": "2026-09-02T16:05:08.168950+00:00",
     "duration_seconds": 804,
     "size_bytes": 6434060
+  },
+  {
+    "filename": "2026-09-03.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, September 3, 2026",
+    "description": "Today's episode covers a wave of new AI model launches, including Google's Gemini 3.8 Flash and Meta's Muse Spark, with a focus on the industry's shift toward cheaper, faster models. It also digs into CrowdStrike's Fal.con security announcements around identifying AI agents, a conversation with Dataiku's Florian Douetteau on why cheap AI raises the stakes for human judgment, and reporting on OpenAI's upcoming Astra model and the safety-versus-performance tension. Plus quick hits on Sonos, OpenAI health and copyright news, funding rounds, NYC's school AI ban, and practical tips on tech literacy and job hunting.",
+    "pub_date": "2026-09-03T16:04:11.974079+00:00",
+    "duration_seconds": 659,
+    "size_bytes": 5277068
   }
 ]
