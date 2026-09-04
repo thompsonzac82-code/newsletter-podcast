@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:03:54 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, September 4, 2026</title>
+      <description>OpenAI dominates today's digest with the launch of GPT-6 Astra, a model its president says marks the arrival of the AGI era, alongside claims about coding and cybersecurity benchmarks, steep new pricing, and candid safety concerns about monitoring how it reasons. Nvidia also makes waves with its $12.9 billion acquisition of open-source hub Hugging Face and a push to bring local AI to Windows via the RTX Spark. Rounding things out: Google DeepMind's hourly WeatherNext 3 forecasting model, a prime-number math record broken twice in one day, a Bernie Sanders bill to ban superintelligent AI, and industry-wide outages.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-04.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-04.mp3" length="4992716" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Sep 2026 16:03:54 +0000</pubDate>
+      <itunes:duration>10:24</itunes:duration>
+      <itunes:summary>OpenAI dominates today's digest with the launch of GPT-6 Astra, a model its president says marks the arrival of the AGI era, alongside claims about coding and cybersecurity benchmarks, steep new pricing, and candid safety concerns about monitoring how it reasons. Nvidia also makes waves with its $12.9 billion acquisition of open-source hub Hugging Face and a push to bring local AI to Windows via the RTX Spark. Rounding things out: Google DeepMind's hourly WeatherNext 3 forecasting model, a prime-number math record broken twice in one day, a Bernie Sanders bill to ban superintelligent AI, and industry-wide outages.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, September 3, 2026</title>
       <description>Today's episode covers a wave of new AI model launches, including Google's Gemini 3.8 Flash and Meta's Muse Spark, with a focus on the industry's shift toward cheaper, faster models. It also digs into CrowdStrike's Fal.con security announcements around identifying AI agents, a conversation with Dataiku's Florian Douetteau on why cheap AI raises the stakes for human judgment, and reporting on OpenAI's upcoming Astra model and the safety-versus-performance tension. Plus quick hits on Sonos, OpenAI health and copyright news, funding rounds, NYC's school AI ban, and practical tips on tech literacy and job hunting.</description>

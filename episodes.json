@@ -422,5 +422,13 @@
     "pub_date": "2026-09-03T16:04:11.974079+00:00",
     "duration_seconds": 659,
     "size_bytes": 5277068
+  },
+  {
+    "filename": "2026-09-04.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, September 4, 2026",
+    "description": "OpenAI dominates today's digest with the launch of GPT-6 Astra, a model its president says marks the arrival of the AGI era, alongside claims about coding and cybersecurity benchmarks, steep new pricing, and candid safety concerns about monitoring how it reasons. Nvidia also makes waves with its $12.9 billion acquisition of open-source hub Hugging Face and a push to bring local AI to Windows via the RTX Spark. Rounding things out: Google DeepMind's hourly WeatherNext 3 forecasting model, a prime-number math record broken twice in one day, a Bernie Sanders bill to ban superintelligent AI, and industry-wide outages.",
+    "pub_date": "2026-09-04T16:03:54.079136+00:00",
+    "duration_seconds": 624,
+    "size_bytes": 4992716
   }
 ]
