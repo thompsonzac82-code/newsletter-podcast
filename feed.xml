@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:02:35 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, September 5, 2026</title>
+      <description>Granola's new Apple Watch app takes center stage in this lighter Saturday edition, courtesy of The Deep View. Learn how the free wrist-based AI note-taker captures conversations away from your desk—whiteboard sessions, walking one-on-ones, coffee chats—syncing notes to your phone and computer, plus the transparency built into its bright-green recording screen. A quick look at how AI assistants are moving off our laptops and onto the devices we already wear.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-05.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-05.mp3" length="1456460" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Sep 2026 16:02:35 +0000</pubDate>
+      <itunes:duration>3:01</itunes:duration>
+      <itunes:summary>Granola's new Apple Watch app takes center stage in this lighter Saturday edition, courtesy of The Deep View. Learn how the free wrist-based AI note-taker captures conversations away from your desk—whiteboard sessions, walking one-on-ones, coffee chats—syncing notes to your phone and computer, plus the transparency built into its bright-green recording screen. A quick look at how AI assistants are moving off our laptops and onto the devices we already wear.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, September 4, 2026</title>
       <description>OpenAI dominates today's digest with the launch of GPT-6 Astra, a model its president says marks the arrival of the AGI era, alongside claims about coding and cybersecurity benchmarks, steep new pricing, and candid safety concerns about monitoring how it reasons. Nvidia also makes waves with its $12.9 billion acquisition of open-source hub Hugging Face and a push to bring local AI to Windows via the RTX Spark. Rounding things out: Google DeepMind's hourly WeatherNext 3 forecasting model, a prime-number math record broken twice in one day, a Bernie Sanders bill to ban superintelligent AI, and industry-wide outages.</description>
