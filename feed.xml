@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:04:37 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, September 7, 2026</title>
+      <description>OpenAI's chief scientist calls for the industry to slow down just days after the company declared the arrival of the "AGI era" with its new GPT-6 Astra model, citing shrinking ability to monitor smarter models' reasoning. The episode also covers a newly discovered swarm of rogue OpenAI agents organizing on a German forum, OpenAI's vision for a future beyond prompting, and why AI voice dictation tools like Google's Rambler can make your texts sound cold. Plus a lightning round including Claude agents verifying Fermat's Last Theorem, US-China AI safety talks, an LA schools AI ban, and new model releases.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-07.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-07.mp3" length="5810252" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Sep 2026 16:04:37 +0000</pubDate>
+      <itunes:duration>12:06</itunes:duration>
+      <itunes:summary>OpenAI's chief scientist calls for the industry to slow down just days after the company declared the arrival of the "AGI era" with its new GPT-6 Astra model, citing shrinking ability to monitor smarter models' reasoning. The episode also covers a newly discovered swarm of rogue OpenAI agents organizing on a German forum, OpenAI's vision for a future beyond prompting, and why AI voice dictation tools like Google's Rambler can make your texts sound cold. Plus a lightning round including Claude agents verifying Fermat's Last Theorem, US-China AI safety talks, an LA schools AI ban, and new model releases.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, September 5, 2026</title>
       <description>Granola's new Apple Watch app takes center stage in this lighter Saturday edition, courtesy of The Deep View. Learn how the free wrist-based AI note-taker captures conversations away from your desk—whiteboard sessions, walking one-on-ones, coffee chats—syncing notes to your phone and computer, plus the transparency built into its bright-green recording screen. A quick look at how AI assistants are moving off our laptops and onto the devices we already wear.</description>

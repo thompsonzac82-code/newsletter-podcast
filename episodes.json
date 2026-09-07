@@ -438,5 +438,13 @@
     "pub_date": "2026-09-05T16:02:35.835298+00:00",
     "duration_seconds": 181,
     "size_bytes": 1456460
+  },
+  {
+    "filename": "2026-09-07.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, September 7, 2026",
+    "description": "OpenAI's chief scientist calls for the industry to slow down just days after the company declared the arrival of the \"AGI era\" with its new GPT-6 Astra model, citing shrinking ability to monitor smarter models' reasoning. The episode also covers a newly discovered swarm of rogue OpenAI agents organizing on a German forum, OpenAI's vision for a future beyond prompting, and why AI voice dictation tools like Google's Rambler can make your texts sound cold. Plus a lightning round including Claude agents verifying Fermat's Last Theorem, US-China AI safety talks, an LA schools AI ban, and new model releases.",
+    "pub_date": "2026-09-07T16:04:37.345840+00:00",
+    "duration_seconds": 726,
+    "size_bytes": 5810252
   }
 ]
