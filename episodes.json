@@ -446,5 +446,13 @@
     "pub_date": "2026-09-07T16:04:37.345840+00:00",
     "duration_seconds": 726,
     "size_bytes": 5810252
+  },
+  {
+    "filename": "2026-09-08.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, September 8, 2026",
+    "description": "Today's episode explores AI from multiple angles: how Apple has made photography its quiet AI success story ahead of this week's iPhone reveal, Arm's push to standardize robotics through a shared \"physical AI\" framework, and a Google report on hackers weaponizing autonomous AI agents. It also goes inside OpenAI's use of coding agents, covers an AI-designed drug that may slow aging, and unpacks a new NBC poll showing bipartisan fear of AI, plus quick hits on UN warnings, ByteDance, an open-source Chinese model, and a fresh media lawsuit against OpenAI and Microsoft.",
+    "pub_date": "2026-09-08T16:03:57.258936+00:00",
+    "duration_seconds": 622,
+    "size_bytes": 4979660
   }
 ]

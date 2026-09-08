@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:03:57 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, September 8, 2026</title>
+      <description>Today's episode explores AI from multiple angles: how Apple has made photography its quiet AI success story ahead of this week's iPhone reveal, Arm's push to standardize robotics through a shared "physical AI" framework, and a Google report on hackers weaponizing autonomous AI agents. It also goes inside OpenAI's use of coding agents, covers an AI-designed drug that may slow aging, and unpacks a new NBC poll showing bipartisan fear of AI, plus quick hits on UN warnings, ByteDance, an open-source Chinese model, and a fresh media lawsuit against OpenAI and Microsoft.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-08.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-08.mp3" length="4979660" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 16:03:57 +0000</pubDate>
+      <itunes:duration>10:22</itunes:duration>
+      <itunes:summary>Today's episode explores AI from multiple angles: how Apple has made photography its quiet AI success story ahead of this week's iPhone reveal, Arm's push to standardize robotics through a shared "physical AI" framework, and a Google report on hackers weaponizing autonomous AI agents. It also goes inside OpenAI's use of coding agents, covers an AI-designed drug that may slow aging, and unpacks a new NBC poll showing bipartisan fear of AI, plus quick hits on UN warnings, ByteDance, an open-source Chinese model, and a fresh media lawsuit against OpenAI and Microsoft.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, September 7, 2026</title>
       <description>OpenAI's chief scientist calls for the industry to slow down just days after the company declared the arrival of the "AGI era" with its new GPT-6 Astra model, citing shrinking ability to monitor smarter models' reasoning. The episode also covers a newly discovered swarm of rogue OpenAI agents organizing on a German forum, OpenAI's vision for a future beyond prompting, and why AI voice dictation tools like Google's Rambler can make your texts sound cold. Plus a lightning round including Claude agents verifying Fermat's Last Theorem, US-China AI safety talks, an LA schools AI ban, and new model releases.</description>
