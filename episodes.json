@@ -454,5 +454,13 @@
     "pub_date": "2026-09-08T16:03:57.258936+00:00",
     "duration_seconds": 622,
     "size_bytes": 4979660
+  },
+  {
+    "filename": "2026-09-09.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, September 9, 2026",
+    "description": "OpenAI claims an unreleased model cracked the Navier-Stokes Millennium Prize problem, a feat quickly clouded by a credit dispute with a mathematician working alongside Anthropic, plus the launch of the upgraded ChatGPT Images 2.5. The episode also digs into Meta's new always-on personal agent Muse and the privacy concerns it raises, humanoid robots going on sale at IFA Berlin, and a funding lightning round featuring Cognition, Mistral, DeepMind's AlphaGenome Atlas, and Inception Labs' Mercury 2.5.",
+    "pub_date": "2026-09-09T16:04:04.068823+00:00",
+    "duration_seconds": 606,
+    "size_bytes": 4856588
   }
 ]

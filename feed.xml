@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:04:04 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, September 9, 2026</title>
+      <description>OpenAI claims an unreleased model cracked the Navier-Stokes Millennium Prize problem, a feat quickly clouded by a credit dispute with a mathematician working alongside Anthropic, plus the launch of the upgraded ChatGPT Images 2.5. The episode also digs into Meta's new always-on personal agent Muse and the privacy concerns it raises, humanoid robots going on sale at IFA Berlin, and a funding lightning round featuring Cognition, Mistral, DeepMind's AlphaGenome Atlas, and Inception Labs' Mercury 2.5.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-09.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-09.mp3" length="4856588" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Sep 2026 16:04:04 +0000</pubDate>
+      <itunes:duration>10:06</itunes:duration>
+      <itunes:summary>OpenAI claims an unreleased model cracked the Navier-Stokes Millennium Prize problem, a feat quickly clouded by a credit dispute with a mathematician working alongside Anthropic, plus the launch of the upgraded ChatGPT Images 2.5. The episode also digs into Meta's new always-on personal agent Muse and the privacy concerns it raises, humanoid robots going on sale at IFA Berlin, and a funding lightning round featuring Cognition, Mistral, DeepMind's AlphaGenome Atlas, and Inception Labs' Mercury 2.5.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, September 8, 2026</title>
       <description>Today's episode explores AI from multiple angles: how Apple has made photography its quiet AI success story ahead of this week's iPhone reveal, Arm's push to standardize robotics through a shared "physical AI" framework, and a Google report on hackers weaponizing autonomous AI agents. It also goes inside OpenAI's use of coding agents, covers an AI-designed drug that may slow aging, and unpacks a new NBC poll showing bipartisan fear of AI, plus quick hits on UN warnings, ByteDance, an open-source Chinese model, and a fresh media lawsuit against OpenAI and Microsoft.</description>
