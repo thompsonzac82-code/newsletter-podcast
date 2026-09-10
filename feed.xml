@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:03:45 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, September 10, 2026</title>
+      <description>Apple's September event dominates, with hands-on impressions of the new folding iPhone Duo and how AI now runs through the entire lineup, from the Apple Watch's always-listening Audio Intelligence to authenticity-checking on the iPhone 18 Pro. The episode also covers Coursera's AI-native corporate training platform Project Helix and a heated AI-safety debate sparked by a researcher's resignation from Anthropic, where even alignment leads put the odds of catastrophe above ten percent. Rounding it out: Suno's licensed v6 music models and its truce with major labels, plus quick hits on Instacart, Amazon Prime Video, Google, and Meta.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-10.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-10.mp3" length="4518668" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 16:03:45 +0000</pubDate>
+      <itunes:duration>9:24</itunes:duration>
+      <itunes:summary>Apple's September event dominates, with hands-on impressions of the new folding iPhone Duo and how AI now runs through the entire lineup, from the Apple Watch's always-listening Audio Intelligence to authenticity-checking on the iPhone 18 Pro. The episode also covers Coursera's AI-native corporate training platform Project Helix and a heated AI-safety debate sparked by a researcher's resignation from Anthropic, where even alignment leads put the odds of catastrophe above ten percent. Rounding it out: Suno's licensed v6 music models and its truce with major labels, plus quick hits on Instacart, Amazon Prime Video, Google, and Meta.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, September 9, 2026</title>
       <description>OpenAI claims an unreleased model cracked the Navier-Stokes Millennium Prize problem, a feat quickly clouded by a credit dispute with a mathematician working alongside Anthropic, plus the launch of the upgraded ChatGPT Images 2.5. The episode also digs into Meta's new always-on personal agent Muse and the privacy concerns it raises, humanoid robots going on sale at IFA Berlin, and a funding lightning round featuring Cognition, Mistral, DeepMind's AlphaGenome Atlas, and Inception Labs' Mercury 2.5.</description>

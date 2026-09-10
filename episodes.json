@@ -462,5 +462,13 @@
     "pub_date": "2026-09-09T16:04:04.068823+00:00",
     "duration_seconds": 606,
     "size_bytes": 4856588
+  },
+  {
+    "filename": "2026-09-10.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, September 10, 2026",
+    "description": "Apple's September event dominates, with hands-on impressions of the new folding iPhone Duo and how AI now runs through the entire lineup, from the Apple Watch's always-listening Audio Intelligence to authenticity-checking on the iPhone 18 Pro. The episode also covers Coursera's AI-native corporate training platform Project Helix and a heated AI-safety debate sparked by a researcher's resignation from Anthropic, where even alignment leads put the odds of catastrophe above ten percent. Rounding it out: Suno's licensed v6 music models and its truce with major labels, plus quick hits on Instacart, Amazon Prime Video, Google, and Meta.",
+    "pub_date": "2026-09-10T16:03:45.396158+00:00",
+    "duration_seconds": 564,
+    "size_bytes": 4518668
   }
 ]
