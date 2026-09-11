@@ -470,5 +470,13 @@
     "pub_date": "2026-09-10T16:03:45.396158+00:00",
     "duration_seconds": 564,
     "size_bytes": 4518668
+  },
+  {
+    "filename": "2026-09-11.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, September 11, 2026",
+    "description": "AI lab insiders sound the alarm, with departing Anthropic and OpenAI researchers warning that the race toward superintelligence is outpacing safety, alongside Anthropic's 150-page threat report detailing Claude misuse from Chinese model distillation to rocket guidance and mass surveillance. On the product and business side, Apple turns the Apple Watch into an always-listening \"ambient intelligence\" device, Ramp's data shows AI spending cooling as businesses shift to cheaper mid-tier models, and DeepSeek's low-cost V4.1 Flash undercuts frontier rivals. Plus quick hits on GPT-6 wardrobe redesigns, Cognition's SWE-2 coding model, a Meta-to-Anthropic talent move, and OpenAI's push into financial services.",
+    "pub_date": "2026-09-11T16:05:02.097999+00:00",
+    "duration_seconds": 833,
+    "size_bytes": 6665036
   }
 ]
