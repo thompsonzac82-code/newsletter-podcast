@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:02:19 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, September 12, 2026</title>
+      <description>A weekend edition focused on how AI is leveling the playing field for small and medium-sized businesses, drawn from a special issue of The Deep View featuring Rokt's Guang Li. It covers AI as a "force multiplier" for lean teams, capitalizing on the post-purchase checkout moment, AI shifting from dashboards to plain-language advice and agentic actions, and the importance of merchants keeping control and setting boundaries over their brand and customer experience.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-12.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-12.mp3" length="2288972" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Sep 2026 16:02:19 +0000</pubDate>
+      <itunes:duration>4:46</itunes:duration>
+      <itunes:summary>A weekend edition focused on how AI is leveling the playing field for small and medium-sized businesses, drawn from a special issue of The Deep View featuring Rokt's Guang Li. It covers AI as a "force multiplier" for lean teams, capitalizing on the post-purchase checkout moment, AI shifting from dashboards to plain-language advice and agentic actions, and the importance of merchants keeping control and setting boundaries over their brand and customer experience.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, September 11, 2026</title>
       <description>AI lab insiders sound the alarm, with departing Anthropic and OpenAI researchers warning that the race toward superintelligence is outpacing safety, alongside Anthropic's 150-page threat report detailing Claude misuse from Chinese model distillation to rocket guidance and mass surveillance. On the product and business side, Apple turns the Apple Watch into an always-listening "ambient intelligence" device, Ramp's data shows AI spending cooling as businesses shift to cheaper mid-tier models, and DeepSeek's low-cost V4.1 Flash undercuts frontier rivals. Plus quick hits on GPT-6 wardrobe redesigns, Cognition's SWE-2 coding model, a Meta-to-Anthropic talent move, and OpenAI's push into financial services.</description>
