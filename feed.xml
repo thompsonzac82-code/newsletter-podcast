@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:03:50 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, September 14, 2026</title>
+      <description>Anthropic's Dario Amodei calls for pacing AI development so safety can catch up, and rivals including Sam Altman, Elon Musk, and Google DeepMind largely agree, even as President Trump pushes back. The episode also examines whether the AI startup funding frenzy is a bubble or a strategy, Apple's new foldable iPhone Duo and Apple Watch audio features, and a Chinese hospital trial showing AI boosting prenatal ultrasound accuracy. Plus quick hits on Meta's Muse agent, new coding and music models, Pentagon funding moves, and mathematicians warning about AI's race through their field.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-14.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-14.mp3" length="4906700" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Sep 2026 16:03:50 +0000</pubDate>
+      <itunes:duration>10:13</itunes:duration>
+      <itunes:summary>Anthropic's Dario Amodei calls for pacing AI development so safety can catch up, and rivals including Sam Altman, Elon Musk, and Google DeepMind largely agree, even as President Trump pushes back. The episode also examines whether the AI startup funding frenzy is a bubble or a strategy, Apple's new foldable iPhone Duo and Apple Watch audio features, and a Chinese hospital trial showing AI boosting prenatal ultrasound accuracy. Plus quick hits on Meta's Muse agent, new coding and music models, Pentagon funding moves, and mathematicians warning about AI's race through their field.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, September 12, 2026</title>
       <description>A weekend edition focused on how AI is leveling the playing field for small and medium-sized businesses, drawn from a special issue of The Deep View featuring Rokt's Guang Li. It covers AI as a "force multiplier" for lean teams, capitalizing on the post-purchase checkout moment, AI shifting from dashboards to plain-language advice and agentic actions, and the importance of merchants keeping control and setting boundaries over their brand and customer experience.</description>

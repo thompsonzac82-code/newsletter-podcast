@@ -486,5 +486,13 @@
     "pub_date": "2026-09-12T16:02:19.804895+00:00",
     "duration_seconds": 286,
     "size_bytes": 2288972
+  },
+  {
+    "filename": "2026-09-14.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, September 14, 2026",
+    "description": "Anthropic's Dario Amodei calls for pacing AI development so safety can catch up, and rivals including Sam Altman, Elon Musk, and Google DeepMind largely agree, even as President Trump pushes back. The episode also examines whether the AI startup funding frenzy is a bubble or a strategy, Apple's new foldable iPhone Duo and Apple Watch audio features, and a Chinese hospital trial showing AI boosting prenatal ultrasound accuracy. Plus quick hits on Meta's Muse agent, new coding and music models, Pentagon funding moves, and mathematicians warning about AI's race through their field.",
+    "pub_date": "2026-09-14T16:03:50.441203+00:00",
+    "duration_seconds": 613,
+    "size_bytes": 4906700
   }
 ]
