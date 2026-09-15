@@ -494,5 +494,13 @@
     "pub_date": "2026-09-14T16:03:50.441203+00:00",
     "duration_seconds": 613,
     "size_bytes": 4906700
+  },
+  {
+    "filename": "2026-09-15.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, September 15, 2026",
+    "description": "The AI world erupts over Dario Amodei's call to slow frontier development, an idea backed by Sam Altman and Elon Musk but rejected in unison by the US and China, sending AI stocks sliding. Also covered: Microsoft's new 38-page \"Humanist AI\" Code of Conduct, the long-awaited launch of Apple's smarter Siri and iOS 27, and a lightning round of deals and tools including OpenAI's acquisition of Glass Imaging, enterprise privacy pushback against Anthropic, and Suno's version six music models.",
+    "pub_date": "2026-09-15T16:04:09.256224+00:00",
+    "duration_seconds": 650,
+    "size_bytes": 5203340
   }
 ]

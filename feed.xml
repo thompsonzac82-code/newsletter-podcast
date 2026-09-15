@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:03:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:04:09 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, September 15, 2026</title>
+      <description>The AI world erupts over Dario Amodei's call to slow frontier development, an idea backed by Sam Altman and Elon Musk but rejected in unison by the US and China, sending AI stocks sliding. Also covered: Microsoft's new 38-page "Humanist AI" Code of Conduct, the long-awaited launch of Apple's smarter Siri and iOS 27, and a lightning round of deals and tools including OpenAI's acquisition of Glass Imaging, enterprise privacy pushback against Anthropic, and Suno's version six music models.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-15.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-15.mp3" length="5203340" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Sep 2026 16:04:09 +0000</pubDate>
+      <itunes:duration>10:50</itunes:duration>
+      <itunes:summary>The AI world erupts over Dario Amodei's call to slow frontier development, an idea backed by Sam Altman and Elon Musk but rejected in unison by the US and China, sending AI stocks sliding. Also covered: Microsoft's new 38-page "Humanist AI" Code of Conduct, the long-awaited launch of Apple's smarter Siri and iOS 27, and a lightning round of deals and tools including OpenAI's acquisition of Glass Imaging, enterprise privacy pushback against Anthropic, and Suno's version six music models.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, September 14, 2026</title>
       <description>Anthropic's Dario Amodei calls for pacing AI development so safety can catch up, and rivals including Sam Altman, Elon Musk, and Google DeepMind largely agree, even as President Trump pushes back. The episode also examines whether the AI startup funding frenzy is a bubble or a strategy, Apple's new foldable iPhone Duo and Apple Watch audio features, and a Chinese hospital trial showing AI boosting prenatal ultrasound accuracy. Plus quick hits on Meta's Muse agent, new coding and music models, Pentagon funding moves, and mathematicians warning about AI's race through their field.</description>
