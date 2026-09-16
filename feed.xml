@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:04:30 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, September 16, 2026</title>
+      <description>Today's episode digs into the AI industry's push toward third-party safety accountability, including a proposed FINRA-style standards body and a contrasting Chinese paper framing recursive self-improvement as a goal rather than a risk. It also covers Salesforce building its own private model, Koa, alongside new tools like Claudeforce and AIforce, plus TypeSafe's unusual non-text model Jev and a sweep of Google's humanitarian AI breakthroughs in health, weather, and disaster prediction. Rounding it out are quick hits on Gemini 3.8 Live, OpenAI's Project Lily, Meta One pricing, and a heartwarming story of ChatGPT helping find emergency vet care for a dog.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-16.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-16.mp3" length="5955212" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 16:04:30 +0000</pubDate>
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:summary>Today's episode digs into the AI industry's push toward third-party safety accountability, including a proposed FINRA-style standards body and a contrasting Chinese paper framing recursive self-improvement as a goal rather than a risk. It also covers Salesforce building its own private model, Koa, alongside new tools like Claudeforce and AIforce, plus TypeSafe's unusual non-text model Jev and a sweep of Google's humanitarian AI breakthroughs in health, weather, and disaster prediction. Rounding it out are quick hits on Gemini 3.8 Live, OpenAI's Project Lily, Meta One pricing, and a heartwarming story of ChatGPT helping find emergency vet care for a dog.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, September 15, 2026</title>
       <description>The AI world erupts over Dario Amodei's call to slow frontier development, an idea backed by Sam Altman and Elon Musk but rejected in unison by the US and China, sending AI stocks sliding. Also covered: Microsoft's new 38-page "Humanist AI" Code of Conduct, the long-awaited launch of Apple's smarter Siri and iOS 27, and a lightning round of deals and tools including OpenAI's acquisition of Glass Imaging, enterprise privacy pushback against Anthropic, and Suno's version six music models.</description>

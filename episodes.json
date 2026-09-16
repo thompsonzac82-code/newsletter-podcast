@@ -502,5 +502,13 @@
     "pub_date": "2026-09-15T16:04:09.256224+00:00",
     "duration_seconds": 650,
     "size_bytes": 5203340
+  },
+  {
+    "filename": "2026-09-16.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, September 16, 2026",
+    "description": "Today's episode digs into the AI industry's push toward third-party safety accountability, including a proposed FINRA-style standards body and a contrasting Chinese paper framing recursive self-improvement as a goal rather than a risk. It also covers Salesforce building its own private model, Koa, alongside new tools like Claudeforce and AIforce, plus TypeSafe's unusual non-text model Jev and a sweep of Google's humanitarian AI breakthroughs in health, weather, and disaster prediction. Rounding it out are quick hits on Gemini 3.8 Live, OpenAI's Project Lily, Meta One pricing, and a heartwarming story of ChatGPT helping find emergency vet care for a dog.",
+    "pub_date": "2026-09-16T16:04:30.073442+00:00",
+    "duration_seconds": 744,
+    "size_bytes": 5955212
   }
 ]
