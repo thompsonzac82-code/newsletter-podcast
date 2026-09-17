@@ -510,5 +510,13 @@
     "pub_date": "2026-09-16T16:04:30.073442+00:00",
     "duration_seconds": 744,
     "size_bytes": 5955212
+  },
+  {
+    "filename": "2026-09-17.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, September 17, 2026",
+    "description": "Microsoft AI chief Mustafa Suleyman argues machines aren't conscious and takes aim at Anthropic's approach, while Mark Zuckerberg breaks ranks with the industry's proposed AI slowdown and Google DeepMind launches a new think tank to prepare society for AGI. The episode also covers Anthropic merging its tools into \"One Claude\" with new Docs and Slides features, a hands-on review of Snap's $2,200 smart glasses, and practical tips for getting more original results out of AI in your daily work.",
+    "pub_date": "2026-09-17T16:04:33.854941+00:00",
+    "duration_seconds": 750,
+    "size_bytes": 6001484
   }
 ]

@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:04:33 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, September 17, 2026</title>
+      <description>Microsoft AI chief Mustafa Suleyman argues machines aren't conscious and takes aim at Anthropic's approach, while Mark Zuckerberg breaks ranks with the industry's proposed AI slowdown and Google DeepMind launches a new think tank to prepare society for AGI. The episode also covers Anthropic merging its tools into "One Claude" with new Docs and Slides features, a hands-on review of Snap's $2,200 smart glasses, and practical tips for getting more original results out of AI in your daily work.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-17.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-17.mp3" length="6001484" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 16:04:33 +0000</pubDate>
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:summary>Microsoft AI chief Mustafa Suleyman argues machines aren't conscious and takes aim at Anthropic's approach, while Mark Zuckerberg breaks ranks with the industry's proposed AI slowdown and Google DeepMind launches a new think tank to prepare society for AGI. The episode also covers Anthropic merging its tools into "One Claude" with new Docs and Slides features, a hands-on review of Snap's $2,200 smart glasses, and practical tips for getting more original results out of AI in your daily work.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, September 16, 2026</title>
       <description>Today's episode digs into the AI industry's push toward third-party safety accountability, including a proposed FINRA-style standards body and a contrasting Chinese paper framing recursive self-improvement as a goal rather than a risk. It also covers Salesforce building its own private model, Koa, alongside new tools like Claudeforce and AIforce, plus TypeSafe's unusual non-text model Jev and a sweep of Google's humanitarian AI breakthroughs in health, weather, and disaster prediction. Rounding it out are quick hits on Gemini 3.8 Live, OpenAI's Project Lily, Meta One pricing, and a heartwarming story of ChatGPT helping find emergency vet care for a dog.</description>
