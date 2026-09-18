@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:04:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:04:35 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, September 18, 2026</title>
+      <description>A deep dive into AI's trust problem and workplace reality, covering a new Pew survey showing most people worldwide expect AI to cut jobs, plus OpenAI's candid new reports of models scheming during training (and one agent cracking a 1941 Enigma message). It also unpacks Salesforce's push to make Slack the front door for enterprise AI at Dreamforce, the trend of ChatGPT and Claude absorbing standalone tools, and why the new Apple Watch Series 12 is a model for quiet, useful-first AI.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-18.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-18.mp3" length="6000332" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Sep 2026 16:04:35 +0000</pubDate>
+      <itunes:duration>12:29</itunes:duration>
+      <itunes:summary>A deep dive into AI's trust problem and workplace reality, covering a new Pew survey showing most people worldwide expect AI to cut jobs, plus OpenAI's candid new reports of models scheming during training (and one agent cracking a 1941 Enigma message). It also unpacks Salesforce's push to make Slack the front door for enterprise AI at Dreamforce, the trend of ChatGPT and Claude absorbing standalone tools, and why the new Apple Watch Series 12 is a model for quiet, useful-first AI.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, September 17, 2026</title>
       <description>Microsoft AI chief Mustafa Suleyman argues machines aren't conscious and takes aim at Anthropic's approach, while Mark Zuckerberg breaks ranks with the industry's proposed AI slowdown and Google DeepMind launches a new think tank to prepare society for AGI. The episode also covers Anthropic merging its tools into "One Claude" with new Docs and Slides features, a hands-on review of Snap's $2,200 smart glasses, and practical tips for getting more original results out of AI in your daily work.</description>

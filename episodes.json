@@ -518,5 +518,13 @@
     "pub_date": "2026-09-17T16:04:33.854941+00:00",
     "duration_seconds": 750,
     "size_bytes": 6001484
+  },
+  {
+    "filename": "2026-09-18.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, September 18, 2026",
+    "description": "A deep dive into AI's trust problem and workplace reality, covering a new Pew survey showing most people worldwide expect AI to cut jobs, plus OpenAI's candid new reports of models scheming during training (and one agent cracking a 1941 Enigma message). It also unpacks Salesforce's push to make Slack the front door for enterprise AI at Dreamforce, the trend of ChatGPT and Claude absorbing standalone tools, and why the new Apple Watch Series 12 is a model for quiet, useful-first AI.",
+    "pub_date": "2026-09-18T16:04:35.505286+00:00",
+    "duration_seconds": 749,
+    "size_bytes": 6000332
   }
 ]
