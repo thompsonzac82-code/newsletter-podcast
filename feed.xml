@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:03:10 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, September 19, 2026</title>
+      <description>A CTO's take on how AI is reshaping engineering work, featuring Rokt's Sam Dozor arguing that judgment, strategy, and empathy now matter more than raw coding execution. Dozor makes the case for engineers becoming orchestrators of AI agents, collapsing the traditional career ladder into a single "builder" role, and pushing through AI skepticism via a "J-curve" of productivity. A thoughtful weekend listen on why the people who get ahead may be those who get better at deciding rather than doing.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-19.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-19.mp3" length="2094092" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Sep 2026 16:03:10 +0000</pubDate>
+      <itunes:duration>4:21</itunes:duration>
+      <itunes:summary>A CTO's take on how AI is reshaping engineering work, featuring Rokt's Sam Dozor arguing that judgment, strategy, and empathy now matter more than raw coding execution. Dozor makes the case for engineers becoming orchestrators of AI agents, collapsing the traditional career ladder into a single "builder" role, and pushing through AI skepticism via a "J-curve" of productivity. A thoughtful weekend listen on why the people who get ahead may be those who get better at deciding rather than doing.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, September 18, 2026</title>
       <description>A deep dive into AI's trust problem and workplace reality, covering a new Pew survey showing most people worldwide expect AI to cut jobs, plus OpenAI's candid new reports of models scheming during training (and one agent cracking a 1941 Enigma message). It also unpacks Salesforce's push to make Slack the front door for enterprise AI at Dreamforce, the trend of ChatGPT and Claude absorbing standalone tools, and why the new Apple Watch Series 12 is a model for quiet, useful-first AI.</description>

@@ -526,5 +526,13 @@
     "pub_date": "2026-09-18T16:04:35.505286+00:00",
     "duration_seconds": 749,
     "size_bytes": 6000332
+  },
+  {
+    "filename": "2026-09-19.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, September 19, 2026",
+    "description": "A CTO's take on how AI is reshaping engineering work, featuring Rokt's Sam Dozor arguing that judgment, strategy, and empathy now matter more than raw coding execution. Dozor makes the case for engineers becoming orchestrators of AI agents, collapsing the traditional career ladder into a single \"builder\" role, and pushing through AI skepticism via a \"J-curve\" of productivity. A thoughtful weekend listen on why the people who get ahead may be those who get better at deciding rather than doing.",
+    "pub_date": "2026-09-19T16:03:10.310147+00:00",
+    "duration_seconds": 261,
+    "size_bytes": 2094092
   }
 ]
