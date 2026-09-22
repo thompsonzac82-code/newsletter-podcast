@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:04:01 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, September 22, 2026</title>
+      <description>Today's episode digs into AI geopolitics, with the US and China's deeply entangled AI ecosystems in focus ahead of a White House meeting with Xi Jinping, plus Trump's proposed AI Force and czar. We also cover the dueling hardware visions of Apple's local-AI Macs and Google's Gemini-powered Googlebooks, Amazon's move to block Meta's Muse shopping agent, and unsettling research into whether AI models can feel something like pain. Quick hits round out the episode with Grok 4.7, Alibaba's Qwen-Image, the FAA's new air traffic tool, and a reader who used Grok to win a small-claims dispute.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-22.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-22.mp3" length="5760524" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Sep 2026 16:04:01 +0000</pubDate>
+      <itunes:duration>11:59</itunes:duration>
+      <itunes:summary>Today's episode digs into AI geopolitics, with the US and China's deeply entangled AI ecosystems in focus ahead of a White House meeting with Xi Jinping, plus Trump's proposed AI Force and czar. We also cover the dueling hardware visions of Apple's local-AI Macs and Google's Gemini-powered Googlebooks, Amazon's move to block Meta's Muse shopping agent, and unsettling research into whether AI models can feel something like pain. Quick hits round out the episode with Grok 4.7, Alibaba's Qwen-Image, the FAA's new air traffic tool, and a reader who used Grok to win a small-claims dispute.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, September 19, 2026</title>
       <description>A CTO's take on how AI is reshaping engineering work, featuring Rokt's Sam Dozor arguing that judgment, strategy, and empathy now matter more than raw coding execution. Dozor makes the case for engineers becoming orchestrators of AI agents, collapsing the traditional career ladder into a single "builder" role, and pushing through AI skepticism via a "J-curve" of productivity. A thoughtful weekend listen on why the people who get ahead may be those who get better at deciding rather than doing.</description>
