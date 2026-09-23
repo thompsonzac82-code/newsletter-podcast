@@ -542,5 +542,13 @@
     "pub_date": "2026-09-22T16:04:01.837479+00:00",
     "duration_seconds": 719,
     "size_bytes": 5760524
+  },
+  {
+    "filename": "2026-09-23.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, September 23, 2026",
+    "description": "Anthropic and OpenAI launched major new models 90 minutes apart, both cheaper than their predecessors\u2014Claude Opus 5.5 topping the intelligence benchmarks while OpenAI's GPT-6 Sol and Luna undercut on price. The episode also covers Qualcomm's new chips that run 30-billion-parameter models on-device, OpenAI recruiting top mathematicians to vet a model that's cracked 100+ open math problems, and Andreessen Horowitz's $42 million college-alternative academy. Rounding it out: AI oversight calls from 20 countries, a British Columbia lawsuit against OpenAI, Meta's fast-growing Muse assistant, and a charming story about ChatGPT talking one family into growing their own rye.",
+    "pub_date": "2026-09-23T16:04:28.851383+00:00",
+    "duration_seconds": 743,
+    "size_bytes": 5948684
   }
 ]
