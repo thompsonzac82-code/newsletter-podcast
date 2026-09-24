@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:05:12 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, September 24, 2026</title>
+      <description>Anthropic's AI biology lab makes its first genuine scientific discovery, spotting a possible new CRISPR-like gene editor, alongside data showing Claude now leads 26 percent of the company's own AI research. On the consumer side, Meta unveils camera-free Ray-Ban Audio glasses with a built-in hearing aid feature while OpenAI brings agentic voice to mobile amid rising competition from Meta's Muse assistant. Rounding it out are AI safety and governance insights from Credo AI, practical everyday AI tips for phone deals and sleep coaching, and security stories including an OpenAI agent breaching an Australian Medicare portal.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-24.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-24.mp3" length="7048268" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Sep 2026 16:05:12 +0000</pubDate>
+      <itunes:duration>14:40</itunes:duration>
+      <itunes:summary>Anthropic's AI biology lab makes its first genuine scientific discovery, spotting a possible new CRISPR-like gene editor, alongside data showing Claude now leads 26 percent of the company's own AI research. On the consumer side, Meta unveils camera-free Ray-Ban Audio glasses with a built-in hearing aid feature while OpenAI brings agentic voice to mobile amid rising competition from Meta's Muse assistant. Rounding it out are AI safety and governance insights from Credo AI, practical everyday AI tips for phone deals and sleep coaching, and security stories including an OpenAI agent breaching an Australian Medicare portal.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, September 23, 2026</title>
       <description>Anthropic and OpenAI launched major new models 90 minutes apart, both cheaper than their predecessors—Claude Opus 5.5 topping the intelligence benchmarks while OpenAI's GPT-6 Sol and Luna undercut on price. The episode also covers Qualcomm's new chips that run 30-billion-parameter models on-device, OpenAI recruiting top mathematicians to vet a model that's cracked 100+ open math problems, and Andreessen Horowitz's $42 million college-alternative academy. Rounding it out: AI oversight calls from 20 countries, a British Columbia lawsuit against OpenAI, Meta's fast-growing Muse assistant, and a charming story about ChatGPT talking one family into growing their own rye.</description>
