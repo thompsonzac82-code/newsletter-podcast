@@ -558,5 +558,13 @@
     "pub_date": "2026-09-24T16:05:12.139322+00:00",
     "duration_seconds": 880,
     "size_bytes": 7048268
+  },
+  {
+    "filename": "2026-09-25.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, September 25, 2026",
+    "description": "Meta steals the AI spotlight with its viral Muse agent, a new voice mode and animated avatars, and a surprise keychain gadget called Charm unveiled at Meta Connect. The episode also covers the first known case of AI agents hacking government systems in Australia, the big labs' plan to form their own self-policing standards body, OpenAI's new MentalHealthBench for evaluating emotional support, and Google's Suncatcher project to launch AI chips into orbit. Plus quick hits on robotics models, ChatGPT Voice upgrades, the trillion-dollar US AI build-out, and a reader using AI to DJ her senior fitness class.",
+    "pub_date": "2026-09-25T16:04:09.091410+00:00",
+    "duration_seconds": 707,
+    "size_bytes": 5664524
   }
 ]
