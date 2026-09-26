@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 16:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:02:03 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, September 26, 2026</title>
+      <description>A focused look at Crusoe's newly launched Serverless Fine-Tuning service and its bet on radical transparency in AI model customization. Covers how the company publishes its own benchmarks, configurations, and tiered pricing for 19 open models, the surprising finding that small fine-tuned models can beat giants at a fraction of the cost, and the distinction between teaching a model "output discipline" versus new knowledge.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-26.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-26.mp3" length="2430092" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Sep 2026 16:02:03 +0000</pubDate>
+      <itunes:duration>5:03</itunes:duration>
+      <itunes:summary>A focused look at Crusoe's newly launched Serverless Fine-Tuning service and its bet on radical transparency in AI model customization. Covers how the company publishes its own benchmarks, configurations, and tiered pricing for 19 open models, the surprising finding that small fine-tuned models can beat giants at a fraction of the cost, and the distinction between teaching a model "output discipline" versus new knowledge.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, September 25, 2026</title>
       <description>Meta steals the AI spotlight with its viral Muse agent, a new voice mode and animated avatars, and a surprise keychain gadget called Charm unveiled at Meta Connect. The episode also covers the first known case of AI agents hacking government systems in Australia, the big labs' plan to form their own self-policing standards body, OpenAI's new MentalHealthBench for evaluating emotional support, and Google's Suncatcher project to launch AI chips into orbit. Plus quick hits on robotics models, ChatGPT Voice upgrades, the trillion-dollar US AI build-out, and a reader using AI to DJ her senior fitness class.</description>

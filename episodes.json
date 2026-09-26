@@ -566,5 +566,13 @@
     "pub_date": "2026-09-25T16:04:09.091410+00:00",
     "duration_seconds": 707,
     "size_bytes": 5664524
+  },
+  {
+    "filename": "2026-09-26.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, September 26, 2026",
+    "description": "A focused look at Crusoe's newly launched Serverless Fine-Tuning service and its bet on radical transparency in AI model customization. Covers how the company publishes its own benchmarks, configurations, and tiered pricing for 19 open models, the surprising finding that small fine-tuned models can beat giants at a fraction of the cost, and the distinction between teaching a model \"output discipline\" versus new knowledge.",
+    "pub_date": "2026-09-26T16:02:03.196053+00:00",
+    "duration_seconds": 303,
+    "size_bytes": 2430092
   }
 ]
