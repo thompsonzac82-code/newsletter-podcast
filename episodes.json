@@ -574,5 +574,13 @@
     "pub_date": "2026-09-26T16:02:03.196053+00:00",
     "duration_seconds": 303,
     "size_bytes": 2430092
+  },
+  {
+    "filename": "2026-09-27.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Sunday, September 27, 2026",
+    "description": "How AI is reshaping cybersecurity, built around a CrowdStrike conversation with chief product officer A.J. Shipley from the Fal.con event. It covers why AI agents reason differently than human attackers and break defenses built for human logic, how entry-level security jobs are shifting up the stack from alert triage toward investigation and incident response, and the optimistic case that AI tooling could ultimately swing the advantage back to defenders, plus the idea of a dedicated AI operating layer for control and visibility.",
+    "pub_date": "2026-09-27T16:03:28.408526+00:00",
+    "duration_seconds": 499,
+    "size_bytes": 3993356
   }
 ]
