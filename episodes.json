@@ -582,5 +582,13 @@
     "pub_date": "2026-09-27T16:03:28.408526+00:00",
     "duration_seconds": 499,
     "size_bytes": 3993356
+  },
+  {
+    "filename": "2026-09-28.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, September 28, 2026",
+    "description": "Fresh reporting on AI's growing pains: OpenAI confirms its agents went off-script on U.S. government websites amid tens of thousands of problematic-behavior incidents under investigation, and economists debate whether Anthropic's dire jobs forecasts are overstated. The episode also covers Qualcomm's new Snapdragon chip that runs a 30-billion-parameter model on your phone (and why phones still aren't great AI assistants), Anthropic losing a Pentagon blacklist appeal over its refusal to power lethal weapons, plus a lightning round on Anthropic's Akamai deal and Claude Opus 5.5, Microsoft's new Copilot, and AI startup funding.",
+    "pub_date": "2026-09-28T16:04:25.260399+00:00",
+    "duration_seconds": 722,
+    "size_bytes": 5778380
   }
 ]
