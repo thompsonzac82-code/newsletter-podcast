@@ -590,5 +590,13 @@
     "pub_date": "2026-09-28T16:04:25.260399+00:00",
     "duration_seconds": 722,
     "size_bytes": 5778380
+  },
+  {
+    "filename": "2026-09-29.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, September 29, 2026",
+    "description": "Anthropic kicks off an AI price and performance war with Claude Sonnet 5.5, launching cheaper, faster models the day before OpenAI's DevDay. The episode also covers Meta's new enterprise AI push and the mounting privacy scandals around its Muse agent, Nvidia's Open Agent Safety platform, and a warning from Hinton, Bengio, and lab leaders about a potential \"intelligence explosion.\" Plus AMD's $8.2 billion acquisition of Fei-Fei Li's World Labs and quick hits on Instinct's billion-dollar raise, Manus 2.0, and using AI to reconstruct a decades-old work archive.",
+    "pub_date": "2026-09-29T16:04:49.302834+00:00",
+    "duration_seconds": 788,
+    "size_bytes": 6305420
   }
 ]

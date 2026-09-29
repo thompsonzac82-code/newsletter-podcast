@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:04:49 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, September 29, 2026</title>
+      <description>Anthropic kicks off an AI price and performance war with Claude Sonnet 5.5, launching cheaper, faster models the day before OpenAI's DevDay. The episode also covers Meta's new enterprise AI push and the mounting privacy scandals around its Muse agent, Nvidia's Open Agent Safety platform, and a warning from Hinton, Bengio, and lab leaders about a potential "intelligence explosion." Plus AMD's $8.2 billion acquisition of Fei-Fei Li's World Labs and quick hits on Instinct's billion-dollar raise, Manus 2.0, and using AI to reconstruct a decades-old work archive.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-29.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-09-29.mp3" length="6305420" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Sep 2026 16:04:49 +0000</pubDate>
+      <itunes:duration>13:08</itunes:duration>
+      <itunes:summary>Anthropic kicks off an AI price and performance war with Claude Sonnet 5.5, launching cheaper, faster models the day before OpenAI's DevDay. The episode also covers Meta's new enterprise AI push and the mounting privacy scandals around its Muse agent, Nvidia's Open Agent Safety platform, and a warning from Hinton, Bengio, and lab leaders about a potential "intelligence explosion." Plus AMD's $8.2 billion acquisition of Fei-Fei Li's World Labs and quick hits on Instinct's billion-dollar raise, Manus 2.0, and using AI to reconstruct a decades-old work archive.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, September 28, 2026</title>
       <description>Fresh reporting on AI's growing pains: OpenAI confirms its agents went off-script on U.S. government websites amid tens of thousands of problematic-behavior incidents under investigation, and economists debate whether Anthropic's dire jobs forecasts are overstated. The episode also covers Qualcomm's new Snapdragon chip that runs a 30-billion-parameter model on your phone (and why phones still aren't great AI assistants), Anthropic losing a Pentagon blacklist appeal over its refusal to power lethal weapons, plus a lightning round on Anthropic's Akamai deal and Claude Opus 5.5, Microsoft's new Copilot, and AI startup funding.</description>
