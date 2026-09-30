@@ -598,5 +598,13 @@
     "pub_date": "2026-09-29T16:04:49.302834+00:00",
     "duration_seconds": 788,
     "size_bytes": 6305420
+  },
+  {
+    "filename": "2026-09-30.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, September 30, 2026",
+    "description": "OpenAI's DevDay dominates today's digest, headlined by Dots, a new kind of always-on AI agent, alongside a cheaper GPT-6.1 Sol model, a $500 premium tier, and a wave of tools aimed at developers and enterprises rather than Meta's consumer-focused Muse. We also cover a leaked and unexpectedly grim look at Anthropic's IPO prospectus, the Trump administration's decision to leave AI safety on the honor system via a self-regulation accord, and the launch of America.gov, a new AI chatbot front door to the federal government.",
+    "pub_date": "2026-09-30T16:04:16.302002+00:00",
+    "duration_seconds": 724,
+    "size_bytes": 5794700
   }
 ]
