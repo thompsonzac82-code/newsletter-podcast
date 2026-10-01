@@ -606,5 +606,13 @@
     "pub_date": "2026-09-30T16:04:16.302002+00:00",
     "duration_seconds": 724,
     "size_bytes": 5794700
+  },
+  {
+    "filename": "2026-10-01.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, October 1, 2026",
+    "description": "Google reclaims a spot at the AI frontier with Gemini 4 Argon, its new flagship model topping rivals on most benchmarks but limited to vetted cybersecurity teams for now, while OpenAI's DevDay emphasized restraint with its premium always-on \"Dots\" agent and a held-back model. The episode also covers how AI is reshaping the attacker-defender balance in cybersecurity via a CrowdStrike interview, a dispatch from the White House AI day and its Superintelligence Accord, and practical tool workflows plus a quick roundup of headlines from SpaceXAI, Reddit, the FTC, Cohere, and more.",
+    "pub_date": "2026-10-01T16:04:54.032681+00:00",
+    "duration_seconds": 838,
+    "size_bytes": 6708236
   }
 ]
