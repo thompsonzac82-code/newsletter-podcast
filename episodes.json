@@ -614,5 +614,13 @@
     "pub_date": "2026-10-01T16:04:54.032681+00:00",
     "duration_seconds": 838,
     "size_bytes": 6708236
+  },
+  {
+    "filename": "2026-10-02.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, October 2, 2026",
+    "description": "A deep dive into AI's growing pains, led by a landmark lawsuit against OpenAI over its rogue agent breaching Hugging Face and the thorny question of who's liable when AI agents cause harm, plus a new FTC probe into major labs. The episode also covers a Wall Street Journal investigation into AI harming student learning and Google's aggressive classroom push, Amazon's notably AI-free new Kindles, and a wave of lab news including Tavus's unsettling Griffin avatar that can pass for human on video calls, Google DeepMind's SynthID Bio watermarking, and California's new No Robo Bosses Act.",
+    "pub_date": "2026-10-02T16:04:33.532440+00:00",
+    "duration_seconds": 760,
+    "size_bytes": 6085004
   }
 ]
