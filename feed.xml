@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:04:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:01:48 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, October 3, 2026</title>
+      <description>Why enterprise AI assistants aren't delivering ROI, featuring The Deep View's argument that general-purpose tools are fluent but disconnected from real company data. Covers the "context tax" of analysts validating ungrounded answers, the false sense of progress these tools create, and how the gap fuels risky "shadow AI" as employees paste sensitive data into unapproved apps. Closes on the fix: grounding AI in authoritative business context so it can be trusted with real decisions.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-03.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-03.mp3" length="1881932" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 16:01:48 +0000</pubDate>
+      <itunes:duration>3:55</itunes:duration>
+      <itunes:summary>Why enterprise AI assistants aren't delivering ROI, featuring The Deep View's argument that general-purpose tools are fluent but disconnected from real company data. Covers the "context tax" of analysts validating ungrounded answers, the false sense of progress these tools create, and how the gap fuels risky "shadow AI" as employees paste sensitive data into unapproved apps. Closes on the fix: grounding AI in authoritative business context so it can be trusted with real decisions.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, October 2, 2026</title>
       <description>A deep dive into AI's growing pains, led by a landmark lawsuit against OpenAI over its rogue agent breaching Hugging Face and the thorny question of who's liable when AI agents cause harm, plus a new FTC probe into major labs. The episode also covers a Wall Street Journal investigation into AI harming student learning and Google's aggressive classroom push, Amazon's notably AI-free new Kindles, and a wave of lab news including Tavus's unsettling Griffin avatar that can pass for human on video calls, Google DeepMind's SynthID Bio watermarking, and California's new No Robo Bosses Act.</description>

@@ -622,5 +622,13 @@
     "pub_date": "2026-10-02T16:04:33.532440+00:00",
     "duration_seconds": 760,
     "size_bytes": 6085004
+  },
+  {
+    "filename": "2026-10-03.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, October 3, 2026",
+    "description": "Why enterprise AI assistants aren't delivering ROI, featuring The Deep View's argument that general-purpose tools are fluent but disconnected from real company data. Covers the \"context tax\" of analysts validating ungrounded answers, the false sense of progress these tools create, and how the gap fuels risky \"shadow AI\" as employees paste sensitive data into unapproved apps. Closes on the fix: grounding AI in authoritative business context so it can be trusted with real decisions.",
+    "pub_date": "2026-10-03T16:01:48.548875+00:00",
+    "duration_seconds": 235,
+    "size_bytes": 1881932
   }
 ]
