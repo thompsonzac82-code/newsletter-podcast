@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 16:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:04:52 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, October 5, 2026</title>
+      <description>Amazon pledges $1 billion to win over data-center communities while safety concerns mount inside the industry, with a departing OpenAI safety lead calling the company's culture "broken" and OneTrust pitching AI "guardian agents" as a governance fix. The episode also digs into diverging AI strategies—Microsoft's specialized models for transcription and voice versus Runway's bet that video models become world models for robotics—plus Anthropic's unusual recruitment of religious scholars to weigh Claude's possible consciousness. Rounding it out: Trump's new Super Intelligence Force, major OpenAI and robotics funding, Nvidia chip smuggling charges, and practical tips for picking the right AI model.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-05.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-05.mp3" length="6606476" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 16:04:52 +0000</pubDate>
+      <itunes:duration>13:45</itunes:duration>
+      <itunes:summary>Amazon pledges $1 billion to win over data-center communities while safety concerns mount inside the industry, with a departing OpenAI safety lead calling the company's culture "broken" and OneTrust pitching AI "guardian agents" as a governance fix. The episode also digs into diverging AI strategies—Microsoft's specialized models for transcription and voice versus Runway's bet that video models become world models for robotics—plus Anthropic's unusual recruitment of religious scholars to weigh Claude's possible consciousness. Rounding it out: Trump's new Super Intelligence Force, major OpenAI and robotics funding, Nvidia chip smuggling charges, and practical tips for picking the right AI model.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, October 3, 2026</title>
       <description>Why enterprise AI assistants aren't delivering ROI, featuring The Deep View's argument that general-purpose tools are fluent but disconnected from real company data. Covers the "context tax" of analysts validating ungrounded answers, the false sense of progress these tools create, and how the gap fuels risky "shadow AI" as employees paste sensitive data into unapproved apps. Closes on the fix: grounding AI in authoritative business context so it can be trusted with real decisions.</description>

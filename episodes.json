@@ -630,5 +630,13 @@
     "pub_date": "2026-10-03T16:01:48.548875+00:00",
     "duration_seconds": 235,
     "size_bytes": 1881932
+  },
+  {
+    "filename": "2026-10-05.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, October 5, 2026",
+    "description": "Amazon pledges $1 billion to win over data-center communities while safety concerns mount inside the industry, with a departing OpenAI safety lead calling the company's culture \"broken\" and OneTrust pitching AI \"guardian agents\" as a governance fix. The episode also digs into diverging AI strategies\u2014Microsoft's specialized models for transcription and voice versus Runway's bet that video models become world models for robotics\u2014plus Anthropic's unusual recruitment of religious scholars to weigh Claude's possible consciousness. Rounding it out: Trump's new Super Intelligence Force, major OpenAI and robotics funding, Nvidia chip smuggling charges, and practical tips for picking the right AI model.",
+    "pub_date": "2026-10-05T16:04:52.413607+00:00",
+    "duration_seconds": 825,
+    "size_bytes": 6606476
   }
 ]
