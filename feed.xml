@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:04:51 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, October 6, 2026</title>
+      <description>OpenAI and Anthropic draw public battle lines over AI risk tolerance, with Sam Altman defending a higher-risk, lighter-regulation stance against Anthropic's safety-first approach, while Anthropic's new Model Hardware Standard gains unexpected traction in labs and manufacturing. Reflection AI launches Beam, an open-weight model pitched as the West's efficient answer to China's open models, and Meta's Muse assistant raises privacy alarms for building detailed profiles of everyone in your life. Rounding out: a16z's consumer AI spending rankings, OpenAI's new text watermarking, Norway's smart-glasses ban, and practical Claude Code tips for builders.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-06.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-06.mp3" length="6147212" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 16:04:51 +0000</pubDate>
+      <itunes:duration>12:48</itunes:duration>
+      <itunes:summary>OpenAI and Anthropic draw public battle lines over AI risk tolerance, with Sam Altman defending a higher-risk, lighter-regulation stance against Anthropic's safety-first approach, while Anthropic's new Model Hardware Standard gains unexpected traction in labs and manufacturing. Reflection AI launches Beam, an open-weight model pitched as the West's efficient answer to China's open models, and Meta's Muse assistant raises privacy alarms for building detailed profiles of everyone in your life. Rounding out: a16z's consumer AI spending rankings, OpenAI's new text watermarking, Norway's smart-glasses ban, and practical Claude Code tips for builders.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, October 5, 2026</title>
       <description>Amazon pledges $1 billion to win over data-center communities while safety concerns mount inside the industry, with a departing OpenAI safety lead calling the company's culture "broken" and OneTrust pitching AI "guardian agents" as a governance fix. The episode also digs into diverging AI strategies—Microsoft's specialized models for transcription and voice versus Runway's bet that video models become world models for robotics—plus Anthropic's unusual recruitment of religious scholars to weigh Claude's possible consciousness. Rounding it out: Trump's new Super Intelligence Force, major OpenAI and robotics funding, Nvidia chip smuggling charges, and practical tips for picking the right AI model.</description>
