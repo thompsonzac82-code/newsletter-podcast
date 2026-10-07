@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:04:38 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, October 7, 2026</title>
+      <description>Western open-model releases make their move against China's lead, with Mistral's trillion-parameter "Le Chonk," Reflection's Beam, and Google's tiny on-device EmbeddingGemma 2. The episode also covers Anthropic's rough patch as the Pentagon, Meta, and Microsoft scale back their Claude spending ahead of a rumored $2 trillion IPO, plus OpenAI's flood of 722 AI-generated math papers and the backlash it sparked. Rounding things out: new agentic assistants like Figure's Hark Pro and Sesame, Utah approving an AI app to prescribe acne treatment, and a security tip on vetting AI-agent add-ons.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-07.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-07.mp3" length="6168332" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 16:04:38 +0000</pubDate>
+      <itunes:duration>12:50</itunes:duration>
+      <itunes:summary>Western open-model releases make their move against China's lead, with Mistral's trillion-parameter "Le Chonk," Reflection's Beam, and Google's tiny on-device EmbeddingGemma 2. The episode also covers Anthropic's rough patch as the Pentagon, Meta, and Microsoft scale back their Claude spending ahead of a rumored $2 trillion IPO, plus OpenAI's flood of 722 AI-generated math papers and the backlash it sparked. Rounding things out: new agentic assistants like Figure's Hark Pro and Sesame, Utah approving an AI app to prescribe acne treatment, and a security tip on vetting AI-agent add-ons.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, October 6, 2026</title>
       <description>OpenAI and Anthropic draw public battle lines over AI risk tolerance, with Sam Altman defending a higher-risk, lighter-regulation stance against Anthropic's safety-first approach, while Anthropic's new Model Hardware Standard gains unexpected traction in labs and manufacturing. Reflection AI launches Beam, an open-weight model pitched as the West's efficient answer to China's open models, and Meta's Muse assistant raises privacy alarms for building detailed profiles of everyone in your life. Rounding out: a16z's consumer AI spending rankings, OpenAI's new text watermarking, Norway's smart-glasses ban, and practical Claude Code tips for builders.</description>

@@ -646,5 +646,13 @@
     "pub_date": "2026-10-06T16:04:51.474924+00:00",
     "duration_seconds": 768,
     "size_bytes": 6147212
+  },
+  {
+    "filename": "2026-10-07.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, October 7, 2026",
+    "description": "Western open-model releases make their move against China's lead, with Mistral's trillion-parameter \"Le Chonk,\" Reflection's Beam, and Google's tiny on-device EmbeddingGemma 2. The episode also covers Anthropic's rough patch as the Pentagon, Meta, and Microsoft scale back their Claude spending ahead of a rumored $2 trillion IPO, plus OpenAI's flood of 722 AI-generated math papers and the backlash it sparked. Rounding things out: new agentic assistants like Figure's Hark Pro and Sesame, Utah approving an AI app to prescribe acne treatment, and a security tip on vetting AI-agent add-ons.",
+    "pub_date": "2026-10-07T16:04:38.105125+00:00",
+    "duration_seconds": 770,
+    "size_bytes": 6168332
   }
 ]
