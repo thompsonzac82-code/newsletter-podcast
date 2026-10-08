@@ -654,5 +654,13 @@
     "pub_date": "2026-10-07T16:04:38.105125+00:00",
     "duration_seconds": 770,
     "size_bytes": 6168332
+  },
+  {
+    "filename": "2026-10-08.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, October 8, 2026",
+    "description": "A Common Sense Media report challenges OpenAI's teen-safety claims for ChatGPT, finding missed crisis cues and absent parental alerts, while OpenAI disputes the testing. The episode also covers Apple's new Siri-powered smart home hub and device lineup, the $1.8 billion Biohub push to build an AI \"virtual cell,\" and the concept of AI \"slop grenades\" in the workplace. It wraps with a rundown of new models and tools, including Anthropic's Claude Haiku 5.5, xAI routing Grok tasks to rival models like Claude, and OpenAI's new Meetings note-taker.",
+    "pub_date": "2026-10-08T16:04:34.944852+00:00",
+    "duration_seconds": 773,
+    "size_bytes": 6186380
   }
 ]
