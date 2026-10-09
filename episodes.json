@@ -662,5 +662,13 @@
     "pub_date": "2026-10-08T16:04:34.944852+00:00",
     "duration_seconds": 773,
     "size_bytes": 6186380
+  },
+  {
+    "filename": "2026-10-09.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, October 9, 2026",
+    "description": "Anthropic and OpenAI both moved on AI safety and misuse this week, with Anthropic overhauling its usage policy, including a first-of-its-kind rule against cruelty toward Claude, and OpenAI shutting down Russian and Iranian influence operations while facing a public dispute with three fired safety researchers. The episode also covers two major product launches, Google's enterprise-focused Gemini Agent for Workspace and Amazon's new Alexa Tablet lineup, plus a rapid-fire roundup of new model and tool releases, a Trump directive on \"Super Intelligence\" terminology, and an AI-assisted possible planet discovery.",
+    "pub_date": "2026-10-09T16:05:01.800618+00:00",
+    "duration_seconds": 842,
+    "size_bytes": 6739724
   }
 ]

@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:05:01 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, October 9, 2026</title>
+      <description>Anthropic and OpenAI both moved on AI safety and misuse this week, with Anthropic overhauling its usage policy, including a first-of-its-kind rule against cruelty toward Claude, and OpenAI shutting down Russian and Iranian influence operations while facing a public dispute with three fired safety researchers. The episode also covers two major product launches, Google's enterprise-focused Gemini Agent for Workspace and Amazon's new Alexa Tablet lineup, plus a rapid-fire roundup of new model and tool releases, a Trump directive on "Super Intelligence" terminology, and an AI-assisted possible planet discovery.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-09.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-09.mp3" length="6739724" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 16:05:01 +0000</pubDate>
+      <itunes:duration>14:02</itunes:duration>
+      <itunes:summary>Anthropic and OpenAI both moved on AI safety and misuse this week, with Anthropic overhauling its usage policy, including a first-of-its-kind rule against cruelty toward Claude, and OpenAI shutting down Russian and Iranian influence operations while facing a public dispute with three fired safety researchers. The episode also covers two major product launches, Google's enterprise-focused Gemini Agent for Workspace and Amazon's new Alexa Tablet lineup, plus a rapid-fire roundup of new model and tool releases, a Trump directive on "Super Intelligence" terminology, and an AI-assisted possible planet discovery.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, October 8, 2026</title>
       <description>A Common Sense Media report challenges OpenAI's teen-safety claims for ChatGPT, finding missed crisis cues and absent parental alerts, while OpenAI disputes the testing. The episode also covers Apple's new Siri-powered smart home hub and device lineup, the $1.8 billion Biohub push to build an AI "virtual cell," and the concept of AI "slop grenades" in the workplace. It wraps with a rundown of new models and tools, including Anthropic's Claude Haiku 5.5, xAI routing Grok tasks to rival models like Claude, and OpenAI's new Meetings note-taker.</description>
