@@ -670,5 +670,13 @@
     "pub_date": "2026-10-09T16:05:01.800618+00:00",
     "duration_seconds": 842,
     "size_bytes": 6739724
+  },
+  {
+    "filename": "2026-10-10.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, October 10, 2026",
+    "description": "As AI shifts from merely reading company systems to taking real actions inside them, this episode makes the case that every autonomous agent needs its own identity, owner, and traceable access record. Drawing on a piece from The Deep View, it unpacks the difference between AI assistants acting on a human's behalf and fully autonomous agents, why borrowed credentials and shared accounts break accountability, and how the principles of least privilege and auditability carry over to \"agentic identity and access management.\" It closes with a striking JumpCloud stat: in just six months, the share of organizations allowing high-risk AI actions with no human review jumped from 11 to 26 percent.",
+    "pub_date": "2026-10-10T16:07:40.925610+00:00",
+    "duration_seconds": 471,
+    "size_bytes": 3775628
   }
 ]
