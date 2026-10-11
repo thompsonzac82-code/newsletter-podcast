@@ -678,5 +678,13 @@
     "pub_date": "2026-10-10T16:07:40.925610+00:00",
     "duration_seconds": 471,
     "size_bytes": 3775628
+  },
+  {
+    "filename": "2026-10-11.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Sunday, October 11, 2026",
+    "description": "An exclusive interview with Microsoft Copilot EVP Jacob Andreou on The Rundown AI, exploring why so many AI features feel hollow and how Microsoft rebuilt Copilot as an \"operating system for work\" with Home, Code, and Autopilot. Andreou unpacks why the model you use now depends on the task rather than the lab behind it, offers a \"one-way door versus two-way door\" framework for how much autonomy to trust agents with, and shares what AI-native work actually looks like day to day\u2014including why his top Autopilot adopters were the sales team, not engineers.",
+    "pub_date": "2026-10-11T16:03:47.842135+00:00",
+    "duration_seconds": 562,
+    "size_bytes": 4500620
   }
 ]
