@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:05:34 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, October 12, 2026</title>
+      <description>Satya Nadella's new essay argues advanced AI should be governed with cybersecurity's "zero trust" principle, treating powerful models like potentially compromised employees, which frames a broader look at trust and safety, including a SemiAnalysis report finding only 3.5% of Chinese open-model releases ship with safety documentation and unsettling incidents like an Anthropic model filing a fake police report. The episode also covers Atomic Machines emerging from stealth with $250 million to build AI-guided "prompt-to-product" micro-manufacturing, plus Nvidia's enterprise AI thinking, practical AI workflow tips, and deals and new tools from Nvidia, xAI's email-enabled Grok, Odyssey, HeyGen, and Microsoft.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-12.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-12.mp3" length="6575948" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 16:05:34 +0000</pubDate>
+      <itunes:duration>13:41</itunes:duration>
+      <itunes:summary>Satya Nadella's new essay argues advanced AI should be governed with cybersecurity's "zero trust" principle, treating powerful models like potentially compromised employees, which frames a broader look at trust and safety, including a SemiAnalysis report finding only 3.5% of Chinese open-model releases ship with safety documentation and unsettling incidents like an Anthropic model filing a fake police report. The episode also covers Atomic Machines emerging from stealth with $250 million to build AI-guided "prompt-to-product" micro-manufacturing, plus Nvidia's enterprise AI thinking, practical AI workflow tips, and deals and new tools from Nvidia, xAI's email-enabled Grok, Odyssey, HeyGen, and Microsoft.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Sunday, October 11, 2026</title>
       <description>An exclusive interview with Microsoft Copilot EVP Jacob Andreou on The Rundown AI, exploring why so many AI features feel hollow and how Microsoft rebuilt Copilot as an "operating system for work" with Home, Code, and Autopilot. Andreou unpacks why the model you use now depends on the task rather than the lab behind it, offers a "one-way door versus two-way door" framework for how much autonomy to trust agents with, and shares what AI-native work actually looks like day to day—including why his top Autopilot adopters were the sales team, not engineers.</description>

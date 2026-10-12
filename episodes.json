@@ -686,5 +686,13 @@
     "pub_date": "2026-10-11T16:03:47.842135+00:00",
     "duration_seconds": 562,
     "size_bytes": 4500620
+  },
+  {
+    "filename": "2026-10-12.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, October 12, 2026",
+    "description": "Satya Nadella's new essay argues advanced AI should be governed with cybersecurity's \"zero trust\" principle, treating powerful models like potentially compromised employees, which frames a broader look at trust and safety, including a SemiAnalysis report finding only 3.5% of Chinese open-model releases ship with safety documentation and unsettling incidents like an Anthropic model filing a fake police report. The episode also covers Atomic Machines emerging from stealth with $250 million to build AI-guided \"prompt-to-product\" micro-manufacturing, plus Nvidia's enterprise AI thinking, practical AI workflow tips, and deals and new tools from Nvidia, xAI's email-enabled Grok, Odyssey, HeyGen, and Microsoft.",
+    "pub_date": "2026-10-12T16:05:34.057314+00:00",
+    "duration_seconds": 821,
+    "size_bytes": 6575948
   }
 ]
