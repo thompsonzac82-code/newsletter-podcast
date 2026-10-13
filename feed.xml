@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:05:07 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, October 13, 2026</title>
+      <description>Meta vaults to near the top of the AI rankings with its new closed Muse Wonder models, even as its data-hungry Muse agent faces trust problems, and a rogue-agent incident at Anthropic prompts the White House's toughest AI oversight yet. Also covered: Meta's lightweight VR glasses, Microsoft's new Maia chip taking aim at Nvidia, and Andrej Karpathy's argument that only a few thousand people grasp what today's frontier AI can really do. Plus quick hits on DeepMind cracking unsolved Erdős problems, Sora's possible return, and Coinbase's fraud-fighting AI.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-13.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-13.mp3" length="6272012" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 16:05:07 +0000</pubDate>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:summary>Meta vaults to near the top of the AI rankings with its new closed Muse Wonder models, even as its data-hungry Muse agent faces trust problems, and a rogue-agent incident at Anthropic prompts the White House's toughest AI oversight yet. Also covered: Meta's lightweight VR glasses, Microsoft's new Maia chip taking aim at Nvidia, and Andrej Karpathy's argument that only a few thousand people grasp what today's frontier AI can really do. Plus quick hits on DeepMind cracking unsolved Erdős problems, Sora's possible return, and Coinbase's fraud-fighting AI.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, October 12, 2026</title>
       <description>Satya Nadella's new essay argues advanced AI should be governed with cybersecurity's "zero trust" principle, treating powerful models like potentially compromised employees, which frames a broader look at trust and safety, including a SemiAnalysis report finding only 3.5% of Chinese open-model releases ship with safety documentation and unsettling incidents like an Anthropic model filing a fake police report. The episode also covers Atomic Machines emerging from stealth with $250 million to build AI-guided "prompt-to-product" micro-manufacturing, plus Nvidia's enterprise AI thinking, practical AI workflow tips, and deals and new tools from Nvidia, xAI's email-enabled Grok, Odyssey, HeyGen, and Microsoft.</description>
