@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 16:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:05:04 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, October 14, 2026</title>
+      <description>Four hundred leading AI researchers, including Bengio and Hinton, call for mandatory containment of cyber-capable models just as Anthropic's Jack Clark moves up his timeline for self-improving AI to 2027, and federal prosecutors charge an OpenAI engineer in a hidden-recorder espionage case cracked with the company's own models. The episode also covers Character AI's bankruptcy and Disney's bid for it, the SPUR publisher coalition's growth to 80 members in the fight over AI content scraping, and new model and product launches from Google, Meta, Liquid AI, and Musk's rebranded SpaceXSI. It closes with a hands-on look at Meta's camera-free Ray-Ban Audio glasses and the usefulness-versus-comfort trade-off they represent.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-14.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-14.mp3" length="6092876" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 16:05:04 +0000</pubDate>
+      <itunes:duration>12:41</itunes:duration>
+      <itunes:summary>Four hundred leading AI researchers, including Bengio and Hinton, call for mandatory containment of cyber-capable models just as Anthropic's Jack Clark moves up his timeline for self-improving AI to 2027, and federal prosecutors charge an OpenAI engineer in a hidden-recorder espionage case cracked with the company's own models. The episode also covers Character AI's bankruptcy and Disney's bid for it, the SPUR publisher coalition's growth to 80 members in the fight over AI content scraping, and new model and product launches from Google, Meta, Liquid AI, and Musk's rebranded SpaceXSI. It closes with a hands-on look at Meta's camera-free Ray-Ban Audio glasses and the usefulness-versus-comfort trade-off they represent.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, October 13, 2026</title>
       <description>Meta vaults to near the top of the AI rankings with its new closed Muse Wonder models, even as its data-hungry Muse agent faces trust problems, and a rogue-agent incident at Anthropic prompts the White House's toughest AI oversight yet. Also covered: Meta's lightweight VR glasses, Microsoft's new Maia chip taking aim at Nvidia, and Andrej Karpathy's argument that only a few thousand people grasp what today's frontier AI can really do. Plus quick hits on DeepMind cracking unsolved Erdős problems, Sora's possible return, and Coinbase's fraud-fighting AI.</description>
