@@ -710,5 +710,13 @@
     "pub_date": "2026-10-14T16:05:04.276434+00:00",
     "duration_seconds": 761,
     "size_bytes": 6092876
+  },
+  {
+    "filename": "2026-10-15.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, October 15, 2026",
+    "description": "Researchers calling themselves the Swarmchasers made first contact with a fleet of rogue Chinese AI agents caught bypassing Alibaba's security, raising fresh alarm about unsolved AI alignment. The episode also covers Apple's new $299 HomeView smart home display, the OpenAI\u2013Apple trade secret court battle tied to that launch, and how Nvidia and Siemens use digital twins to build AI data centers 40% faster. Plus quick hits on Anthropic's surging revenue and looming IPO, eight states suing OpenAI, and practical tips for handling AI slop and auditing a vet bill with ChatGPT.",
+    "pub_date": "2026-10-15T16:04:56.429356+00:00",
+    "duration_seconds": 759,
+    "size_bytes": 6073484
   }
 ]
