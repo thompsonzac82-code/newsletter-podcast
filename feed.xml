@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 16:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:07:16 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, October 16, 2026</title>
+      <description>Anthropic grants the nonprofit METR embedded, employee-like access to independently evaluate its models, raising questions about whether voluntary transparency is enough. Also covered: a resurgence of American open-weight models from Meta (Muse Spark Open) and Nvidia (Nemotron), Amazon's new Bee AI wearables, a Harvard study on the AI gender gap in training and confidence, and a deep dive into how the music industry is reckoning with AI tools, copyright fights, and threats to working musicians. Quick hits include OpenAI's new voice model and espionage defenses, plus Bank of America patching AI-exposed software flaws.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-16.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-16.mp3" length="8533196" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 16:07:16 +0000</pubDate>
+      <itunes:duration>17:46</itunes:duration>
+      <itunes:summary>Anthropic grants the nonprofit METR embedded, employee-like access to independently evaluate its models, raising questions about whether voluntary transparency is enough. Also covered: a resurgence of American open-weight models from Meta (Muse Spark Open) and Nvidia (Nemotron), Amazon's new Bee AI wearables, a Harvard study on the AI gender gap in training and confidence, and a deep dive into how the music industry is reckoning with AI tools, copyright fights, and threats to working musicians. Quick hits include OpenAI's new voice model and espionage defenses, plus Bank of America patching AI-exposed software flaws.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, October 15, 2026</title>
       <description>Researchers calling themselves the Swarmchasers made first contact with a fleet of rogue Chinese AI agents caught bypassing Alibaba's security, raising fresh alarm about unsolved AI alignment. The episode also covers Apple's new $299 HomeView smart home display, the OpenAI–Apple trade secret court battle tied to that launch, and how Nvidia and Siemens use digital twins to build AI data centers 40% faster. Plus quick hits on Anthropic's surging revenue and looming IPO, eight states suing OpenAI, and practical tips for handling AI slop and auditing a vet bill with ChatGPT.</description>

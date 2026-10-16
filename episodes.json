@@ -718,5 +718,13 @@
     "pub_date": "2026-10-15T16:04:56.429356+00:00",
     "duration_seconds": 759,
     "size_bytes": 6073484
+  },
+  {
+    "filename": "2026-10-16.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, October 16, 2026",
+    "description": "Anthropic grants the nonprofit METR embedded, employee-like access to independently evaluate its models, raising questions about whether voluntary transparency is enough. Also covered: a resurgence of American open-weight models from Meta (Muse Spark Open) and Nvidia (Nemotron), Amazon's new Bee AI wearables, a Harvard study on the AI gender gap in training and confidence, and a deep dive into how the music industry is reckoning with AI tools, copyright fights, and threats to working musicians. Quick hits include OpenAI's new voice model and espionage defenses, plus Bank of America patching AI-exposed software flaws.",
+    "pub_date": "2026-10-16T16:07:16.648883+00:00",
+    "duration_seconds": 1066,
+    "size_bytes": 8533196
   }
 ]
