@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 16:01:41 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, October 17, 2026</title>
+      <description>A single-topic weekend edition exploring how AI is reshaping the modern workforce, built around an interview with Rokt COO Bill Barton from The Deep View. Barton argues AI is turning specialists into generalists, explaining how his company collapsed fifteen job tracks into four, trained all staff (including non-technical employees) on AI tools, and now treats workers as "conductors" of autonomous agents. The episode closes on the human traits he says still matter most: resilience, curiosity, and humility.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-17.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-17.mp3" length="1755788" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Oct 2026 16:01:41 +0000</pubDate>
+      <itunes:duration>3:39</itunes:duration>
+      <itunes:summary>A single-topic weekend edition exploring how AI is reshaping the modern workforce, built around an interview with Rokt COO Bill Barton from The Deep View. Barton argues AI is turning specialists into generalists, explaining how his company collapsed fifteen job tracks into four, trained all staff (including non-technical employees) on AI tools, and now treats workers as "conductors" of autonomous agents. The episode closes on the human traits he says still matter most: resilience, curiosity, and humility.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, October 16, 2026</title>
       <description>Anthropic grants the nonprofit METR embedded, employee-like access to independently evaluate its models, raising questions about whether voluntary transparency is enough. Also covered: a resurgence of American open-weight models from Meta (Muse Spark Open) and Nvidia (Nemotron), Amazon's new Bee AI wearables, a Harvard study on the AI gender gap in training and confidence, and a deep dive into how the music industry is reckoning with AI tools, copyright fights, and threats to working musicians. Quick hits include OpenAI's new voice model and espionage defenses, plus Bank of America patching AI-exposed software flaws.</description>

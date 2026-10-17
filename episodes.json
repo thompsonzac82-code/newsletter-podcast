@@ -726,5 +726,13 @@
     "pub_date": "2026-10-16T16:07:16.648883+00:00",
     "duration_seconds": 1066,
     "size_bytes": 8533196
+  },
+  {
+    "filename": "2026-10-17.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, October 17, 2026",
+    "description": "A single-topic weekend edition exploring how AI is reshaping the modern workforce, built around an interview with Rokt COO Bill Barton from The Deep View. Barton argues AI is turning specialists into generalists, explaining how his company collapsed fifteen job tracks into four, trained all staff (including non-technical employees) on AI tools, and now treats workers as \"conductors\" of autonomous agents. The episode closes on the human traits he says still matter most: resilience, curiosity, and humility.",
+    "pub_date": "2026-10-17T16:01:41.300801+00:00",
+    "duration_seconds": 219,
+    "size_bytes": 1755788
   }
 ]
