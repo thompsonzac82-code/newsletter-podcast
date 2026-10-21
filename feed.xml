@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 16:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:04:44 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, October 21, 2026</title>
+      <description>Databricks' MemCurrent memory layer and Amazon's self-improving Kiro-trace coding agent anchor a look at how better systems, not bigger models, may drive AI's next leaps, alongside Sam Altman's three proposed endgames for AI safety. The episode also covers AI in scientific discovery—MIT's cost analysis of AI theory-solving and Anthropic's AI-designed scorpion antivenom proteins—plus Bob McGrew's new automated-factory startup Arda and quick hits on DeepSeek, Skyfall AI, and OpenAI's Orchestra Bio acquisition.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-21.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-21.mp3" length="6112652" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Oct 2026 16:04:44 +0000</pubDate>
+      <itunes:duration>12:43</itunes:duration>
+      <itunes:summary>Databricks' MemCurrent memory layer and Amazon's self-improving Kiro-trace coding agent anchor a look at how better systems, not bigger models, may drive AI's next leaps, alongside Sam Altman's three proposed endgames for AI safety. The episode also covers AI in scientific discovery—MIT's cost analysis of AI theory-solving and Anthropic's AI-designed scorpion antivenom proteins—plus Bob McGrew's new automated-factory startup Arda and quick hits on DeepSeek, Skyfall AI, and OpenAI's Orchestra Bio acquisition.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, October 17, 2026</title>
       <description>A single-topic weekend edition exploring how AI is reshaping the modern workforce, built around an interview with Rokt COO Bill Barton from The Deep View. Barton argues AI is turning specialists into generalists, explaining how his company collapsed fifteen job tracks into four, trained all staff (including non-technical employees) on AI tools, and now treats workers as "conductors" of autonomous agents. The episode closes on the human traits he says still matter most: resilience, curiosity, and humility.</description>

@@ -734,5 +734,13 @@
     "pub_date": "2026-10-17T16:01:41.300801+00:00",
     "duration_seconds": 219,
     "size_bytes": 1755788
+  },
+  {
+    "filename": "2026-10-21.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, October 21, 2026",
+    "description": "Databricks' MemCurrent memory layer and Amazon's self-improving Kiro-trace coding agent anchor a look at how better systems, not bigger models, may drive AI's next leaps, alongside Sam Altman's three proposed endgames for AI safety. The episode also covers AI in scientific discovery\u2014MIT's cost analysis of AI theory-solving and Anthropic's AI-designed scorpion antivenom proteins\u2014plus Bob McGrew's new automated-factory startup Arda and quick hits on DeepSeek, Skyfall AI, and OpenAI's Orchestra Bio acquisition.",
+    "pub_date": "2026-10-21T16:04:44.371107+00:00",
+    "duration_seconds": 763,
+    "size_bytes": 6112652
   }
 ]
