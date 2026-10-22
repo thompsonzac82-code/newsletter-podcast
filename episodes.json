@@ -742,5 +742,13 @@
     "pub_date": "2026-10-21T16:04:44.371107+00:00",
     "duration_seconds": 763,
     "size_bytes": 6112652
+  },
+  {
+    "filename": "2026-10-22.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, October 22, 2026",
+    "description": "AI has gotten powerful enough to uncover two critical, decade-old vulnerabilities in PHP\u2014the language behind roughly 70% of the web\u2014prompting urgent patch warnings, while Anthropic enters the personal-agent race with Claude Duet, an always-on assistant built on Opus 5.5 to rival OpenAI's Dot and Meta's Muse. The episode also covers ChatGPT's new Locked Chats privacy feature, an OpenAI\u2013Google Cloud deal, Meta's massive AI spending plans, and practical tips on handing routine inbox and workflow tasks off to AI connectors.",
+    "pub_date": "2026-10-22T16:05:04.444353+00:00",
+    "duration_seconds": 693,
+    "size_bytes": 5545676
   }
 ]
