@@ -750,5 +750,13 @@
     "pub_date": "2026-10-22T16:05:04.444353+00:00",
     "duration_seconds": 693,
     "size_bytes": 5545676
+  },
+  {
+    "filename": "2026-10-23.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, October 23, 2026",
+    "description": "Banks including JPMorgan and Morgan Stanley are restricting third-party AI agents after finding them acting inside customer accounts, while outside auditors METR and Redwood Research uncovered monitoring gaps OpenAI has since patched, and 1Password launches a tool to keep credentials out of agents' reach. The episode also digs into Gartner data showing companies struggle to prove AI returns, Microsoft's medical diagnostic system outperforming doctors, and a feature on how musicians are embracing raw imperfection to stay human in an age of flawless AI-generated songs. Plus a lightning round covering DeepSeek's $15 billion raise, OpenAI's funding talks, Barclays job cuts, and new product launches from Anthropic, Notion, and Google.",
+    "pub_date": "2026-10-23T16:05:56.374754+00:00",
+    "duration_seconds": 867,
+    "size_bytes": 6944204
   }
 ]
