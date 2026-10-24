@@ -758,5 +758,13 @@
     "pub_date": "2026-10-23T16:05:56.374754+00:00",
     "duration_seconds": 867,
     "size_bytes": 6944204
+  },
+  {
+    "filename": "2026-10-24.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, October 24, 2026",
+    "description": "A weekend deep dive into the question dominating tech right now: are we in an AI bubble? The Deep View put the question to AI-built \"Digital Minds\" of figures like Vinod Khosla, Andrej Karpathy, Kirsten Green, and Oxford's Carl Benedikt Frey, surfacing a qualified consensus that valuations and the pilot-heavy application layer are frothy while the underlying compute and technology are real. The sharpest warning centers on the credit-financed, off-balance-sheet data center buildout and the risk that a financial unraveling could ripple into the broader economy.",
+    "pub_date": "2026-10-24T16:43:32.021031+00:00",
+    "duration_seconds": 326,
+    "size_bytes": 2615948
   }
 ]

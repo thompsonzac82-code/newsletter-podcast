@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 16:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:43:32 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, October 24, 2026</title>
+      <description>A weekend deep dive into the question dominating tech right now: are we in an AI bubble? The Deep View put the question to AI-built "Digital Minds" of figures like Vinod Khosla, Andrej Karpathy, Kirsten Green, and Oxford's Carl Benedikt Frey, surfacing a qualified consensus that valuations and the pilot-heavy application layer are frothy while the underlying compute and technology are real. The sharpest warning centers on the credit-financed, off-balance-sheet data center buildout and the risk that a financial unraveling could ripple into the broader economy.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-24.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-24.mp3" length="2615948" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 16:43:32 +0000</pubDate>
+      <itunes:duration>5:26</itunes:duration>
+      <itunes:summary>A weekend deep dive into the question dominating tech right now: are we in an AI bubble? The Deep View put the question to AI-built "Digital Minds" of figures like Vinod Khosla, Andrej Karpathy, Kirsten Green, and Oxford's Carl Benedikt Frey, surfacing a qualified consensus that valuations and the pilot-heavy application layer are frothy while the underlying compute and technology are real. The sharpest warning centers on the credit-financed, off-balance-sheet data center buildout and the risk that a financial unraveling could ripple into the broader economy.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, October 23, 2026</title>
       <description>Banks including JPMorgan and Morgan Stanley are restricting third-party AI agents after finding them acting inside customer accounts, while outside auditors METR and Redwood Research uncovered monitoring gaps OpenAI has since patched, and 1Password launches a tool to keep credentials out of agents' reach. The episode also digs into Gartner data showing companies struggle to prove AI returns, Microsoft's medical diagnostic system outperforming doctors, and a feature on how musicians are embracing raw imperfection to stay human in an age of flawless AI-generated songs. Plus a lightning round covering DeepSeek's $15 billion raise, OpenAI's funding talks, Barclays job cuts, and new product launches from Anthropic, Notion, and Google.</description>
