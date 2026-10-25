@@ -766,5 +766,13 @@
     "pub_date": "2026-10-24T16:43:32.021031+00:00",
     "duration_seconds": 326,
     "size_bytes": 2615948
+  },
+  {
+    "filename": "2026-10-25.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Sunday, October 25, 2026",
+    "description": "A conversation with SAP CTO Philipp Herzig, from The Rundown AI, on what it actually takes to run a business on AI rather than just demo it. Covers the \"software as a service is dead\" debate, why so many AI pilots never reach production, adoption as the real bottleneck, SAP's Joule Work and the \"fluent but wrong\" data problem, where companies waste money on frontier models and context bloat, and the rise of tabular AI for forecasting things like late payments and cash flow.",
+    "pub_date": "2026-10-25T17:04:17.676225+00:00",
+    "duration_seconds": 689,
+    "size_bytes": 5515916
   }
 ]

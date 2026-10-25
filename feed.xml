@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 16:43:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:04:17 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Sunday, October 25, 2026</title>
+      <description>A conversation with SAP CTO Philipp Herzig, from The Rundown AI, on what it actually takes to run a business on AI rather than just demo it. Covers the "software as a service is dead" debate, why so many AI pilots never reach production, adoption as the real bottleneck, SAP's Joule Work and the "fluent but wrong" data problem, where companies waste money on frontier models and context bloat, and the rise of tabular AI for forecasting things like late payments and cash flow.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-25.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-25.mp3" length="5515916" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Oct 2026 17:04:17 +0000</pubDate>
+      <itunes:duration>11:29</itunes:duration>
+      <itunes:summary>A conversation with SAP CTO Philipp Herzig, from The Rundown AI, on what it actually takes to run a business on AI rather than just demo it. Covers the "software as a service is dead" debate, why so many AI pilots never reach production, adoption as the real bottleneck, SAP's Joule Work and the "fluent but wrong" data problem, where companies waste money on frontier models and context bloat, and the rise of tabular AI for forecasting things like late payments and cash flow.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, October 24, 2026</title>
       <description>A weekend deep dive into the question dominating tech right now: are we in an AI bubble? The Deep View put the question to AI-built "Digital Minds" of figures like Vinod Khosla, Andrej Karpathy, Kirsten Green, and Oxford's Carl Benedikt Frey, surfacing a qualified consensus that valuations and the pilot-heavy application layer are frothy while the underlying compute and technology are real. The sharpest warning centers on the credit-financed, off-balance-sheet data center buildout and the risk that a financial unraveling could ripple into the broader economy.</description>
