@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:04:14 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, October 26, 2026</title>
+      <description>Today's digest centers on AI's shift from experimentation to accountability, starting with Gartner's 2027 predictions on disposable software, AI agent security breaches, and cost-exhaustion attacks. It covers OpenAI's new Decisions API challenging startup TypeSafe's Jev, China's Kimi K3.1 Pro climbing the global model rankings, and Canva's new Craft image model. Rounding things out are practical AI use cases from everyday workers, home redesign and gym-tracking workflows, password-safe AI logins, plus quick hits on Block's Dessa voice AI and departures at Anthropic.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-26.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-26.mp3" length="5864396" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Oct 2026 17:04:14 +0000</pubDate>
+      <itunes:duration>12:12</itunes:duration>
+      <itunes:summary>Today's digest centers on AI's shift from experimentation to accountability, starting with Gartner's 2027 predictions on disposable software, AI agent security breaches, and cost-exhaustion attacks. It covers OpenAI's new Decisions API challenging startup TypeSafe's Jev, China's Kimi K3.1 Pro climbing the global model rankings, and Canva's new Craft image model. Rounding things out are practical AI use cases from everyday workers, home redesign and gym-tracking workflows, password-safe AI logins, plus quick hits on Block's Dessa voice AI and departures at Anthropic.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Sunday, October 25, 2026</title>
       <description>A conversation with SAP CTO Philipp Herzig, from The Rundown AI, on what it actually takes to run a business on AI rather than just demo it. Covers the "software as a service is dead" debate, why so many AI pilots never reach production, adoption as the real bottleneck, SAP's Joule Work and the "fluent but wrong" data problem, where companies waste money on frontier models and context bloat, and the rise of tabular AI for forecasting things like late payments and cash flow.</description>

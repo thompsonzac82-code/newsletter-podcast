@@ -774,5 +774,13 @@
     "pub_date": "2026-10-25T17:04:17.676225+00:00",
     "duration_seconds": 689,
     "size_bytes": 5515916
+  },
+  {
+    "filename": "2026-10-26.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, October 26, 2026",
+    "description": "Today's digest centers on AI's shift from experimentation to accountability, starting with Gartner's 2027 predictions on disposable software, AI agent security breaches, and cost-exhaustion attacks. It covers OpenAI's new Decisions API challenging startup TypeSafe's Jev, China's Kimi K3.1 Pro climbing the global model rankings, and Canva's new Craft image model. Rounding things out are practical AI use cases from everyday workers, home redesign and gym-tracking workflows, password-safe AI logins, plus quick hits on Block's Dessa voice AI and departures at Anthropic.",
+    "pub_date": "2026-10-26T17:04:14.884815+00:00",
+    "duration_seconds": 732,
+    "size_bytes": 5864396
   }
 ]
