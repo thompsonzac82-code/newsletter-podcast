@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:03:58 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, October 27, 2026</title>
+      <description>Anthropic has filed to go public on Nasdaq, and its S-1 reveals striking numbers: 16.3 billion in first-half revenue, a profitable June quarter, and deep ties to Big Tech cloud providers that reframe the AI bubble debate. The episode also covers OpenAI's new cost-cutting GPT-6.1 Terra model, claims that its unreleased models made novel discoveries in physics and math, Brilliant Labs' privacy-first Halo smart glasses, and quick hits including an Elvis song lawsuit against Anthropic, Musk's warning about failing neoclouds, and Meta's 35 billion stock sale for AI infrastructure.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-27.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-27.mp3" length="5339852" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2026 17:03:58 +0000</pubDate>
+      <itunes:duration>11:07</itunes:duration>
+      <itunes:summary>Anthropic has filed to go public on Nasdaq, and its S-1 reveals striking numbers: 16.3 billion in first-half revenue, a profitable June quarter, and deep ties to Big Tech cloud providers that reframe the AI bubble debate. The episode also covers OpenAI's new cost-cutting GPT-6.1 Terra model, claims that its unreleased models made novel discoveries in physics and math, Brilliant Labs' privacy-first Halo smart glasses, and quick hits including an Elvis song lawsuit against Anthropic, Musk's warning about failing neoclouds, and Meta's 35 billion stock sale for AI infrastructure.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, October 26, 2026</title>
       <description>Today's digest centers on AI's shift from experimentation to accountability, starting with Gartner's 2027 predictions on disposable software, AI agent security breaches, and cost-exhaustion attacks. It covers OpenAI's new Decisions API challenging startup TypeSafe's Jev, China's Kimi K3.1 Pro climbing the global model rankings, and Canva's new Craft image model. Rounding things out are practical AI use cases from everyday workers, home redesign and gym-tracking workflows, password-safe AI logins, plus quick hits on Block's Dessa voice AI and departures at Anthropic.</description>

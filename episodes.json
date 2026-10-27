@@ -782,5 +782,13 @@
     "pub_date": "2026-10-26T17:04:14.884815+00:00",
     "duration_seconds": 732,
     "size_bytes": 5864396
+  },
+  {
+    "filename": "2026-10-27.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, October 27, 2026",
+    "description": "Anthropic has filed to go public on Nasdaq, and its S-1 reveals striking numbers: 16.3 billion in first-half revenue, a profitable June quarter, and deep ties to Big Tech cloud providers that reframe the AI bubble debate. The episode also covers OpenAI's new cost-cutting GPT-6.1 Terra model, claims that its unreleased models made novel discoveries in physics and math, Brilliant Labs' privacy-first Halo smart glasses, and quick hits including an Elvis song lawsuit against Anthropic, Musk's warning about failing neoclouds, and Meta's 35 billion stock sale for AI infrastructure.",
+    "pub_date": "2026-10-27T17:03:58.574604+00:00",
+    "duration_seconds": 667,
+    "size_bytes": 5339852
   }
 ]
