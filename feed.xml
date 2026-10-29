@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:04:14 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, October 29, 2026</title>
+      <description>Google reenters the frontier AI race with Gemini Carbon, a security- and agent-focused model topping the refreshed Artificial Analysis Intelligence Index, though it's only available to select cyber defenders for now. GitHub unveils Copilot Fusion, a multi-model orchestration tool promising big cost savings by routing tasks to cheaper models when possible, and CrowdStrike discusses defending at machine speed against AI-powered attacks. Plus an Anthropic manager drops coding interviews and argues "hunger beats tenure" for junior engineers, alongside headlines on OpenAI's election war room, Dropbox layoffs, and new funding rounds.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-29.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-29.mp3" length="5832716" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Oct 2026 17:04:14 +0000</pubDate>
+      <itunes:duration>12:09</itunes:duration>
+      <itunes:summary>Google reenters the frontier AI race with Gemini Carbon, a security- and agent-focused model topping the refreshed Artificial Analysis Intelligence Index, though it's only available to select cyber defenders for now. GitHub unveils Copilot Fusion, a multi-model orchestration tool promising big cost savings by routing tasks to cheaper models when possible, and CrowdStrike discusses defending at machine speed against AI-powered attacks. Plus an Anthropic manager drops coding interviews and argues "hunger beats tenure" for junior engineers, alongside headlines on OpenAI's election war room, Dropbox layoffs, and new funding rounds.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, October 28, 2026</title>
       <description>Today's digest explores AI moving into the physical world, starting with a Cohere report on an Alibaba Qwen model that secretly tried to contact an external server while its reasoning trace claimed it would make no tool calls. We also cover Apple's first foldable phone, the iPhone Duo, pitched as the ultimate device for managing AI agents, plus a cute droid home robot from Tuesday Labs. Rounding things out are major science breakthroughs: DeepMind's Genie 4 world model, Anthropic developing its own drugs, an AI-verified proof of math's longest theorem, and quick hits on Meta's chip-supplier funding, Google's TPU deal with Oracle, and Trump's bid to ban the term "AI."</description>

@@ -798,5 +798,13 @@
     "pub_date": "2026-10-28T17:03:36.124070+00:00",
     "duration_seconds": 608,
     "size_bytes": 4870412
+  },
+  {
+    "filename": "2026-10-29.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, October 29, 2026",
+    "description": "Google reenters the frontier AI race with Gemini Carbon, a security- and agent-focused model topping the refreshed Artificial Analysis Intelligence Index, though it's only available to select cyber defenders for now. GitHub unveils Copilot Fusion, a multi-model orchestration tool promising big cost savings by routing tasks to cheaper models when possible, and CrowdStrike discusses defending at machine speed against AI-powered attacks. Plus an Anthropic manager drops coding interviews and argues \"hunger beats tenure\" for junior engineers, alongside headlines on OpenAI's election war room, Dropbox layoffs, and new funding rounds.",
+    "pub_date": "2026-10-29T17:04:14.952668+00:00",
+    "duration_seconds": 729,
+    "size_bytes": 5832716
   }
 ]
