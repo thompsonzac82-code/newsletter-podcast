@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:04:38 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, October 30, 2026</title>
+      <description>Today's digest leads with a New York Times report alleging that an executive tied to Nvidia's Jensen Huang passed intelligence to Beijing, plus a warning that AI has killed "security by obscurity" after decades-old PHP flaws became exploitable. We also cover Anthropic's new Claude self-assessment safety technique, Mistral's trillion-parameter open model challenging China, Amazon's refreshed Alexa Plus and Echo lineup, and quick hits on Altman's robotics plans, Cohere funding, and Anthropic's massive SpaceX spend. The episode closes with a reflective essay on AI, music, and why human creativity endures.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-30.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-10-30.mp3" length="6560012" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 17:04:38 +0000</pubDate>
+      <itunes:duration>13:39</itunes:duration>
+      <itunes:summary>Today's digest leads with a New York Times report alleging that an executive tied to Nvidia's Jensen Huang passed intelligence to Beijing, plus a warning that AI has killed "security by obscurity" after decades-old PHP flaws became exploitable. We also cover Anthropic's new Claude self-assessment safety technique, Mistral's trillion-parameter open model challenging China, Amazon's refreshed Alexa Plus and Echo lineup, and quick hits on Altman's robotics plans, Cohere funding, and Anthropic's massive SpaceX spend. The episode closes with a reflective essay on AI, music, and why human creativity endures.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, October 29, 2026</title>
       <description>Google reenters the frontier AI race with Gemini Carbon, a security- and agent-focused model topping the refreshed Artificial Analysis Intelligence Index, though it's only available to select cyber defenders for now. GitHub unveils Copilot Fusion, a multi-model orchestration tool promising big cost savings by routing tasks to cheaper models when possible, and CrowdStrike discusses defending at machine speed against AI-powered attacks. Plus an Anthropic manager drops coding interviews and argues "hunger beats tenure" for junior engineers, alongside headlines on OpenAI's election war room, Dropbox layoffs, and new funding rounds.</description>

@@ -806,5 +806,13 @@
     "pub_date": "2026-10-29T17:04:14.952668+00:00",
     "duration_seconds": 729,
     "size_bytes": 5832716
+  },
+  {
+    "filename": "2026-10-30.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, October 30, 2026",
+    "description": "Today's digest leads with a New York Times report alleging that an executive tied to Nvidia's Jensen Huang passed intelligence to Beijing, plus a warning that AI has killed \"security by obscurity\" after decades-old PHP flaws became exploitable. We also cover Anthropic's new Claude self-assessment safety technique, Mistral's trillion-parameter open model challenging China, Amazon's refreshed Alexa Plus and Echo lineup, and quick hits on Altman's robotics plans, Cohere funding, and Anthropic's massive SpaceX spend. The episode closes with a reflective essay on AI, music, and why human creativity endures.",
+    "pub_date": "2026-10-30T17:04:38.420444+00:00",
+    "duration_seconds": 819,
+    "size_bytes": 6560012
   }
 ]
