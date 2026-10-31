@@ -814,5 +814,13 @@
     "pub_date": "2026-10-30T17:04:38.420444+00:00",
     "duration_seconds": 819,
     "size_bytes": 6560012
+  },
+  {
+    "filename": "2026-10-31.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, October 31, 2026",
+    "description": "A lighter Saturday edition built around a single special issue of The Deep View, produced with Coder, on how AI has turned non-engineers into software builders and the security gaps that follow. It covers why AI runs ungoverned between a company's application, data, and compute layers, the three common ways this goes wrong, and Coder's proposed \"AI Operating Layer\" fix: containing data, scoping access, governing models, auditing activity, and controlling spend.",
+    "pub_date": "2026-10-31T17:02:31.587175+00:00",
+    "duration_seconds": 358,
+    "size_bytes": 2869004
   }
 ]
