@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 17:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:04:25 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, November 2, 2026</title>
+      <description>Today's episode digs into the collision between AI's ambitions and its real-world costs, starting with OpenAI's newly revealed ChatGPT ad stack and its context-driven, trust-first approach. We cover data centers becoming a midterm ballot issue amid local bans and OpenAI's rebranding push, Google's Project Suncatcher sending an AI prompt to a chip in orbit, and GitHub's Copilot Fusion cutting coding costs through smarter model routing. Plus practical AI workflow stories, an SVG art tutorial, and quick hits from Cisco, SpaceX's Grok watermarking, and plan changes at OpenAI and Anthropic.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-02.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-02.mp3" length="5857100" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Nov 2026 17:04:25 +0000</pubDate>
+      <itunes:duration>12:12</itunes:duration>
+      <itunes:summary>Today's episode digs into the collision between AI's ambitions and its real-world costs, starting with OpenAI's newly revealed ChatGPT ad stack and its context-driven, trust-first approach. We cover data centers becoming a midterm ballot issue amid local bans and OpenAI's rebranding push, Google's Project Suncatcher sending an AI prompt to a chip in orbit, and GitHub's Copilot Fusion cutting coding costs through smarter model routing. Plus practical AI workflow stories, an SVG art tutorial, and quick hits from Cisco, SpaceX's Grok watermarking, and plan changes at OpenAI and Anthropic.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, October 31, 2026</title>
       <description>A lighter Saturday edition built around a single special issue of The Deep View, produced with Coder, on how AI has turned non-engineers into software builders and the security gaps that follow. It covers why AI runs ungoverned between a company's application, data, and compute layers, the three common ways this goes wrong, and Coder's proposed "AI Operating Layer" fix: containing data, scoping access, governing models, auditing activity, and controlling spend.</description>

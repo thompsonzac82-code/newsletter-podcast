@@ -822,5 +822,13 @@
     "pub_date": "2026-10-31T17:02:31.587175+00:00",
     "duration_seconds": 358,
     "size_bytes": 2869004
+  },
+  {
+    "filename": "2026-11-02.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, November 2, 2026",
+    "description": "Today's episode digs into the collision between AI's ambitions and its real-world costs, starting with OpenAI's newly revealed ChatGPT ad stack and its context-driven, trust-first approach. We cover data centers becoming a midterm ballot issue amid local bans and OpenAI's rebranding push, Google's Project Suncatcher sending an AI prompt to a chip in orbit, and GitHub's Copilot Fusion cutting coding costs through smarter model routing. Plus practical AI workflow stories, an SVG art tutorial, and quick hits from Cisco, SpaceX's Grok watermarking, and plan changes at OpenAI and Anthropic.",
+    "pub_date": "2026-11-02T17:04:25.868194+00:00",
+    "duration_seconds": 732,
+    "size_bytes": 5857100
   }
 ]
