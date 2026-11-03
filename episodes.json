@@ -830,5 +830,13 @@
     "pub_date": "2026-11-02T17:04:25.868194+00:00",
     "duration_seconds": 732,
     "size_bytes": 5857100
+  },
+  {
+    "filename": "2026-11-03.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, November 3, 2026",
+    "description": "Today's episode digs into the central tension in AI: massive spending versus rapid capability gains. On the money side, we cover Anthropic's SEC filing disclosing nearly $900 billion in planned spending alongside a $23 billion quarterly loss, Musk cutting back Grok Bot over costs, Marvell's $115 billion acquisition of Lumentum, and OpenAI's Grid Protectors Program for data center power. On capabilities, we explore MIT research showing GPT-6 Astra rewriting other models' weights, OpenAI's new LifeVal benchmark, Hume AI's audio decision model, and OpenAI's four government deals in Abu Dhabi.",
+    "pub_date": "2026-11-03T17:04:48.983442+00:00",
+    "duration_seconds": 788,
+    "size_bytes": 6306764
   }
 ]
