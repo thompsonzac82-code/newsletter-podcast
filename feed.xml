@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:04:20 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, November 4, 2026</title>
+      <description>Today's episode digs into how AI is reshaping everyday products, starting with ChatGPT emerging as Google's biggest search rival in decades and Apple finally opening Siri to developers. We also cover the brewing fight over Google and AI in K-12 schools, GitHub's data on coding agents now driving 40 percent of pull requests, enterprise AI spending hitting 177 billion dollars, and CrowdStrike's new "AI Kill Switch" for rogue agents. Plus a lightning round on OpenAI, Anthropic's Claude Duet, Netflix, and more.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-04.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-04.mp3" length="5507468" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Nov 2026 17:04:20 +0000</pubDate>
+      <itunes:duration>11:28</itunes:duration>
+      <itunes:summary>Today's episode digs into how AI is reshaping everyday products, starting with ChatGPT emerging as Google's biggest search rival in decades and Apple finally opening Siri to developers. We also cover the brewing fight over Google and AI in K-12 schools, GitHub's data on coding agents now driving 40 percent of pull requests, enterprise AI spending hitting 177 billion dollars, and CrowdStrike's new "AI Kill Switch" for rogue agents. Plus a lightning round on OpenAI, Anthropic's Claude Duet, Netflix, and more.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, November 3, 2026</title>
       <description>Today's episode digs into the central tension in AI: massive spending versus rapid capability gains. On the money side, we cover Anthropic's SEC filing disclosing nearly $900 billion in planned spending alongside a $23 billion quarterly loss, Musk cutting back Grok Bot over costs, Marvell's $115 billion acquisition of Lumentum, and OpenAI's Grid Protectors Program for data center power. On capabilities, we explore MIT research showing GPT-6 Astra rewriting other models' weights, OpenAI's new LifeVal benchmark, Hume AI's audio decision model, and OpenAI's four government deals in Abu Dhabi.</description>

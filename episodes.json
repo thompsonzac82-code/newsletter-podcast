@@ -838,5 +838,13 @@
     "pub_date": "2026-11-03T17:04:48.983442+00:00",
     "duration_seconds": 788,
     "size_bytes": 6306764
+  },
+  {
+    "filename": "2026-11-04.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, November 4, 2026",
+    "description": "Today's episode digs into how AI is reshaping everyday products, starting with ChatGPT emerging as Google's biggest search rival in decades and Apple finally opening Siri to developers. We also cover the brewing fight over Google and AI in K-12 schools, GitHub's data on coding agents now driving 40 percent of pull requests, enterprise AI spending hitting 177 billion dollars, and CrowdStrike's new \"AI Kill Switch\" for rogue agents. Plus a lightning round on OpenAI, Anthropic's Claude Duet, Netflix, and more.",
+    "pub_date": "2026-11-04T17:04:20.585974+00:00",
+    "duration_seconds": 688,
+    "size_bytes": 5507468
   }
 ]
