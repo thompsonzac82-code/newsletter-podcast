@@ -846,5 +846,13 @@
     "pub_date": "2026-11-04T17:04:20.585974+00:00",
     "duration_seconds": 688,
     "size_bytes": 5507468
+  },
+  {
+    "filename": "2026-11-05.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Thursday, November 5, 2026",
+    "description": "Voters pushed back hard on AI data centers in the US midterms, with exit polls showing strong opposition and restrict-the-buildout ballot measures winning nearly everywhere, prompting labs to consider smaller or overseas facilities. The episode also covers OpenAI using its GPT-6 Astra model to design physical hardware, Anthropic's new FlashProve system for cryptographically verifying AI outputs, Grok's new phone-calling assistant, plus practical tips on prompting AI to sketch before it builds and picking a free AI tool. It closes with a roundup of acquisitions and new model releases and a listener's AI-powered family letter archive.",
+    "pub_date": "2026-11-05T17:05:00.666791+00:00",
+    "duration_seconds": 837,
+    "size_bytes": 6698060
   }
 ]

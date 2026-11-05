@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:05:00 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Thursday, November 5, 2026</title>
+      <description>Voters pushed back hard on AI data centers in the US midterms, with exit polls showing strong opposition and restrict-the-buildout ballot measures winning nearly everywhere, prompting labs to consider smaller or overseas facilities. The episode also covers OpenAI using its GPT-6 Astra model to design physical hardware, Anthropic's new FlashProve system for cryptographically verifying AI outputs, Grok's new phone-calling assistant, plus practical tips on prompting AI to sketch before it builds and picking a free AI tool. It closes with a roundup of acquisitions and new model releases and a listener's AI-powered family letter archive.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-05.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-05.mp3" length="6698060" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Nov 2026 17:05:00 +0000</pubDate>
+      <itunes:duration>13:57</itunes:duration>
+      <itunes:summary>Voters pushed back hard on AI data centers in the US midterms, with exit polls showing strong opposition and restrict-the-buildout ballot measures winning nearly everywhere, prompting labs to consider smaller or overseas facilities. The episode also covers OpenAI using its GPT-6 Astra model to design physical hardware, Anthropic's new FlashProve system for cryptographically verifying AI outputs, Grok's new phone-calling assistant, plus practical tips on prompting AI to sketch before it builds and picking a free AI tool. It closes with a roundup of acquisitions and new model releases and a listener's AI-powered family letter archive.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, November 4, 2026</title>
       <description>Today's episode digs into how AI is reshaping everyday products, starting with ChatGPT emerging as Google's biggest search rival in decades and Apple finally opening Siri to developers. We also cover the brewing fight over Google and AI in K-12 schools, GitHub's data on coding agents now driving 40 percent of pull requests, enterprise AI spending hitting 177 billion dollars, and CrowdStrike's new "AI Kill Switch" for rogue agents. Plus a lightning round on OpenAI, Anthropic's Claude Duet, Netflix, and more.</description>
