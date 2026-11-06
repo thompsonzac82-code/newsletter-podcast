@@ -854,5 +854,13 @@
     "pub_date": "2026-11-05T17:05:00.666791+00:00",
     "duration_seconds": 837,
     "size_bytes": 6698060
+  },
+  {
+    "filename": "2026-11-06.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, November 6, 2026",
+    "description": "A METR report reveals Anthropic's AI progress has roughly doubled, driven largely by AI building better AI, alongside OpenAI's new cybersecurity-focused GPT-6 Cyber model. The episode also unpacks Deloitte and Wharton findings on the gap between enterprise AI adoption and measurable returns, plus a wave of product launches including OpenAI's Images 2.6, Google's Gemini Omni, Anthropic's Claude finance tool, and Perplexity's Teammates. Rounding it out are a Democratic call to pause advanced AI and practical tips like Rowan's \"Three Times rule\" for automating tasks.",
+    "pub_date": "2026-11-06T17:04:24.036579+00:00",
+    "duration_seconds": 695,
+    "size_bytes": 5567564
   }
 ]

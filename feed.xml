@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:04:24 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, November 6, 2026</title>
+      <description>A METR report reveals Anthropic's AI progress has roughly doubled, driven largely by AI building better AI, alongside OpenAI's new cybersecurity-focused GPT-6 Cyber model. The episode also unpacks Deloitte and Wharton findings on the gap between enterprise AI adoption and measurable returns, plus a wave of product launches including OpenAI's Images 2.6, Google's Gemini Omni, Anthropic's Claude finance tool, and Perplexity's Teammates. Rounding it out are a Democratic call to pause advanced AI and practical tips like Rowan's "Three Times rule" for automating tasks.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-06.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-06.mp3" length="5567564" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Nov 2026 17:04:24 +0000</pubDate>
+      <itunes:duration>11:35</itunes:duration>
+      <itunes:summary>A METR report reveals Anthropic's AI progress has roughly doubled, driven largely by AI building better AI, alongside OpenAI's new cybersecurity-focused GPT-6 Cyber model. The episode also unpacks Deloitte and Wharton findings on the gap between enterprise AI adoption and measurable returns, plus a wave of product launches including OpenAI's Images 2.6, Google's Gemini Omni, Anthropic's Claude finance tool, and Perplexity's Teammates. Rounding it out are a Democratic call to pause advanced AI and practical tips like Rowan's "Three Times rule" for automating tasks.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, November 5, 2026</title>
       <description>Voters pushed back hard on AI data centers in the US midterms, with exit polls showing strong opposition and restrict-the-buildout ballot measures winning nearly everywhere, prompting labs to consider smaller or overseas facilities. The episode also covers OpenAI using its GPT-6 Astra model to design physical hardware, Anthropic's new FlashProve system for cryptographically verifying AI outputs, Grok's new phone-calling assistant, plus practical tips on prompting AI to sketch before it builds and picking a free AI tool. It closes with a roundup of acquisitions and new model releases and a listener's AI-powered family letter archive.</description>
