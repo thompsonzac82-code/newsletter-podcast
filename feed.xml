@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:02:33 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, November 7, 2026</title>
+      <description>A weekend deep dive from The Deep View into how AI has upended software pricing—from per-resolution and credit-based models to pay-per-outcome deals—and the accounting headaches they create under revenue standard ASC 606. Covers three common traps in booking AI revenue: whether to report gross or net when reselling frontier models, the risk of counting resolutions before they happen, and how to handle unused prepaid credits, plus how tools like Hyphenate aim to automate contract-based revenue recognition.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-07.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-07.mp3" length="2959820" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Nov 2026 17:02:33 +0000</pubDate>
+      <itunes:duration>6:09</itunes:duration>
+      <itunes:summary>A weekend deep dive from The Deep View into how AI has upended software pricing—from per-resolution and credit-based models to pay-per-outcome deals—and the accounting headaches they create under revenue standard ASC 606. Covers three common traps in booking AI revenue: whether to report gross or net when reselling frontier models, the risk of counting resolutions before they happen, and how to handle unused prepaid credits, plus how tools like Hyphenate aim to automate contract-based revenue recognition.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Friday, November 6, 2026</title>
       <description>A METR report reveals Anthropic's AI progress has roughly doubled, driven largely by AI building better AI, alongside OpenAI's new cybersecurity-focused GPT-6 Cyber model. The episode also unpacks Deloitte and Wharton findings on the gap between enterprise AI adoption and measurable returns, plus a wave of product launches including OpenAI's Images 2.6, Google's Gemini Omni, Anthropic's Claude finance tool, and Perplexity's Teammates. Rounding it out are a Democratic call to pause advanced AI and practical tips like Rowan's "Three Times rule" for automating tasks.</description>

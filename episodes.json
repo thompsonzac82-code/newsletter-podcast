@@ -862,5 +862,13 @@
     "pub_date": "2026-11-06T17:04:24.036579+00:00",
     "duration_seconds": 695,
     "size_bytes": 5567564
+  },
+  {
+    "filename": "2026-11-07.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, November 7, 2026",
+    "description": "A weekend deep dive from The Deep View into how AI has upended software pricing\u2014from per-resolution and credit-based models to pay-per-outcome deals\u2014and the accounting headaches they create under revenue standard ASC 606. Covers three common traps in booking AI revenue: whether to report gross or net when reselling frontier models, the risk of counting resolutions before they happen, and how to handle unused prepaid credits, plus how tools like Hyphenate aim to automate contract-based revenue recognition.",
+    "pub_date": "2026-11-07T17:02:33.918950+00:00",
+    "duration_seconds": 369,
+    "size_bytes": 2959820
   }
 ]
