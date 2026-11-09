@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:04:59 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, November 9, 2026</title>
+      <description>Today's episode centers on the AI industry colliding with real-world friction. Topics include the midterm election backlash reshaping the data center buildout and spooking tech stocks, the Nvidia board's review of a foreign intelligence scandal involving Jensen Huang, Visa's new benchmark showing AI agents still can't be trusted to shop, and GitHub's take on trust as the new bottleneck in software. Plus Anthropic's "AI dreaming" memory research, OpenAI's $11 billion raise at a $1.25 trillion valuation, and other quick industry hits.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-09.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-09.mp3" length="6522956" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Nov 2026 17:04:59 +0000</pubDate>
+      <itunes:duration>13:35</itunes:duration>
+      <itunes:summary>Today's episode centers on the AI industry colliding with real-world friction. Topics include the midterm election backlash reshaping the data center buildout and spooking tech stocks, the Nvidia board's review of a foreign intelligence scandal involving Jensen Huang, Visa's new benchmark showing AI agents still can't be trusted to shop, and GitHub's take on trust as the new bottleneck in software. Plus Anthropic's "AI dreaming" memory research, OpenAI's $11 billion raise at a $1.25 trillion valuation, and other quick industry hits.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Saturday, November 7, 2026</title>
       <description>A weekend deep dive from The Deep View into how AI has upended software pricing—from per-resolution and credit-based models to pay-per-outcome deals—and the accounting headaches they create under revenue standard ASC 606. Covers three common traps in booking AI revenue: whether to report gross or net when reselling frontier models, the risk of counting resolutions before they happen, and how to handle unused prepaid credits, plus how tools like Hyphenate aim to automate contract-based revenue recognition.</description>
