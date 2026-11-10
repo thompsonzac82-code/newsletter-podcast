@@ -878,5 +878,13 @@
     "pub_date": "2026-11-09T17:04:59.504722+00:00",
     "duration_seconds": 815,
     "size_bytes": 6522956
+  },
+  {
+    "filename": "2026-11-10.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, November 10, 2026",
+    "description": "Today's AI news centers on a pricing shift toward measuring finished work rather than per-token cost, with Anthropic launching its Fable and Mythos 5.2 frontier models and Meta releasing the budget-focused Muse Ember. Also covered: the widening scandal around Nvidia CEO Jensen Huang's affair with an alleged Chinese spy and the board's independent probe, Google's two new TPU chips, and quick hits on Anthropic's upcoming IPO, an Adobe-Disney deal, and a Fireworks security breach.",
+    "pub_date": "2026-11-10T17:04:07.645516+00:00",
+    "duration_seconds": 702,
+    "size_bytes": 5621516
   }
 ]

@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 17:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:04:07 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, November 10, 2026</title>
+      <description>Today's AI news centers on a pricing shift toward measuring finished work rather than per-token cost, with Anthropic launching its Fable and Mythos 5.2 frontier models and Meta releasing the budget-focused Muse Ember. Also covered: the widening scandal around Nvidia CEO Jensen Huang's affair with an alleged Chinese spy and the board's independent probe, Google's two new TPU chips, and quick hits on Anthropic's upcoming IPO, an Adobe-Disney deal, and a Fireworks security breach.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-10.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-10.mp3" length="5621516" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Nov 2026 17:04:07 +0000</pubDate>
+      <itunes:duration>11:42</itunes:duration>
+      <itunes:summary>Today's AI news centers on a pricing shift toward measuring finished work rather than per-token cost, with Anthropic launching its Fable and Mythos 5.2 frontier models and Meta releasing the budget-focused Muse Ember. Also covered: the widening scandal around Nvidia CEO Jensen Huang's affair with an alleged Chinese spy and the board's independent probe, Google's two new TPU chips, and quick hits on Anthropic's upcoming IPO, an Adobe-Disney deal, and a Fireworks security breach.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, November 9, 2026</title>
       <description>Today's episode centers on the AI industry colliding with real-world friction. Topics include the midterm election backlash reshaping the data center buildout and spooking tech stocks, the Nvidia board's review of a foreign intelligence scandal involving Jensen Huang, Visa's new benchmark showing AI agents still can't be trusted to shop, and GitHub's take on trust as the new bottleneck in software. Plus Anthropic's "AI dreaming" memory research, OpenAI's $11 billion raise at a $1.25 trillion valuation, and other quick industry hits.</description>
