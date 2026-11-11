@@ -886,5 +886,13 @@
     "pub_date": "2026-11-10T17:04:07.645516+00:00",
     "duration_seconds": 702,
     "size_bytes": 5621516
+  },
+  {
+    "filename": "2026-11-11.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, November 11, 2026",
+    "description": "Anthropic expands its enterprise push with new Claude tools including Meetings, Whiteboards, Sheets, and Data, aiming to kill context switching and build a competitive moat. Also covered: open-source \"agentic robotics\" research from UC Berkeley and Nvidia that uses AI agents to design and test industrial robots with less data, and Adobe's Max announcements, where the headline feature lets creatives plug rival AI models into Photoshop and other apps via local MCP integrations.",
+    "pub_date": "2026-11-11T17:03:06.163070+00:00",
+    "duration_seconds": 502,
+    "size_bytes": 4019276
   }
 ]

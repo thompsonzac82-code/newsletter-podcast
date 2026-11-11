@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:03:06 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, November 11, 2026</title>
+      <description>Anthropic expands its enterprise push with new Claude tools including Meetings, Whiteboards, Sheets, and Data, aiming to kill context switching and build a competitive moat. Also covered: open-source "agentic robotics" research from UC Berkeley and Nvidia that uses AI agents to design and test industrial robots with less data, and Adobe's Max announcements, where the headline feature lets creatives plug rival AI models into Photoshop and other apps via local MCP integrations.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-11.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-11.mp3" length="4019276" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Nov 2026 17:03:06 +0000</pubDate>
+      <itunes:duration>8:22</itunes:duration>
+      <itunes:summary>Anthropic expands its enterprise push with new Claude tools including Meetings, Whiteboards, Sheets, and Data, aiming to kill context switching and build a competitive moat. Also covered: open-source "agentic robotics" research from UC Berkeley and Nvidia that uses AI agents to design and test industrial robots with less data, and Adobe's Max announcements, where the headline feature lets creatives plug rival AI models into Photoshop and other apps via local MCP integrations.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, November 10, 2026</title>
       <description>Today's AI news centers on a pricing shift toward measuring finished work rather than per-token cost, with Anthropic launching its Fable and Mythos 5.2 frontier models and Meta releasing the budget-focused Muse Ember. Also covered: the widening scandal around Nvidia CEO Jensen Huang's affair with an alleged Chinese spy and the board's independent probe, Google's two new TPU chips, and quick hits on Anthropic's upcoming IPO, an Adobe-Disney deal, and a Fireworks security breach.</description>
