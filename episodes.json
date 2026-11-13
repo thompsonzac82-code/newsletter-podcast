@@ -902,5 +902,13 @@
     "pub_date": "2026-11-12T17:03:46.083206+00:00",
     "duration_seconds": 565,
     "size_bytes": 4522124
+  },
+  {
+    "filename": "2026-11-13.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Friday, November 13, 2026",
+    "description": "Nvidia's Jensen Huang abruptly resigns as CEO amid spy and affair scandals, with CFO Colette Kress stepping in and the stock plunging. Also covered: OpenAI's launch of two new cyber defense tools, Daybreak Red Team and Defense Factory; Google's new AI-powered smart glasses with Samsung, Gentle Monster, and Warby Parker; and a deep dive into World ID's iris-scanning orbs for proving you're human online.",
+    "pub_date": "2026-11-13T17:04:34.926222+00:00",
+    "duration_seconds": 701,
+    "size_bytes": 5614220
   }
 ]

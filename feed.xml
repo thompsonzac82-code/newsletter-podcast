@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:04:34 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Friday, November 13, 2026</title>
+      <description>Nvidia's Jensen Huang abruptly resigns as CEO amid spy and affair scandals, with CFO Colette Kress stepping in and the stock plunging. Also covered: OpenAI's launch of two new cyber defense tools, Daybreak Red Team and Defense Factory; Google's new AI-powered smart glasses with Samsung, Gentle Monster, and Warby Parker; and a deep dive into World ID's iris-scanning orbs for proving you're human online.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-13.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-13.mp3" length="5614220" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Nov 2026 17:04:34 +0000</pubDate>
+      <itunes:duration>11:41</itunes:duration>
+      <itunes:summary>Nvidia's Jensen Huang abruptly resigns as CEO amid spy and affair scandals, with CFO Colette Kress stepping in and the stock plunging. Also covered: OpenAI's launch of two new cyber defense tools, Daybreak Red Team and Defense Factory; Google's new AI-powered smart glasses with Samsung, Gentle Monster, and Warby Parker; and a deep dive into World ID's iris-scanning orbs for proving you're human online.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Thursday, November 12, 2026</title>
       <description>Today's digest explores three AI developments from The Deep View: Google's new Gemini Decisions API and the rise of cheaper, faster decision models built for rapid choices rather than lengthy text answers; the emergence of proactive background agents like OpenAI's Dots, Anthropic's Claude Duet, and Meta's Muse that catch mistakes and flag deadlines across your apps; and DeepMind's AlphaGenome 2, which predicts genetic variation at the level of individual cells to help uncover the cellular causes of disease. Along the way it weighs the cost savings, privacy tradeoffs, and growing proof behind AI's biggest promises.</description>
