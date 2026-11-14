@@ -910,5 +910,13 @@
     "pub_date": "2026-11-13T17:04:34.926222+00:00",
     "duration_seconds": 701,
     "size_bytes": 5614220
+  },
+  {
+    "filename": "2026-11-14.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, November 14, 2026",
+    "description": "Today's digest is a short weekend edition centered on a single Adobe-sponsored story from the Deep View: Adobe Firefly is being repositioned as an all-in-one AI creative studio. It covers how Firefly unifies image, video, audio, and design work, its model selector spanning Adobe, Google, ByteDance, Kling, OpenAI, and ElevenLabs engines, and the new Firefly AI Assistant agent with its Plan Mode and Quick Actions for multi-step creative tasks.",
+    "pub_date": "2026-11-14T17:01:37.227634+00:00",
+    "duration_seconds": 201,
+    "size_bytes": 1610636
   }
 ]
