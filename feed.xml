@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:03:45 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Monday, November 16, 2026</title>
+      <description>Today's episode explores whether AI has earned a deeper role in our daily lives, starting with the rise of persistent background agents and a hands-on look at Anthropic's new Claude Duet versus rivals like OpenAI's Dots and Meta's Muse. It then digs into OpenAI's cautious new ChatGPT Wallet for agent-driven purchases, Visa's benchmark showing agents still fumble checkout, and United Airlines banning AI booking bots. Finally, a conversation weighs whether any AI gadget—from smart glasses to foldables—is truly worth buying, plus a lightning round on Nvidia, Nscale, Samsung, and SpaceX.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-16.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-16.mp3" length="4829324" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Nov 2026 17:03:45 +0000</pubDate>
+      <itunes:duration>10:03</itunes:duration>
+      <itunes:summary>Today's episode explores whether AI has earned a deeper role in our daily lives, starting with the rise of persistent background agents and a hands-on look at Anthropic's new Claude Duet versus rivals like OpenAI's Dots and Meta's Muse. It then digs into OpenAI's cautious new ChatGPT Wallet for agent-driven purchases, Visa's benchmark showing agents still fumble checkout, and United Airlines banning AI booking bots. Finally, a conversation weighs whether any AI gadget—from smart glasses to foldables—is truly worth buying, plus a lightning round on Nvidia, Nscale, Samsung, and SpaceX.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Sunday, November 15, 2026</title>
       <description>A deep dive into AI interpretability research, featuring The Deep View's interview with Goodfire co-founder Tom McGrath about his startup's new paper arguing that AI models are far less of a "black box" than commonly believed. The conversation covers how researchers can read and influence individual neurons, the role of AI agents in scaling this work, the steep compute costs involved, and why interpretability could be key to solving alignment problems like reward hacking and model deception.</description>

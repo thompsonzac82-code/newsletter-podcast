@@ -926,5 +926,13 @@
     "pub_date": "2026-11-15T17:03:31.222991+00:00",
     "duration_seconds": 464,
     "size_bytes": 3715724
+  },
+  {
+    "filename": "2026-11-16.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, November 16, 2026",
+    "description": "Today's episode explores whether AI has earned a deeper role in our daily lives, starting with the rise of persistent background agents and a hands-on look at Anthropic's new Claude Duet versus rivals like OpenAI's Dots and Meta's Muse. It then digs into OpenAI's cautious new ChatGPT Wallet for agent-driven purchases, Visa's benchmark showing agents still fumble checkout, and United Airlines banning AI booking bots. Finally, a conversation weighs whether any AI gadget\u2014from smart glasses to foldables\u2014is truly worth buying, plus a lightning round on Nvidia, Nscale, Samsung, and SpaceX.",
+    "pub_date": "2026-11-16T17:03:45.647463+00:00",
+    "duration_seconds": 603,
+    "size_bytes": 4829324
   }
 ]
