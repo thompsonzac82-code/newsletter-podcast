@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 17:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:03:56 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Tuesday, November 17, 2026</title>
+      <description>Today's digest, drawn from The Deep View, examines AI's growing role in critical systems through three stories: last Friday's nationwide FAA outage that stranded over a million travelers and briefly cast suspicion on the new AI-powered SMART air traffic system, the IMF's warning about more than a trillion dollars of "circular financing" propping up the AI boom amid Nvidia's leadership turmoil, and OpenAI's decision to embed independent auditors across its operations. The common thread is the rising demand for scrutiny and transparency as AI becomes embedded in infrastructure, markets, and safety.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-17.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-17.mp3" length="4973900" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2026 17:03:56 +0000</pubDate>
+      <itunes:duration>10:21</itunes:duration>
+      <itunes:summary>Today's digest, drawn from The Deep View, examines AI's growing role in critical systems through three stories: last Friday's nationwide FAA outage that stranded over a million travelers and briefly cast suspicion on the new AI-powered SMART air traffic system, the IMF's warning about more than a trillion dollars of "circular financing" propping up the AI boom amid Nvidia's leadership turmoil, and OpenAI's decision to embed independent auditors across its operations. The common thread is the rising demand for scrutiny and transparency as AI becomes embedded in infrastructure, markets, and safety.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Monday, November 16, 2026</title>
       <description>Today's episode explores whether AI has earned a deeper role in our daily lives, starting with the rise of persistent background agents and a hands-on look at Anthropic's new Claude Duet versus rivals like OpenAI's Dots and Meta's Muse. It then digs into OpenAI's cautious new ChatGPT Wallet for agent-driven purchases, Visa's benchmark showing agents still fumble checkout, and United Airlines banning AI booking bots. Finally, a conversation weighs whether any AI gadget—from smart glasses to foldables—is truly worth buying, plus a lightning round on Nvidia, Nscale, Samsung, and SpaceX.</description>
