@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 17:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:02:40 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, November 21, 2026</title>
+      <description>A weekend deep dive into why AI projects lose most of their promised value between pilot and production, drawn from The Deep View's special edition with OneTrust. It walks through the math on a hypothetical $100 million opportunity shrinking to roughly $30 million once reliability, adoption, running costs, and failure risk are factored in, then makes the case that integrated governance is what lets a business keep more of that value. Features a Gartner forecast on AI governance gaps and candid commentary from OneTrust CFO Doug Owens on funding fewer, better-governed initiatives.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-21.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-21.mp3" length="2999948" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Nov 2026 17:02:40 +0000</pubDate>
+      <itunes:duration>6:14</itunes:duration>
+      <itunes:summary>A weekend deep dive into why AI projects lose most of their promised value between pilot and production, drawn from The Deep View's special edition with OneTrust. It walks through the math on a hypothetical $100 million opportunity shrinking to roughly $30 million once reliability, adoption, running costs, and failure risk are factored in, then makes the case that integrated governance is what lets a business keep more of that value. Features a Gartner forecast on AI governance gaps and candid commentary from OneTrust CFO Doug Owens on funding fewer, better-governed initiatives.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, November 17, 2026</title>
       <description>Today's digest, drawn from The Deep View, examines AI's growing role in critical systems through three stories: last Friday's nationwide FAA outage that stranded over a million travelers and briefly cast suspicion on the new AI-powered SMART air traffic system, the IMF's warning about more than a trillion dollars of "circular financing" propping up the AI boom amid Nvidia's leadership turmoil, and OpenAI's decision to embed independent auditors across its operations. The common thread is the rising demand for scrutiny and transparency as AI becomes embedded in infrastructure, markets, and safety.</description>
