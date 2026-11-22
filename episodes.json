@@ -950,5 +950,13 @@
     "pub_date": "2026-11-21T17:02:40.323017+00:00",
     "duration_seconds": 374,
     "size_bytes": 2999948
+  },
+  {
+    "filename": "2026-11-22.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Sunday, November 22, 2026",
+    "description": "A weekend edition built around a single big idea from The Deep View: with AI agents now booking, shopping, and logging in on people's behalf, up to half of web traffic may not be human, and the old human-versus-bot defenses like CAPTCHAs no longer work. In partnership with Fingerprint, it explores detecting and identifying agents, the Web Bot Auth signing standard, and a trust-based model that labels visitors as signed, verified, unknown, or spoofed rather than blocking everyone.",
+    "pub_date": "2026-11-22T17:02:52.796782+00:00",
+    "duration_seconds": 355,
+    "size_bytes": 2848460
   }
 ]
