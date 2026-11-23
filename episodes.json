@@ -958,5 +958,13 @@
     "pub_date": "2026-11-22T17:02:52.796782+00:00",
     "duration_seconds": 355,
     "size_bytes": 2848460
+  },
+  {
+    "filename": "2026-11-23.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Monday, November 23, 2026",
+    "description": "Today's episode digs into AI from several angles: President Trump's proposed tax on US companies building AI data centers abroad and what it could mean for the billions already committed overseas by Google, Microsoft, and Amazon. It also covers a hands-on review of Apple's new OLED MacBook Pro as a top machine for running AI locally, plus Chargebee CEO Krish Subramanian's argument that surviving the AI era requires reinventing SaaS companies, not just bolting on features. A closing lightning round touches on Anthropic's expanded IPO, abuse allegations against Nvidia's Jensen Huang, Signal's new screenshot restrictions, and more.",
+    "pub_date": "2026-11-23T17:02:55.922623+00:00",
+    "duration_seconds": 435,
+    "size_bytes": 3483596
   }
 ]
