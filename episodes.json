@@ -966,5 +966,13 @@
     "pub_date": "2026-11-23T17:02:55.922623+00:00",
     "duration_seconds": 435,
     "size_bytes": 3483596
+  },
+  {
+    "filename": "2026-11-24.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Tuesday, November 24, 2026",
+    "description": "Jensen Huang returns as Nvidia CEO after political pressure from Trump and Vance, triggering a massive tech stock rally and renewed questions about whether the company's valuation rests on a cult of personality. We then unpack the new ShellBench benchmark, which finds that even top AI agents fail roughly four in ten everyday workplace tasks. Finally, a writer puts AI to the test by handing her entire Thanksgiving grocery run to ChatGPT and an Instacart plugin.",
+    "pub_date": "2026-11-24T17:03:35.067689+00:00",
+    "duration_seconds": 608,
+    "size_bytes": 4865996
   }
 ]
