@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:03:17 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Wednesday, November 25, 2026</title>
+      <description>Today's episode explores the economics and human dynamics of AI at work. We cover new Anthropic research arguing that AI delivers the biggest gains by amplifying existing employees rather than cutting headcount, Amazon's launch of Strands Decider v2 in the fast-growing race for cheaper "decision models" that power AI agents, and Wispr Flow's new Canto-two voice model that improves dictation of names and jargon.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-25.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-25.mp3" length="4450700" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Nov 2026 17:03:17 +0000</pubDate>
+      <itunes:duration>9:16</itunes:duration>
+      <itunes:summary>Today's episode explores the economics and human dynamics of AI at work. We cover new Anthropic research arguing that AI delivers the biggest gains by amplifying existing employees rather than cutting headcount, Amazon's launch of Strands Decider v2 in the fast-growing race for cheaper "decision models" that power AI agents, and Wispr Flow's new Canto-two voice model that improves dictation of names and jargon.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Tuesday, November 24, 2026</title>
       <description>Jensen Huang returns as Nvidia CEO after political pressure from Trump and Vance, triggering a massive tech stock rally and renewed questions about whether the company's valuation rests on a cult of personality. We then unpack the new ShellBench benchmark, which finds that even top AI agents fail roughly four in ten everyday workplace tasks. Finally, a writer puts AI to the test by handing her entire Thanksgiving grocery run to ChatGPT and an Instacart plugin.</description>

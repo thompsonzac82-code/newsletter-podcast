@@ -974,5 +974,13 @@
     "pub_date": "2026-11-24T17:03:35.067689+00:00",
     "duration_seconds": 608,
     "size_bytes": 4865996
+  },
+  {
+    "filename": "2026-11-25.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Wednesday, November 25, 2026",
+    "description": "Today's episode explores the economics and human dynamics of AI at work. We cover new Anthropic research arguing that AI delivers the biggest gains by amplifying existing employees rather than cutting headcount, Amazon's launch of Strands Decider v2 in the fast-growing race for cheaper \"decision models\" that power AI agents, and Wispr Flow's new Canto-two voice model that improves dictation of names and jargon.",
+    "pub_date": "2026-11-25T17:03:17.888937+00:00",
+    "duration_seconds": 556,
+    "size_bytes": 4450700
   }
 ]
