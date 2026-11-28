@@ -13,12 +13,21 @@
       <link>https://thompsonzac82-code.github.io/newsletter-podcast</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:01:45 +0000</lastBuildDate>
     <itunes:author>Newsletter Podcast Agent</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://thompsonzac82-code.github.io/newsletter-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Your email newsletters, read to you. Every weekday this show gathers the newsletters from your inbox, weaves them into a single flowing narration, and delivers one easy-to-listen digest of the day's stories — so you can catch up on the go instead of scrolling through email.</itunes:summary>
+    <item>
+      <title>My Daily Newsletter Digest — Saturday, November 28, 2026</title>
+      <description>A lighter weekend edition built around a single newsletter from The Deep View, exploring how to treat AI and hiring as one combined decision rather than two separate ones. It covers Jason Hiner's argument for why finance is the ideal place to test automation, along with a practical framework for comparing the full cost of hiring versus outsourcing versus AI and demanding measured results before changing a staffing plan.</description>
+      <guid isPermaLink="false">https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-28.mp3</guid>
+      <enclosure url="https://thompsonzac82-code.github.io/newsletter-podcast/episodes/2026-11-28.mp3" length="2006924" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Nov 2026 17:01:45 +0000</pubDate>
+      <itunes:duration>4:10</itunes:duration>
+      <itunes:summary>A lighter weekend edition built around a single newsletter from The Deep View, exploring how to treat AI and hiring as one combined decision rather than two separate ones. It covers Jason Hiner's argument for why finance is the ideal place to test automation, along with a practical framework for comparing the full cost of hiring versus outsourcing versus AI and demanding measured results before changing a staffing plan.</itunes:summary>
+    </item>
     <item>
       <title>My Daily Newsletter Digest — Wednesday, November 25, 2026</title>
       <description>Today's episode explores the economics and human dynamics of AI at work. We cover new Anthropic research arguing that AI delivers the biggest gains by amplifying existing employees rather than cutting headcount, Amazon's launch of Strands Decider v2 in the fast-growing race for cheaper "decision models" that power AI agents, and Wispr Flow's new Canto-two voice model that improves dictation of names and jargon.</description>

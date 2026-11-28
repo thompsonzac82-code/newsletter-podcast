@@ -982,5 +982,13 @@
     "pub_date": "2026-11-25T17:03:17.888937+00:00",
     "duration_seconds": 556,
     "size_bytes": 4450700
+  },
+  {
+    "filename": "2026-11-28.mp3",
+    "title": "My Daily Newsletter Digest \u2014 Saturday, November 28, 2026",
+    "description": "A lighter weekend edition built around a single newsletter from The Deep View, exploring how to treat AI and hiring as one combined decision rather than two separate ones. It covers Jason Hiner's argument for why finance is the ideal place to test automation, along with a practical framework for comparing the full cost of hiring versus outsourcing versus AI and demanding measured results before changing a staffing plan.",
+    "pub_date": "2026-11-28T17:01:45.951419+00:00",
+    "duration_seconds": 250,
+    "size_bytes": 2006924
   }
 ]
